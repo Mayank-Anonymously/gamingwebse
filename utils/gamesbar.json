@@ -1,0 +1,108 @@
+[
+  {
+    "name": "Politics",
+    "icon": "icon-40",
+    "link": "#"
+  },
+  {
+    "name": "Cricket",
+    "icon": "icon-4",
+    "link": "#",
+    "active": true
+  },
+  {
+    "name": "Football",
+    "icon": "icon-1",
+    "link": "#"
+  },
+  {
+    "name": "Tennis",
+    "icon": "icon-2",
+    "link": "#"
+  },
+  {
+    "name": "Kabaddi",
+    "icon": "icon-66",
+    "link": "#"
+  },
+  {
+    "name": "Esoccer",
+    "icon": "icon-68",
+    "link": "#"
+  },
+  {
+    "name": "Horse Racing",
+    "icon": "icon-10",
+    "link": "#"
+  },
+  {
+    "name": "Greyhound Racing",
+    "icon": "icon-65",
+    "link": "#"
+  },
+  {
+    "name": "Table Tennis",
+    "icon": "icon-8",
+    "link": "#"
+  },
+  {
+    "name": "Basketball",
+    "icon": "icon-15",
+    "link": "#"
+  },
+  {
+    "name": "Boxing",
+    "icon": "icon-6",
+    "link": "#"
+  },
+  {
+    "name": "Mixed Martial Arts",
+    "icon": "icon-3",
+    "link": "#"
+  },
+  {
+    "name": "American Football",
+    "icon": "icon-58",
+    "link": "#"
+  },
+  {
+    "name": "Volleyball",
+    "icon": "icon-18",
+    "link": "#"
+  },
+  {
+    "name": "Badminton",
+    "icon": "icon-22",
+    "link": "#"
+  },
+  {
+    "name": "Snooker",
+    "icon": "icon-59",
+    "link": "#"
+  },
+  {
+    "name": "Ice Hockey",
+    "icon": "icon-19",
+    "link": "#"
+  },
+  {
+    "name": "E Games",
+    "icon": "icon-11",
+    "link": "#"
+  },
+  {
+    "name": "Futsal",
+    "icon": "icon-9",
+    "link": "#"
+  },
+  {
+    "name": "Handball",
+    "icon": "icon-39",
+    "link": "#"
+  },
+  {
+    "name": "Motor Sports",
+    "icon": "icon-52",
+    "link": "#"
+  }
+]

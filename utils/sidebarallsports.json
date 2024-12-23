@@ -1,0 +1,1387 @@
+[
+  {
+    "name": "Politics",
+    "icon": "far fa-plus-square",
+    "subcategories": [
+      {
+        "name": "Assembly Election 2024",
+        "link": "https://allpanelexch.com/game-details/40/477337554"
+      }
+    ]
+  },
+  {
+    "name": "Cricket",
+    "icon": "far fa-plus-square",
+    "subcategories": [
+      {
+        "name": "T5 XI",
+        "links": [
+          {
+            "name": "SLZ XI v BT XI",
+            "link": "https://allpanelexch.com/cricketv/4/86088044"
+          }
+        ]
+      },
+      {
+        "name": "T10 XI",
+        "links": [
+          {
+            "name": "Chennai Super Kings XI v Kolkata Knight Riders XI",
+            "link": "https://allpanelexch.com/cricketv/4/86930341"
+          }
+        ]
+      },
+      {
+        "name": "Pakistan Champions T20 Cup",
+        "links": [
+          {
+            "name": "Markhors v Lions",
+            "link": "https://allpanelexch.com/game-details/4/495113747"
+          }
+        ]
+      },
+      {
+        "name": "Womens One Day Internationals",
+        "links": [
+          {
+            "name": "India Women v West Indies Women",
+            "link": "https://allpanelexch.com/game-details/4/496411633"
+          },
+          {
+            "name": "New Zealand Women v Australia Women",
+            "link": "https://allpanelexch.com/game-details/4/865809752"
+          }
+        ]
+      },
+      {
+        "name": "Virtual Cricket League",
+        "links": [
+          {
+            "name": "Adelaide Strikers T10 v Brisbane Heat T10",
+            "link": "https://allpanelexch.com/virtual-cricket/4/647788818"
+          },
+          {
+            "name": "Bangladesh T10 v New Zealand T10",
+            "link": "https://allpanelexch.com/virtual-cricket/4/895026767"
+          },
+          {
+            "name": "Delhi Capitals T10 v Kolkata Knight Riders T10",
+            "link": "https://allpanelexch.com/virtual-cricket/4/798844733"
+          },
+          {
+            "name": "England T10 v Australia T10",
+            "link": "https://allpanelexch.com/virtual-cricket/4/565065532"
+          },
+          {
+            "name": "Lucknow Super T10 v Royal Challengers T10",
+            "link": "https://allpanelexch.com/virtual-cricket/4/594462836"
+          },
+          {
+            "name": "New Zealand T10 v Sri Lanka T10",
+            "link": "https://allpanelexch.com/virtual-cricket/4/622394329"
+          }
+        ]
+      },
+      {
+        "name": "Test Matches",
+        "links": [
+          {
+            "name": "Australia v India",
+            "link": "https://allpanelexch.com/game-details/4/578112323"
+          },
+          {
+            "name": "South Africa v Pakistan",
+            "link": "https://allpanelexch.com/game-details/4/673235885"
+          },
+          {
+            "name": "Zimbabwe v Afghanistan",
+            "link": "https://allpanelexch.com/game-details/4/599510711"
+          }
+        ]
+      },
+      {
+        "name": "Twenty20 Big Bash",
+        "links": [
+          {
+            "name": "Twenty20 Big Bash",
+            "link": "https://allpanelexch.com/game-details/4/603706836"
+          },
+          {
+            "name": "Melbourne Renegades v Perth Scorchers",
+            "link": "https://allpanelexch.com/game-details/4/921890659"
+          }
+        ]
+      },
+      {
+        "name": "One Day Internationals",
+        "links": [
+          {
+            "name": "South Africa v Pakistan",
+            "link": "https://allpanelexch.com/game-details/4/735673718"
+          }
+        ]
+      },
+      {
+        "name": "Testing Game",
+        "links": [
+          {
+            "name": "Test A v Test B",
+            "link": "https://allpanelexch.com/game-details/4/776577182"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Football",
+    "subcategories": [
+      {
+        "name": "TURKEY Super Lig",
+        "links": [
+          {
+            "name": "Gaziantep FK v Antalyaspor",
+            "link": "https://allpanelexch.com/game-details/1/473292685"
+          },
+          {
+            "name": "Goztepe v Rizespor",
+            "link": "https://allpanelexch.com/game-details/1/526852922"
+          },
+          {
+            "name": "Kayserispor v Galatasaray",
+            "link": "https://allpanelexch.com/game-details/1/888951282"
+          },
+          {
+            "name": "Trabzonspor v Bodrum Belediyesi Bodrumspor",
+            "link": "https://allpanelexch.com/game-details/1/756802298"
+          }
+        ]
+      },
+      {
+        "name": "SPAIN Tercera RFEF",
+        "links": [
+          {
+            "name": "AD Cala Pozuelo - CD Galapagar",
+            "link": "https://allpanelexch.com/game-details/1/649189279"
+          },
+          {
+            "name": "AD Torrejon CF - Alcorcon B",
+            "link": "https://allpanelexch.com/game-details/1/830429534"
+          },
+          {
+            "name": "Carabanchel - Mexico FC",
+            "link": "https://allpanelexch.com/game-details/1/563831293"
+          },
+          {
+            "name": "Huesca II - Zuera",
+            "link": "https://allpanelexch.com/game-details/1/628260686"
+          },
+          {
+            "name": "LHospitalet - Girona B",
+            "link": "https://allpanelexch.com/game-details/1/559016988"
+          },
+          {
+            "name": "Olivenza FC - CD Santa Amalia",
+            "link": "https://allpanelexch.com/game-details/1/859147672"
+          },
+          {
+            "name": "Portugalete - AD San Viator",
+            "link": "https://allpanelexch.com/game-details/1/713986756"
+          },
+          {
+            "name": "Rayo Vallecano B - Las Rozas",
+            "link": "https://allpanelexch.com/game-details/1/606436333"
+          },
+          {
+            "name": "Real Murcia Imperial - Deportivo Maritimo",
+            "link": "https://allpanelexch.com/game-details/1/794249996"
+          },
+          {
+            "name": "UD San Fernando - Buzanada",
+            "link": "https://allpanelexch.com/game-details/1/626188557"
+          },
+          {
+            "name": "UE Tona - Reus FC Reddis",
+            "link": "https://allpanelexch.com/game-details/1/528508773"
+          },
+          {
+            "name": "Union Molinense - Cartagena II",
+            "link": "https://allpanelexch.com/game-details/1/483396931"
+          },
+          {
+            "name": "Villalonga FC - RC Celta C Gran Pena",
+            "link": "https://allpanelexch.com/game-details/1/786735768"
+          }
+        ]
+      },
+      {
+        "name": "MOROCCO Botola Pro",
+        "links": [
+          {
+            "name": "FAR Rabat v HUSA Agadir",
+            "link": "https://allpanelexch.com/game-details/1/904234362"
+          },
+          {
+            "name": "Olympic Safi v Union de Touarga",
+            "link": "https://allpanelexch.com/game-details/1/488114623"
+          },
+          {
+            "name": "Raja Casablanca v SCCM Chabab Mohamedia",
+            "link": "https://allpanelexch.com/game-details/1/835168608"
+          },
+          {
+            "name": "RSB Berkane v MAS Maghrib A Fes",
+            "link": "https://allpanelexch.com/game-details/1/484198425"
+          }
+        ]
+      },
+      {
+        "name": "ITALY Serie C",
+        "links": [
+          {
+            "name": "A.C. Trento S.C.S.D. v Padova",
+            "link": "https://allpanelexch.com/game-details/1/523377500"
+          },
+          {
+            "name": "AC Milan B v Entella",
+            "link": "https://allpanelexch.com/game-details/1/483085670"
+          },
+          {
+            "name": "ASD Calcio Caldiero Terme v Albinoleffe",
+            "link": "https://allpanelexch.com/game-details/1/914900041"
+          },
+          {
+            "name": "Calcio Avellino SSD v AZ Picerno ASD",
+            "link": "https://allpanelexch.com/game-details/1/891625902"
+          },
+          {
+            "name": "Catania v Sorrento",
+            "link": "https://allpanelexch.com/game-details/1/629651498"
+          },
+          {
+            "name": "Giana Erminio v LR Vicenza Virtus",
+            "link": "https://allpanelexch.com/game-details/1/481349292"
+          },
+          {
+            "name": "Nuovo Campobasso v Arezzo",
+            "link": "https://allpanelexch.com/game-details/1/695936595"
+          },
+          {
+            "name": "Pergolettese v Pro Vercelli",
+            "link": "https://allpanelexch.com/game-details/1/468870503"
+          },
+          {
+            "name": "Perugia v US Pianese",
+            "link": "https://allpanelexch.com/game-details/1/577986269"
+          },
+          {
+            "name": "Pesaro v Sassari Torres",
+            "link": "https://allpanelexch.com/game-details/1/620476466"
+          },
+          {
+            "name": "Pescara v Ternana",
+            "link": "https://allpanelexch.com/game-details/1/721333225"
+          },
+          {
+            "name": "Potenza v ACR Messina",
+            "link": "https://allpanelexch.com/game-details/1/789038552"
+          },
+          {
+            "name": "Rimini v Carpi",
+            "link": "https://allpanelexch.com/game-details/1/807249394"
+          }
+        ]
+      },
+      {
+        "name": "ITALY Serie B",
+        "links": [
+          {
+            "name": "Juve Stabia v Cesena",
+            "link": "https://allpanelexch.com/game-details/1/486734947"
+          },
+          {
+            "name": "US Cremonese v Sampdoria",
+            "link": "https://allpanelexch.com/game-details/1/518653976"
+          }
+        ]
+      },
+      {
+        "name": "THAILAND U23 League",
+        "links": [
+          {
+            "name": "Pattaya United U23 - Rayong U23",
+            "link": "https://allpanelexch.com/game-details/1/783552469"
+          },
+          {
+            "name": "Port Fc U23 - Chonburi U23",
+            "link": "https://allpanelexch.com/game-details/1/495798523"
+          },
+          {
+            "name": "Suphanburi U23 - Bangkok United U23",
+            "link": "https://allpanelexch.com/game-details/1/780610524"
+          }
+        ]
+      },
+      {
+        "name": "KENYA Super League",
+        "links": [
+          {
+            "name": "Samwest Blackboots Fc - Naivas",
+            "link": "https://allpanelexch.com/game-details/1/497732003"
+          }
+        ]
+      },
+      {
+        "name": "NETHERLANDS Eerste Divisie",
+        "links": [
+          {
+            "name": "ADO Den Haag v FC Oss",
+            "link": "https://allpanelexch.com/game-details/1/753616705"
+          },
+          {
+            "name": "FC Volendam v De Graafschap",
+            "link": "https://allpanelexch.com/game-details/1/533146230"
+          },
+          {
+            "name": "MVV Maastricht v SC Telstar",
+            "link": "https://allpanelexch.com/game-details/1/498876504"
+          }
+        ]
+      },
+      {
+        "name": "GERMANY Bundesliga",
+        "links": [
+          {
+            "name": "Bochum v FC Heidenheim",
+            "link": "https://allpanelexch.com/game-details/1/692024471"
+          },
+          {
+            "name": "Wolfsburg v Dortmund",
+            "link": "https://allpanelexch.com/game-details/1/500896805"
+          }
+        ]
+      },
+      {
+        "name": "THAILAND Division 3 Cup",
+        "links": [
+          {
+            "name": "Customs United - Cha Choeng Sao",
+            "link": "https://allpanelexch.com/game-details/1/770789461"
+          },
+          {
+            "name": "Kasem Bundit University FC - Ang Thong",
+            "link": "https://allpanelexch.com/game-details/1/618394927"
+          },
+          {
+            "name": "Padriew City - Bankhai United",
+            "link": "https://allpanelexch.com/game-details/1/584354927"
+          },
+          {
+            "name": "Pathumthani University - Prime Bangkok",
+            "link": "https://allpanelexch.com/game-details/1/705303078"
+          },
+          {
+            "name": "Pluak Daeng United - ACDC FC",
+            "link": "https://allpanelexch.com/game-details/1/651132219"
+          },
+          {
+            "name": "Saimit Kabin United - Royal Thai Fleet FC",
+            "link": "https://allpanelexch.com/game-details/1/572098556"
+          },
+          {
+            "name": "Saraburi United - North Bangkok University",
+            "link": "https://allpanelexch.com/game-details/1/504512876"
+          }
+        ]
+      },
+      {
+        "name": "MEXICO LIGA PREMIER SERIE A -FINAL",
+        "links": [
+          {
+            "name": "Aguacateros de Periban F.C v Deportivo Irapuato FC",
+            "link": "https://allpanelexch.com/game-details/1/509830114"
+          }
+        ]
+      },
+      {
+        "name": "TURKEY 1 Ligi Women",
+        "links": [
+          {
+            "name": "Megapol W - Kayseri Genclerbirligi W",
+            "link": "https://allpanelexch.com/game-details/1/518183515"
+          }
+        ]
+      },
+      {
+        "name": "NETHERLANDS Eredivisie",
+        "links": [
+          {
+            "name": "FC Utrecht v Fortuna Sittard",
+            "link": "https://allpanelexch.com/game-details/1/921013966"
+          },
+          {
+            "name": "Heracles v FC Groningen",
+            "link": "https://allpanelexch.com/game-details/1/521117537"
+          },
+          {
+            "name": "PSV v Feyenoord",
+            "link": "https://allpanelexch.com/game-details/1/864461885"
+          },
+          {
+            "name": "Sparta Rotterdam v Ajax",
+            "link": "https://allpanelexch.com/game-details/1/726680113"
+          },
+          {
+            "name": "Willem II v NEC Nijmegen",
+            "link": "https://allpanelexch.com/game-details/1/718889965"
+          }
+        ]
+      },
+      {
+        "name": "GERMANY 2. Bundesliga",
+        "links": [
+          {
+            "name": "Hannover v Hertha Berlin",
+            "link": "https://allpanelexch.com/game-details/1/521855258"
+          },
+          {
+            "name": "Jahn Regensburg v SV Darmstadt",
+            "link": "https://allpanelexch.com/game-details/1/833122553"
+          },
+          {
+            "name": "Kaiserslautern v FC Koln",
+            "link": "https://allpanelexch.com/game-details/1/550794805"
+          }
+        ]
+      },
+      {
+        "name": "VIETNAM U19 Championship",
+        "links": [
+          {
+            "name": "Becamex Binh Duong U19 - Sanatech Khanh Hoa U19",
+            "link": "https://allpanelexch.com/game-details/1/655460559"
+          },
+          {
+            "name": "Can Tho U19 - Dong Nai U19",
+            "link": "https://allpanelexch.com/game-details/1/887461435"
+          },
+          {
+            "name": "Hoang Anh Gia Lai U19 - Hong Linh Ha Tinh U19",
+            "link": "https://allpanelexch.com/game-details/1/522276981"
+          },
+          {
+            "name": "Phu Dong Ninh Binh U19 - Hai Nam Vinh Phuc U19",
+            "link": "https://allpanelexch.com/game-details/1/831659092"
+          },
+          {
+            "name": "PVF Vietnam U19 - Hoai Duc U19",
+            "link": "https://allpanelexch.com/game-details/1/738796603"
+          },
+          {
+            "name": "SLNA U19 - Hanoi Police U19",
+            "link": "https://allpanelexch.com/game-details/1/744648970"
+          }
+        ]
+      },
+      {
+        "name": "SERBIA Super Liga",
+        "links": [
+          {
+            "name": "Crvena Zvezda v Cukaricki",
+            "link": "https://allpanelexch.com/game-details/1/536861560"
+          },
+          {
+            "name": "FK Jedinstvo Ub v Tekstilac Odzaci",
+            "link": "https://allpanelexch.com/game-details/1/883268708"
+          },
+          {
+            "name": "FK Spartak v FK Napredak",
+            "link": "https://allpanelexch.com/game-details/1/522677004"
+          }
+        ]
+      },
+      {
+        "name": "JAMAICA Premier League",
+        "links": [
+          {
+            "name": "Cavalier v Humble Lions",
+            "link": "https://allpanelexch.com/game-details/1/535336807"
+          },
+          {
+            "name": "Chapelton v Harbour View FC",
+            "link": "https://allpanelexch.com/game-details/1/695227029"
+          },
+          {
+            "name": "Dunbeholden FC v Arnett Gardens FC",
+            "link": "https://allpanelexch.com/game-details/1/549103102"
+          },
+          {
+            "name": "Molynes United FC v Tivoli Gardens",
+            "link": "https://allpanelexch.com/game-details/1/812099239"
+          },
+          {
+            "name": "Mount Pleasant FC v Portmore Utd",
+            "link": "https://allpanelexch.com/game-details/1/644928041"
+          },
+          {
+            "name": "Racing United FC v Waterhouse FC",
+            "link": "https://allpanelexch.com/game-details/1/644465281"
+          }
+        ]
+      },
+      {
+        "name": "CYPRUS Women Division 1",
+        "links": [
+          {
+            "name": "EN THOI Lakatamia W - Omonia Nicosia W",
+            "link": "https://allpanelexch.com/game-details/1/535523566"
+          }
+        ]
+      },
+      {
+        "name": "GREECE Division A Women",
+        "links": [
+          {
+            "name": "Kastoria GPO W - Panathinaikos W",
+            "link": "https://allpanelexch.com/game-details/1/640259369"
+          },
+          {
+            "name": "Nees Atromitou W - Doxa Dramas W",
+            "link": "https://allpanelexch.com/game-details/1/535988978"
+          },
+          {
+            "name": "OFI W - AEK Athens FC W",
+            "link": "https://allpanelexch.com/game-details/1/823960369"
+          }
+        ]
+      },
+      {
+        "name": "KENYA Premier League",
+        "links": [
+          {
+            "name": "FC Talanta v Muranga Seal",
+            "link": "https://allpanelexch.com/game-details/1/665030878"
+          },
+          {
+            "name": "Ulinzi Stars v Nairobi City Stars",
+            "link": "https://allpanelexch.com/game-details/1/538508276"
+          }
+        ]
+      },
+      {
+        "name": "ASIA Arabian Gulf Cup",
+        "links": [
+          {
+            "name": "Iraq v Yemen",
+            "link": "https://allpanelexch.com/game-details/1/544127585"
+          },
+          {
+            "name": "Saudi Arabia v Bahrain",
+            "link": "https://allpanelexch.com/game-details/1/803179275"
+          }
+        ]
+      },
+      {
+        "name": "SPAIN LaLiga2",
+        "links": [
+          {
+            "name": "Almeria v Cadiz",
+            "link": "https://allpanelexch.com/game-details/1/643624924"
+          },
+          {
+            "name": "Burgos v Tenerife",
+            "link": "https://allpanelexch.com/game-details/1/903560808"
+          },
+          {
+            "name": "CD Castellon v Elche",
+            "link": "https://allpanelexch.com/game-details/1/780158808"
+          },
+          {
+            "name": "Deportivo v Mirandes",
+            "link": "https://allpanelexch.com/game-details/1/546656165"
+          },
+          {
+            "name": "Levante v Huesca",
+            "link": "https://allpanelexch.com/game-details/1/791677636"
+          },
+          {
+            "name": "Racing Santander v Eldense",
+            "link": "https://allpanelexch.com/game-details/1/863683026"
+          }
+        ]
+      },
+      {
+        "name": "GERMANY 3. Liga",
+        "links": [
+          {
+            "name": "Hansa Rostock v Hannover II",
+            "link": "https://allpanelexch.com/game-details/1/553824938"
+          },
+          {
+            "name": "Verl v VfL Osnabruck",
+            "link": "https://allpanelexch.com/game-details/1/901654256"
+          },
+          {
+            "name": "Waldhof Mannheim v Arminia Bielefeld",
+            "link": "https://allpanelexch.com/game-details/1/854812338"
+          }
+        ]
+      },
+      {
+        "name": "ENGLAND Championship",
+        "links": [
+          {
+            "name": "West Brom v Bristol City",
+            "link": "https://allpanelexch.com/game-details/1/556513399"
+          }
+        ]
+      },
+      {
+        "name": "CROATIA HNL",
+        "links": [
+          {
+            "name": "Dinamo Zagreb v Varazdin",
+            "link": "https://allpanelexch.com/game-details/1/814569319"
+          },
+          {
+            "name": "Rijeka v Slaven Belupo",
+            "link": "https://allpanelexch.com/game-details/1/566338178"
+          },
+          {
+            "name": "Sibenik v Hajduk Split",
+            "link": "https://allpanelexch.com/game-details/1/558476808"
+          }
+        ]
+      },
+      {
+        "name": "KENYA League Women",
+        "links": [
+          {
+            "name": "Kisped Queens W - Kisumu All Starlets W",
+            "link": "https://allpanelexch.com/game-details/1/565329394"
+          },
+          {
+            "name": "Vihiga Queens FC W - Wadadia W",
+            "link": "https://allpanelexch.com/game-details/1/883095765"
+          }
+        ]
+      },
+      {
+        "name": "TURKEY 1. Lig",
+        "links": [
+          {
+            "name": "Boluspor v Kocaelispor",
+            "link": "https://allpanelexch.com/game-details/1/858889939"
+          },
+          {
+            "name": "Corum Belediyespor v Ankaragucu",
+            "link": "https://allpanelexch.com/game-details/1/782059340"
+          },
+          {
+            "name": "Erokspor A.S v Bandirmaspor",
+            "link": "https://allpanelexch.com/game-details/1/567255544"
+          },
+          {
+            "name": "Keciorengucu v Fatih Karagumruk Istanbul",
+            "link": "https://allpanelexch.com/game-details/1/784093000"
+          }
+        ]
+      },
+      {
+        "name": "PORTUGAL Liga Portugal 2",
+        "links": [
+          {
+            "name": "Benfica B v Felgueiras",
+            "link": "https://allpanelexch.com/game-details/1/627042481"
+          },
+          {
+            "name": "Oliveirense v Leiria",
+            "link": "https://allpanelexch.com/game-details/1/687561459"
+          },
+          {
+            "name": "Pacos Ferreira v Alverca",
+            "link": "https://allpanelexch.com/game-details/1/589307845"
+          },
+          {
+            "name": "Torreense v Penafiel",
+            "link": "https://allpanelexch.com/game-details/1/570013104"
+          }
+        ]
+      },
+      {
+        "name": "HONG KONG 1st Division",
+        "links": [
+          {
+            "name": "Central and Western - Yuen Long",
+            "link": "https://allpanelexch.com/game-details/1/842096462"
+          },
+          {
+            "name": "Resources Capital - 3 Sing FC",
+            "link": "https://allpanelexch.com/game-details/1/634326158"
+          },
+          {
+            "name": "Tuen Mun SA - South China",
+            "link": "https://allpanelexch.com/game-details/1/574022740"
+          }
+        ]
+      },
+      {
+        "name": "GREECE Super League",
+        "links": [
+          {
+            "name": "AEK Athens v Levadiakos",
+            "link": "https://allpanelexch.com/game-details/1/816429553"
+          },
+          {
+            "name": "Panathinaikos v Kallithea",
+            "link": "https://allpanelexch.com/game-details/1/581797828"
+          },
+          {
+            "name": "Panserraikos v Panaitolikos",
+            "link": "https://allpanelexch.com/game-details/1/738535871"
+          },
+          {
+            "name": "PAOK v Atromitos",
+            "link": "https://allpanelexch.com/game-details/1/765829117"
+          }
+        ]
+      },
+      {
+        "name": "GREECE Super League 2",
+        "links": [
+          {
+            "name": "Athlitiki Enosi Larissa v Niki Volou",
+            "link": "https://allpanelexch.com/game-details/1/843684830"
+          },
+          {
+            "name": "Ilioupoli v Kifisias FC",
+            "link": "https://allpanelexch.com/game-details/1/690961760"
+          },
+          {
+            "name": "Panachaiki v Kalamata",
+            "link": "https://allpanelexch.com/game-details/1/599595095"
+          },
+          {
+            "name": "Panargiakos v Asteras Tripolis II",
+            "link": "https://allpanelexch.com/game-details/1/587095577"
+          }
+        ]
+      },
+      {
+        "name": "ENGLAND Premier League",
+        "links": [
+          {
+            "name": "Everton v Chelsea",
+            "link": "https://allpanelexch.com/game-details/1/837298932"
+          },
+          {
+            "name": "Fulham v Southampton",
+            "link": "https://allpanelexch.com/game-details/1/587838264"
+          },
+          {
+            "name": "Leicester v Wolves",
+            "link": "https://allpanelexch.com/game-details/1/830331169"
+          },
+          {
+            "name": "Man Utd v Bournemouth",
+            "link": "https://allpanelexch.com/game-details/1/642987312"
+          },
+          {
+            "name": "Tottenham v Liverpool",
+            "link": "https://allpanelexch.com/game-details/1/820355247"
+          }
+        ]
+      },
+      {
+        "name": "SPAIN LaLiga",
+        "links": [
+          {
+            "name": "Betis v Rayo Vallecano",
+            "link": "https://allpanelexch.com/game-details/1/917254911"
+          },
+          {
+            "name": "Las Palmas v Espanyol",
+            "link": "https://allpanelexch.com/game-details/1/588897151"
+          },
+          {
+            "name": "Leganes v Villarreal",
+            "link": "https://allpanelexch.com/game-details/1/778979105"
+          },
+          {
+            "name": "Real Madrid v Sevilla",
+            "link": "https://allpanelexch.com/game-details/1/688400742"
+          },
+          {
+            "name": "Valencia v Alaves",
+            "link": "https://allpanelexch.com/game-details/1/859935223"
+          }
+        ]
+      },
+      {
+        "name": "ITALY Primavera 1",
+        "links": [
+          {
+            "name": "Lazio U20 - US Sassuolo Calcio U20",
+            "link": "https://allpanelexch.com/game-details/1/590085387"
+          },
+          {
+            "name": "Sampdoria U20 - Lecce U20",
+            "link": "https://allpanelexch.com/game-details/1/912911077"
+          },
+          {
+            "name": "Udinese Calcio U20 - Cesena FC U20",
+            "link": "https://allpanelexch.com/game-details/1/615161988"
+          }
+        ]
+      },
+      {
+        "name": "AFRICA African Nations Championship",
+        "links": [
+          {
+            "name": "Ghana v Nigeria",
+            "link": "https://allpanelexch.com/game-details/1/595491242"
+          },
+          {
+            "name": "Togo v Niger",
+            "link": "https://allpanelexch.com/game-details/1/789211353"
+          }
+        ]
+      },
+      {
+        "name": "HONG KONG Premier League",
+        "links": [
+          {
+            "name": "Hong Kong FC - Southern District",
+            "link": "https://allpanelexch.com/game-details/1/604419929"
+          }
+        ]
+      },
+      {
+        "name": "BOLIVIA Division Profesional",
+        "links": [
+          {
+            "name": "San Antonio FC v Bolivar",
+            "link": "https://allpanelexch.com/game-details/1/610560324"
+          }
+        ]
+      },
+      {
+        "name": "FRANCE Coupe de France",
+        "links": [
+          {
+            "name": "Auxerre v Dunkerque",
+            "link": "https://allpanelexch.com/game-details/1/804068917"
+          },
+          {
+            "name": "Bobigny AC v Angers",
+            "link": "https://allpanelexch.com/game-details/1/798399387"
+          },
+          {
+            "name": "Bordeaux v Rennes",
+            "link": "https://allpanelexch.com/game-details/1/617731726"
+          },
+          {
+            "name": "Guingamp v Caen",
+            "link": "https://allpanelexch.com/game-details/1/910468157"
+          },
+          {
+            "name": "L Union St Jean v Monaco",
+            "link": "https://allpanelexch.com/game-details/1/812881343"
+          },
+          {
+            "name": "Lens v Paris St-G",
+            "link": "https://allpanelexch.com/game-details/1/804461449"
+          },
+          {
+            "name": "Mutzig v Reims",
+            "link": "https://allpanelexch.com/game-details/1/687821652"
+          },
+          {
+            "name": "Saint Philbert Gd Lieu v Quevilly Rouen",
+            "link": "https://allpanelexch.com/game-details/1/836349735"
+          },
+          {
+            "name": "Sochaux v Clermont",
+            "link": "https://allpanelexch.com/game-details/1/669128669"
+          },
+          {
+            "name": "St Etienne v Marseille",
+            "link": "https://allpanelexch.com/game-details/1/774865109"
+          },
+          {
+            "name": "Tours v Lorient",
+            "link": "https://allpanelexch.com/game-details/1/922318027"
+          },
+          {
+            "name": "US Thionville Lusitanos v Valenciennes",
+            "link": "https://allpanelexch.com/game-details/1/777446690"
+          }
+        ]
+      },
+      {
+        "name": "INDIA ISL",
+        "links": [
+          {
+            "name": "Kerala Blasters FC v Mohammedan SC",
+            "link": "https://allpanelexch.com/game-details/1/626123891"
+          }
+        ]
+      },
+      {
+        "name": "GREECE Super League U19",
+        "links": [
+          {
+            "name": "Levadiakos U19 - Volos U19",
+            "link": "https://allpanelexch.com/game-details/1/657561030"
+          },
+          {
+            "name": "Panseraikos U19 - Atromitos Athens FC U19",
+            "link": "https://allpanelexch.com/game-details/1/650471436"
+          }
+        ]
+      },
+      {
+        "name": "TURKEY Amateur League",
+        "links": [
+          {
+            "name": "Kahramanlar - Genclik Ve Spor",
+            "link": "https://allpanelexch.com/game-details/1/844707165"
+          }
+        ]
+      },
+      {
+        "name": "PORTUGAL Liga Portugal",
+        "links": [
+          {
+            "name": "Gil Vicente v Sporting Lisbon",
+            "link": "https://allpanelexch.com/game-details/1/887206772"
+          },
+          {
+            "name": "Santa Clara v Braga",
+            "link": "https://allpanelexch.com/game-details/1/855778177"
+          }
+        ]
+      },
+      {
+        "name": "AUSTRALIA A-League",
+        "links": [
+          {
+            "name": "Macarthur FC v Central Coast Mariners",
+            "link": "https://allpanelexch.com/game-details/1/856424417"
+          }
+        ]
+      },
+      {
+        "name": "COLOMBIA PRIMERA A - FINAL",
+        "links": [
+          {
+            "name": "Atletico Nacional Medellin v Tolima",
+            "link": "https://allpanelexch.com/game-details/1/863957892"
+          }
+        ]
+      },
+      {
+        "name": "HONDURAS LIGA NACIONAL - FINAL",
+        "links": [
+          {
+            "name": "CD Olimpia v CD Motagua",
+            "link": "https://allpanelexch.com/game-details/1/909835788"
+          }
+        ]
+      },
+      {
+        "name": "AFRICA CAF Champions League",
+        "links": [
+          {
+            "name": "Al Ahly Cairo v Belouizdad",
+            "link": "https://allpanelexch.com/game-details/1/914770505"
+          }
+        ]
+      },
+      {
+        "name": "ETHIOPIA Premier League Women",
+        "links": [
+          {
+            "name": "Dire Dawa W - Ethio Electric Fc W",
+            "link": "https://allpanelexch.com/game-details/1/920515036"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Tennis",
+    "icon": "far fa-plus-square",
+    "subcategories": [
+      {
+        "name": "Virtual Tennis",
+        "links": [
+          {
+            "name": "Alexander Zverev v Sebastian Baez",
+            "link": "https://allpanelexch.com/virtual-cricket/2/493479144"
+          },
+          {
+            "name": "Christopher Eubanks v Zizou Bergs",
+            "link": "https://allpanelexch.com/virtual-cricket/2/507417954"
+          },
+          {
+            "name": "Elisabetta Cocciaretto v Sloane Stephens",
+            "link": "https://allpanelexch.com/virtual-cricket/2/789667549"
+          },
+          {
+            "name": "Jasmine Paolini v Ons Jabeur",
+            "link": "https://allpanelexch.com/virtual-cricket/2/808603577"
+          }
+        ]
+      },
+      {
+        "name": "ITF MEN - SINGLES M15 Bali 2 (Indonesia)",
+        "links": [
+          {
+            "name": "Abel Forger - Chen Dong",
+            "link": "https://allpanelexch.com/game-details/2/497871706"
+          },
+          {
+            "name": "Abel Forger - Milosz Sroka",
+            "link": "https://allpanelexch.com/game-details/2/711166748"
+          },
+          {
+            "name": "Gunawan Trismuwantara - Jumpei Yamasaki",
+            "link": "https://allpanelexch.com/game-details/2/547427030"
+          },
+          {
+            "name": "Kosuke Shibano - Chase Ferguson",
+            "link": "https://allpanelexch.com/game-details/2/629143616"
+          },
+          {
+            "name": "Oh Chan Yeong - Ammar Elamin",
+            "link": "https://allpanelexch.com/game-details/2/756357452"
+          },
+          {
+            "name": "Shunsuke Nakagawa - Pavel Verbin",
+            "link": "https://allpanelexch.com/game-details/2/839122288"
+          }
+        ]
+      },
+      {
+        "name": "ITF WOMEN - DOUBLES W15 Antalya (Turkey)",
+        "links": [
+          {
+            "name": "Stefania Bojica/ Anastasia Safta - Y. Sun / X. Zhao",
+            "link": "https://allpanelexch.com/game-details/2/578647546"
+          }
+        ]
+      },
+      {
+        "name": "ITF WOMEN - SINGLES W15 ANTALYA (TURKEY)",
+        "links": [
+          {
+            "name": "Alisa Oktiabreva v Stefania Bojica",
+            "link": "https://allpanelexch.com/game-details/2/604907487"
+          }
+        ]
+      },
+      {
+        "name": "ATP - SINGLES NEXT GEN FINALS - JEDDAH (WORLD)",
+        "links": [
+          {
+            "name": "Joao Fonseca v Learner Tien",
+            "link": "https://allpanelexch.com/game-details/2/618981848"
+          }
+        ]
+      },
+      {
+        "name": "ITF MEN - SINGLES M15 Antalya (Turkey)",
+        "links": [
+          {
+            "name": "Arthur Reymond - Franco Agamenone",
+            "link": "https://allpanelexch.com/game-details/2/638686059"
+          },
+          {
+            "name": "Nikita Mashtakov - Franco Agamenone",
+            "link": "https://allpanelexch.com/game-details/2/919747968"
+          },
+          {
+            "name": "Simeon Stankovic - Arthur Reymond",
+            "link": "https://allpanelexch.com/game-details/2/779106284"
+          }
+        ]
+      },
+      {
+        "name": "ITF MEN - SINGLES M15 DOHA (QATAR) - FINAL",
+        "links": [
+          {
+            "name": "Savriyan Danilov v Arthur Gea",
+            "link": "https://allpanelexch.com/game-details/2/664087184"
+          }
+        ]
+      },
+      {
+        "name": "ITF WOMEN - SINGLES W15 Ahmedabad (India)",
+        "links": [
+          {
+            "name": "Chevika Reddy Sama - Priyanka Rodricks",
+            "link": "https://allpanelexch.com/game-details/2/734063454"
+          },
+          {
+            "name": "Shefali Arora - Niditra Rajmohan",
+            "link": "https://allpanelexch.com/game-details/2/714771983"
+          }
+        ]
+      },
+      {
+        "name": "ITF WOMEN - SINGLES W50 NAVI MUMBAI (INDIA)",
+        "links": [
+          {
+            "name": "Thasaporn Naklo v Priska Madelyn Nugroho",
+            "link": "https://allpanelexch.com/game-details/2/715302580"
+          }
+        ]
+      },
+      {
+        "name": "Testing",
+        "links": [
+          {
+            "name": "Test A v Test B",
+            "link": "https://allpanelexch.com/game-details/2/856858372"
+          }
+        ]
+      },
+      {
+        "name": "UTR PRO TENNIS SERIES OLOMOUC",
+        "links": [
+          {
+            "name": "Oleg Prihodko - Karol Filar",
+            "link": "https://allpanelexch.com/game-details/2/905970789"
+          }
+        ]
+      },
+      {
+        "name": "ITF MEN - DOUBLES M15 Antalya (Turkey)",
+        "links": [
+          {
+            "name": "Enrico Baldisserri / Manuel Mazza - Giannicola Misasi / Daniel Salazar",
+            "link": "https://allpanelexch.com/game-details/2/918021994"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Table Tennis",
+    "subcategories": [
+      {
+        "name": "CZECH Liga Pro",
+        "links": [
+          {
+            "name": "Ales Ruzicka - Jan Kodet",
+            "url": "https://allpanelexch.com/game-details/8/782504680"
+          },
+          {
+            "name": "Daniel Tuma - Lukas Malek",
+            "url": "https://allpanelexch.com/game-details/8/523958831"
+          },
+          {
+            "name": "David Kacirek - Ales Ruzicka",
+            "url": "https://allpanelexch.com/game-details/8/780001229"
+          },
+          {
+            "name": "David Kacirek - Petr Jakes",
+            "url": "https://allpanelexch.com/game-details/8/904264813"
+          },
+          {
+            "name": "David Tomasch - Trojan Frantisek",
+            "url": "https://allpanelexch.com/game-details/8/665863529"
+          },
+          {
+            "name": "Dzumurat, Valentyn - Milan Travnik",
+            "url": "https://allpanelexch.com/game-details/8/476923426"
+          },
+          {
+            "name": "Jan Kanera - Tomas Prosa",
+            "url": "https://allpanelexch.com/game-details/8/898549616"
+          },
+          {
+            "name": "Jan Kodet - David Kacirek",
+            "url": "https://allpanelexch.com/game-details/8/660315924"
+          },
+          {
+            "name": "Jan Sucharda - Martin Sobisek",
+            "url": "https://allpanelexch.com/game-details/8/647855415"
+          },
+          {
+            "name": "Jan Sucharda - Martin Sobisek",
+            "url": "https://allpanelexch.com/game-details/8/892081537"
+          },
+          {
+            "name": "Jiri Louda - Ondrej Svacha",
+            "url": "https://allpanelexch.com/game-details/8/524500729"
+          },
+          {
+            "name": "Jiri Ruzicka - Jiri Louda",
+            "url": "https://allpanelexch.com/game-details/8/474163097"
+          },
+          {
+            "name": "Jiri Skalicky - Oldrich Vrtal",
+            "url": "https://allpanelexch.com/game-details/8/759404809"
+          },
+          {
+            "name": "Kamil Kleprlik - Jiri Skalicky",
+            "url": "https://allpanelexch.com/game-details/8/496475569"
+          },
+          {
+            "name": "Kamil Kleprlik - Michal Moravec",
+            "url": "https://allpanelexch.com/game-details/8/911838822"
+          },
+          {
+            "name": "Kamil Kleprlik - Radim Urbaniec",
+            "url": "https://allpanelexch.com/game-details/8/744045314"
+          },
+          {
+            "name": "Kamil Kleprlik - Roman Hudeczek",
+            "url": "https://allpanelexch.com/game-details/8/473396399"
+          },
+          {
+            "name": "Kamil Novak - Daniel Tuma",
+            "url": "https://allpanelexch.com/game-details/8/642830761"
+          },
+          {
+            "name": "Kamil Novak - Lukas Malek",
+            "url": "https://allpanelexch.com/game-details/8/615087671"
+          },
+          {
+            "name": "Libor Jemelka - Radomir Benesz",
+            "url": "https://allpanelexch.com/game-details/8/588594206"
+          },
+          {
+            "name": "Lubos Krticka - Frantisek Briza",
+            "url": "https://allpanelexch.com/game-details/8/526030325"
+          },
+          {
+            "name": "Lubos Krticka - Milan Fisera",
+            "url": "https://allpanelexch.com/game-details/8/727371599"
+          },
+          {
+            "name": "Lukas Malek - Vinter, Tomas",
+            "url": "https://allpanelexch.com/game-details/8/782798689"
+          },
+          {
+            "name": "Lukas Tonar - Jan Sucharda",
+            "url": "https://allpanelexch.com/game-details/8/536562971"
+          },
+          {
+            "name": "Lukas Tonar - Martin Sobisek",
+            "url": "https://allpanelexch.com/game-details/8/578006561"
+          },
+          {
+            "name": "Marcel Pikous - Jan Sucharda",
+            "url": "https://allpanelexch.com/game-details/8/519450962"
+          },
+          {
+            "name": "Marcel Pikous - Martin Sobisek",
+            "url": "https://allpanelexch.com/game-details/8/678487698"
+          },
+          {
+            "name": "Marek Cejka - Miloslav Dvorak",
+            "url": "https://allpanelexch.com/game-details/8/682768401"
+          },
+          {
+            "name": "Martin Huk - Radek Rose",
+            "url": "https://allpanelexch.com/game-details/8/860530166"
+          },
+          {
+            "name": "Martin Kucera - Michal Zobac",
+            "url": "https://allpanelexch.com/game-details/8/585422646"
+          },
+          {
+            "name": "Martin Sobisek - Simon Kadavy",
+            "url": "https://allpanelexch.com/game-details/8/538655019"
+          },
+          {
+            "name": "Martin Sobisek - Tomas Holik",
+            "url": "https://allpanelexch.com/game-details/8/902930954"
+          },
+          {
+            "name": "Martin Tacinec - Martin Jonas",
+            "url": "https://allpanelexch.com/game-details/8/549749377"
+          },
+          {
+            "name": "Martin Vilhan - Pavel Kulhanek",
+            "url": "https://allpanelexch.com/game-details/8/666754082"
+          },
+          {
+            "name": "Martin Vilhan - Simunek, Chestmir",
+            "url": "https://allpanelexch.com/game-details/8/737669034"
+          },
+          {
+            "name": "Michal Moravec - Roman Hudeczek",
+            "url": "https://allpanelexch.com/game-details/8/750231616"
+          },
+          {
+            "name": "Milan Chalupnicek - Alexander Hejduk",
+            "url": "https://allpanelexch.com/game-details/8/826734195"
+          },
+          {
+            "name": "Milan Kolar - Lubos Krticka",
+            "url": "https://allpanelexch.com/game-details/8/580543733"
+          },
+          {
+            "name": "Milan Travnik - Jaroslav Dorazka",
+            "url": "https://allpanelexch.com/game-details/8/652483164"
+          },
+          {
+            "name": "Milan Travnik - Miloslav Kotil",
+            "url": "https://allpanelexch.com/game-details/8/641237121"
+          },
+          {
+            "name": "Miloslav Dvorak - Petr Svoboda",
+            "url": "https://allpanelexch.com/game-details/8/572119998"
+          },
+          {
+            "name": "Miloslav Dvorak - Radim Jaros",
+            "url": "https://allpanelexch.com/game-details/8/482234354"
+          },
+          {
+            "name": "Miloslav Kotil - Jaroslav Dorazka",
+            "url": "https://allpanelexch.com/game-details/8/910110162"
+          },
+          {
+            "name": "Oldrich Vrtal - Kamil Kleprlik",
+            "url": "https://allpanelexch.com/game-details/8/479587947"
+          },
+          {
+            "name": "Ondrej Svacha - Jiri Ruzicka",
+            "url": "https://allpanelexch.com/game-details/8/520237356"
+          },
+          {
+            "name": "Pavel Kulhanek - Simunek, Chestmir",
+            "url": "https://allpanelexch.com/game-details/8/507367043"
+          },
+          {
+            "name": "Pavel Sprynar - Martin Vilhan",
+            "url": "https://allpanelexch.com/game-details/8/667079505"
+          },
+          {
+            "name": "Petr Jakes - Ales Ruzicka",
+            "url": "https://allpanelexch.com/game-details/8/642900701"
+          },
+          {
+            "name": "Petr Jakes - Jan Kodet",
+            "url": "https://allpanelexch.com/game-details/8/915627402"
+          },
+          {
+            "name": "Petr Svoboda - Marek Cejka",
+            "url": "https://allpanelexch.com/game-details/8/642481694"
+          },
+          {
+            "name": "Radek Benes - Kamil Kleprlik",
+            "url": "https://allpanelexch.com/game-details/8/622425254"
+          },
+          {
+            "name": "Radek Rose - Frantisek Briza",
+            "url": "https://allpanelexch.com/game-details/8/722073849"
+          }
+        ]
+      }
+    ]
+  }
+]
