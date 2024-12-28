@@ -1,17 +1,11 @@
 <template>
   <div>
     <AppHeader />
-    <div class="container-fluid mx-0 my0">
-      <div class="row">
-        <div class="col-md-3">
-          <AppSidebar />
-        </div>
-        <div class="col-md-9">
-          <MainContainer />
-        </div>
-        <AppFooter />
-      </div>
+    <div class="layout">
+      <AppSidebar />
+      <MainContainer />
     </div>
+    <AppFooter />
   </div>
 </template>
 
@@ -19,7 +13,8 @@
 import AppHeader from "./components/AppHeader.vue";
 import AppFooter from "./components/AppFooter.vue";
 import AppSidebar from "./components/Sidebar.vue";
-import MainContainer from "./components/MainContainer.vue";
+// import MainContainer from "./components/MainContainer.vue";
+import MainContainer from "./components/MainTable.vue";
 
 export default {
   name: "App",
@@ -33,6 +28,9 @@ export default {
 </script>
 
 <style>
+.layout {
+  display: flex;
+}
 #inner-shadow-companion {
   font-size: 100%;
 }

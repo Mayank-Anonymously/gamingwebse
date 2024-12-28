@@ -2920,8 +2920,8 @@ tr {
 /*Home Page Design Starts*/
 
 .center-main-container {
-    width: calc(130% - 269px);
-    padding: 0 5px;
+    width: calc(100% - 200px);
+    /* padding: 0 5px; */
     display: flex;
     flex-wrap: wrap;
 }
@@ -4203,7 +4203,6 @@ tr {
 }
 
 .casino-list-item .casino-list-item-banner {
-    padding-top: 100%;
     background-size: cover;
     background-position: center center;
 }
@@ -4213,7 +4212,7 @@ tr {
     color: var(--text-primary);
     padding: 5px;
     position: absolute;
-    width: 100%;
+    /* width: 100%; */
     bottom: 0;
     text-align: center;
     text-transform: uppercase;
@@ -11078,4 +11077,12 @@ img.r-rotate {
 
 .image-download a {
     color: var(--text-primary);
+}
+
+.casino-game-list {
+    padding: 10px;
+    background: aliceblue;
+    position: relative;
+    top: -30px;
+    border-radius: 11px;
 }
