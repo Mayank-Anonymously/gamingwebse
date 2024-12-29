@@ -41,16 +41,16 @@
                 class="dropdown-menu show"
                 x-placement="bottom-end"
               >
-                <a href="/account-statement">
+                <a href="/profile/accountstatment">
                   <li class="dropdown-item">Account Statement</li>
                 </a>
-                <a href="/current-bet">
+                <a href="/profile/current-bet">
                   <li class="dropdown-item">Current Bet</li>
                 </a>
-                <a href="/casino-results">
+                <a href="/profile/casino-results">
                   <li class="dropdown-item">Casino Results</li>
                 </a>
-                <a>
+                <a href="/profile/set-button-values">
                   <li class="dropdown-item">Set Button Values</li>
                 </a>
                 <a class="d-xl-none">

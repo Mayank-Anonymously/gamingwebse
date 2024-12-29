@@ -14,8 +14,8 @@ const routes = [
   { path: "/login", component: Login },
   { path: "/home", component: Home },
   { path: "/game/game-details", component: GameDetails },
-  { path: "/profile/account-statement", component: Accountstatment },
-  { path: "/profile/current-bets", component: CurrentBet },
+  { path: "/profile/accountstatment", component: Accountstatment },
+  { path: "/profile/current-bet", component: CurrentBet },
   { path: "/profile/casino-results", component: CasinoResults },
   { path: "/profile/set-button-values", component: SetButtonValues },
 ];

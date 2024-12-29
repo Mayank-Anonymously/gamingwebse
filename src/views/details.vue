@@ -1,7 +1,7 @@
 <template>
   <div>
     <AppHeader />
-    <div class="container-fluid mx-0 my0 pad-left-0 mobile-container">
+    <div class="container-fluid mx-0 my0 pad-left-0 ">
       <div class="row">
         <div class="col-md-2">
           <AppSidebar />
