@@ -1863,7 +1863,7 @@
         height: auto;
     }
 
-    .bet-table {
+    /* .bet-table {
         padding: 5px;
     }
 
@@ -1926,7 +1926,7 @@
     .bet-nation-name .game-icons .game-icon .active {
         height: 10px;
         width: 10px;
-    }
+    } */
 
     .right-sidebar {
         display: none;

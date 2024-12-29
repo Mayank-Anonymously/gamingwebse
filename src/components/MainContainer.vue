@@ -14,7 +14,7 @@
             </a>
           </div>
         </div>
-        
+
         <ul class="nav nav-pills sports-tab">
           <li v-for="(item, index) in sportsTabs" :key="index" class="nav-item">
             <a
