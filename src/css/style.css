@@ -1594,6 +1594,9 @@ a {
 .dropdown-menu {
   background-color: var(--bg-body);
   z-index: 1001;
+  position: absolute;
+  inset: -30px -72px auto auto;
+  transform: translate3d(-0.5px, 21px, 0px);
 }
 
 .dropdown.dropdown-menu.show {
@@ -11135,6 +11138,9 @@ img.r-rotate {
     --bs-gutter-x: 0 !important; /* Reset the horizontal gutter */
     --bs-gutter-y: 0 !important; /* Reset the vertical gutter */
   }
+  .dropdown-menu {
+    inset: 0px 0px auto auto;
+  }
   /* .mobile-container {
     padding-right: 0px !important;
   } */
@@ -13671,7 +13677,7 @@ img.r-rotate {
 
 @media only screen and (min-width: 1200px) and (max-width: 1399px) {
   .left-sidebar {
-    width: 210px;
+    width: 200px;
   }
 
   .center-main-container {

@@ -31,16 +31,60 @@
             <span>Exp:</span><b class="pointer">0</b>
             <div class="dropdown">
               <a
+                @click="toggleDropdown"
                 class="user-name ms-1 ms-xl-3 d-inline-block d-xl-none dropdown-toggle"
-                id="react-aria8131644381-5"
-                aria-expanded="false"
-                >Demo<i class="fas fa-chevron-down ms-1"></i
-              ></a>
+              >
+                Demo <i class="fas fa-chevron-down ms-1"></i>
+              </a>
+              <ul
+                v-if="isDropdownOpen"
+                class="dropdown-menu show"
+                x-placement="bottom-end"
+              >
+                <a href="/account-statement">
+                  <li class="dropdown-item">Account Statement</li>
+                </a>
+                <a href="/current-bet">
+                  <li class="dropdown-item">Current Bet</li>
+                </a>
+                <a href="/casino-results">
+                  <li class="dropdown-item">Casino Results</li>
+                </a>
+                <a>
+                  <li class="dropdown-item">Set Button Values</li>
+                </a>
+                <a class="d-xl-none">
+                  <li class="dropdown-item">Rules</li>
+                </a>
+                <a class="dropdown-item d-xl-none">
+                  Balance
+                  <div class="form-check float-end">
+                    <input
+                      class="form-check-input"
+                      type="checkbox"
+                      checked=""
+                    />
+                  </div>
+                </a>
+                <a class="dropdown-item d-xl-none">
+                  Exposure
+                  <div class="form-check float-end">
+                    <input
+                      class="form-check-input"
+                      type="checkbox"
+                      checked=""
+                    />
+                  </div>
+                </a>
+                <hr class="dropdown-divider" role="separator" />
+                <li class="dropdown-item">SignOut</li>
+              </ul>
             </div>
           </div>
         </div>
         <div class="dropdown">
           <a
+            @click="toggleDropdown"
             class="user-name ms-3 d-none d-xl-block dropdown-toggle"
             id="react-aria8131644381-6"
             aria-expanded="false"
@@ -138,6 +182,16 @@
 <script>
 export default {
   name: "AppHeader",
+  data() {
+    return {
+      isDropdownOpen: false, // Controls the visibility of the dropdown
+    };
+  },
+  methods: {
+    toggleDropdown() {
+      this.isDropdownOpen = !this.isDropdownOpen;
+    },
+  },
 };
 </script>
 
