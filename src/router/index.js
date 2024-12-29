@@ -1,19 +1,16 @@
-import Vue from "vue";
-import VueRouter from "vue-router";
-import Login from "../components/Login.vue";
+import { createRouter, createWebHistory } from "vue-router"; // For Vue 3
+import Home from "../Login.vue";
+import About from "../Main.vue";
 
-Vue.use(VueRouter);
-
+// Define routes
 const routes = [
-  {
-    path: "/login",
-    name: "Login",
-    component: Login,
-  },
+  { path: "/", component: Home },
+  { path: "/home", component: About },
 ];
 
-const router = new VueRouter({
-  mode: "history", // Use clean URLs (no hash)
+// Create and configure the router
+const router = createRouter({
+  history: createWebHistory(), // Using HTML5 History mode
   routes,
 });
 

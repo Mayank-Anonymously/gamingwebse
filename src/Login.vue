@@ -17,10 +17,12 @@
           <h4 class="text-center login-title">
             Login <font-awesome-icon icon="hand-point-down" />
           </h4>
-          <form>
+          <form @submit.prevent="login">
+            <!-- Prevent default submit behavior -->
             <!-- Username Input -->
             <div class="mb-4 input-group position-relative">
               <input
+                v-model="username"
                 name="username"
                 type="text"
                 class="form-control"
@@ -35,6 +37,7 @@
             <!-- Password Input -->
             <div class="mb-4 input-group position-relative">
               <input
+                v-model="password"
                 name="password"
                 type="password"
                 class="form-control"
@@ -119,7 +122,23 @@
 
 <script>
 export default {
-  name: "Login",
+  name: "UserLogin",
+  data() {
+    return {
+      username: "",
+      password: "",
+    };
+  },
+  methods: {
+    login() {
+      // Basic username/password validation
+      if (this.username === "user" && this.password === "pass") {
+        this.$router.push("/home"); // Navigate to the home page
+      } else {
+        alert("Invalid credentials");
+      }
+    },
+  },
 };
 </script>
 
