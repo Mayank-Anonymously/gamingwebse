@@ -1,7 +1,6 @@
 <template>
   <div>
     <AppHeader />
-<<<<<<< HEAD
     <div class="container-fluid mx-0 my0 pad-left-0 mobile-container">
       <div class="row">
         <div class="col-md-2">
@@ -12,11 +11,6 @@
         </div>
         <AppFooter />
       </div>
-=======
-    <div class="layout">
-      <AppSidebar />
-      <MainContainer />
->>>>>>> 80cbad2dd4bfa166ade91cec3f4cf250d9d7dc55
     </div>
     <AppFooter />
   </div>
