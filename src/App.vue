@@ -1,10 +1,10 @@
 <template>
-  <router-view></router-view>
+  <router-view class="hidden" />
 </template>
 
 <script>
 export default {
   name: "App",
+  components: {},
 };
 </script>
-<style></style>

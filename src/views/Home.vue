@@ -16,20 +16,13 @@
 </template>
 
 <script>
-import AppHeader from "./components/AppHeader.vue";
-import AppFooter from "./components/AppFooter.vue";
-import AppSidebar from "./components/Sidebar.vue";
-// import MainContainer from "./components/MainContainer.vue";
-import MainContainer from "./components/MainTable.vue";
-
-import "./css/all.min.css";
-import "./css/bootstrap.min.css";
-import "./css/custom.css";
-import "./css/responsive.css";
-import "./css/style.css";
+import AppHeader from "../components/AppHeader.vue";
+import AppFooter from "../components/AppFooter.vue";
+import AppSidebar from "../components/Sidebar.vue";
+import MainContainer from "../components/MainContainer.vue";
 
 export default {
-  name: "MainView",
+  name: "HomeView",
   components: {
     AppHeader,
     AppSidebar,

@@ -11131,9 +11131,13 @@ img.r-rotate {
   body {
     font-size: 12px;
   }
-  .mobile-container {
-    padding-right: 0px;
+  .container-fluid {
+    --bs-gutter-x: 0 !important; /* Reset the horizontal gutter */
+    --bs-gutter-y: 0 !important; /* Reset the vertical gutter */
   }
+  /* .mobile-container {
+    padding-right: 0px !important;
+  } */
 
   p {
     font-size: 12px;
