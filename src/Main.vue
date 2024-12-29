@@ -1,11 +1,17 @@
 <template>
   <div>
     <AppHeader />
-    <div class="layout">
-      <AppSidebar />
-      <MainContainer />
+    <div class="container-fluid mx-0 my0 pad-left-0 mobile-container">
+      <div class="row">
+        <div class="col-md-2">
+          <AppSidebar />
+        </div>
+        <div class="col-md-10 pad-left-0">
+          <MainContainer />
+        </div>
+        <AppFooter />
+      </div>
     </div>
-    <AppFooter />
   </div>
 </template>
 
