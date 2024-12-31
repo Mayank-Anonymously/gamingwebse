@@ -194,7 +194,7 @@ export default {
       this.activeOverlay = null;
     },
     toggleAccordion(name) {
-      this.$set(this.openAccordions, name, !this.openAccordions[name]);
+      this.openAccordions[name] = !this.openAccordions[name]; // No need for $set in Vue 3
     },
     isAccordionOpen(name) {
       return this.openAccordions[name] || false;
