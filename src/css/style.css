@@ -2929,10 +2929,17 @@ tr {
 /*Home Page Design Starts*/
 
 .center-main-container {
-  width: calc(130% - 269px);
+  /* width: calc(130% - 269px); */
+  max-width: 100%;
   padding: 0 5px;
   display: flex;
   flex-wrap: wrap;
+  /* overflow: hidden; */
+}
+.container-fluid {
+  padding-right: 0px !important;
+  padding-left: 0px !important;
+  overflow: hidden !important;
 }
 
 .center-main-container.error-404 {
@@ -11137,6 +11144,10 @@ img.r-rotate {
   body {
     font-size: 12px;
   }
+  .container-fluid {
+    padding-right: 10px !important;
+    padding-left: 10px !important;
+  }
   /* .container-fluid {
     --bs-gutter-x: 0 !important;
     --bs-gutter-y: 0 !important;
@@ -13953,7 +13964,7 @@ img.r-rotate {
   }
 
   .center-main-container {
-    width: calc(100% - 240px);
+    width: calc(100% + 23px);
   }
 
   .detail-page .center-container {
