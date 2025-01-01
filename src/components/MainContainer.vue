@@ -141,7 +141,6 @@ export default {
     };
   },
   created() {
-    // Set the initial filtered data to be all items
     this.filteredData = this.matches[0];
   },
   methods: {
