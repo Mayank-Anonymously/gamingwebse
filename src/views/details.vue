@@ -34,7 +34,42 @@
                 </div>
                 <div class="">
                   <div class="casino-video">
-                    <div class="video-box-container"></div>
+                    <div class="video-box-container">
+                      <div class="clock flip-clock-wrapper">
+                        <div
+                          class="digit"
+                          v-for="(digit, index) in digits"
+                          :key="index"
+                        >
+                          <ul class="flip play">
+                            <li class="flip-clock-before">
+                              <a href="#">
+                                <div class="up">
+                                  <div class="shadow"></div>
+                                  <div class="inn">{{ digit.previous }}</div>
+                                </div>
+                                <div class="down">
+                                  <div class="shadow"></div>
+                                  <div class="inn">{{ digit.previous }}</div>
+                                </div>
+                              </a>
+                            </li>
+                            <li class="flip-clock-active">
+                              <a href="#">
+                                <div class="up">
+                                  <div class="shadow"></div>
+                                  <div class="inn">{{ digit.current }}</div>
+                                </div>
+                                <div class="down">
+                                  <div class="shadow"></div>
+                                  <div class="inn">{{ digit.current }}</div>
+                                </div>
+                              </a>
+                            </li>
+                          </ul>
+                        </div>
+                      </div>
+                    </div>
                   </div>
                   <div
                     class="casino-detail detail-page-container position-relative"
@@ -351,6 +386,41 @@ export default {
     AppHeader,
     AppSidebar,
     AppFooter,
+  },
+  data() {
+    return {
+      timeRemaining: 20, // Countdown time in seconds
+      digits: [
+        { previous: 0, current: 2 },
+        { previous: 0, current: 0 },
+      ],
+    };
+  },
+  methods: {
+    startCountdown() {
+      const interval = setInterval(() => {
+        if (this.timeRemaining <= 0) {
+          clearInterval(interval);
+          return;
+        }
+
+        this.timeRemaining--;
+        this.updateDigits();
+      }, 1000);
+    },
+    updateDigits() {
+      const tens = Math.floor(this.timeRemaining / 10);
+      const ones = this.timeRemaining % 10;
+
+      this.digits[0].previous = this.digits[0].current;
+      this.digits[0].current = tens;
+
+      this.digits[1].previous = this.digits[1].current;
+      this.digits[1].current = ones;
+    },
+  },
+  mounted() {
+    this.startCountdown();
   },
 };
 </script>
