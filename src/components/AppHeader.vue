@@ -116,31 +116,33 @@
             <a class="nav-link" href="/sports-book/33">Lottery</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="/all-sports/4">Cricket</a>
+            <a class="nav-link" href="/games/cricket/all-sports">Cricket</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="/all-sports/2">Tennis</a>
+            <a class="nav-link" href="/games/tennis/all-sports">Tennis</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="/all-sports/1">Football</a>
+            <a class="nav-link" href="/games/football/all-sports">Football</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="/all-sports/8">Table Tennis</a>
+            <a class="nav-link" href="/games/table-tennis/all-sports"
+              >Table Tennis</a
+            >
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="/casino-list/LC/4/22">Baccarat</a>
+            <a class="nav-link" href="/games/name/22">Baccarat</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="/casino-list/LC/4/24">32 Cards</a>
+            <a class="nav-link" href="/games/name/24">32 Cards</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="/casino-list/LC/4/20">Teenpatti</a>
+            <a class="nav-link" href="/games/name/20">Teenpatti</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="/casino-list/LC/4/21">Poker</a>
+            <a class="nav-link" href="/games/name/21">Poker</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="/casino-list/LC/4/27">Lucky 7</a>
+            <a class="nav-link" href="/games/name/27">Lucky 7</a>
           </li>
         </ul>
       </nav>

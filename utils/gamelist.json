@@ -1,6 +1,30 @@
 [
   {
+    "game": "Politics",
+    "route-param": "",
+    "match": [
+      {
+        "gameName": "Assembly Election 2025",
+        "gameLink": "/game-details/40/602080933",
+        "date": "15/02/2025 12:00:00",
+        "gameIcons": [
+          { "active": false },
+          { "tv": false },
+          { "fancy": true },
+          { "active": false },
+          { "active": false }
+        ],
+        "odds": [
+          { "back": "-", "lay": "-" },
+          { "back": "-", "lay": "-" },
+          { "back": "-", "lay": "-" }
+        ]
+      }
+    ]
+  },  
+  {
     "game": "Cricket",
+    "route-param": "/all-sports/4",
     "match": [
       {
         "gameName": "Ball by Ball",
@@ -284,6 +308,7 @@
 
   {
     "game": "Tennis",
+    "route-param": "/all-sports/2",
     "match": [
       {
         "gameName": "Amy Zhu - Malkia Ngounoue",
@@ -373,6 +398,7 @@
 
   {
     "game": "Football",
+    "route-param": "/all-sports/1",
     "match": [
       {
         "gameName": "Western Sydney Wanderers v Macarthur FC",
@@ -452,12 +478,15 @@
     "game": "Kabaddi",
     "match": []
   },
+
   {
     "game": "Esoccer",
     "match": []
   },
+
   {
     "game": "Table Tennis",
+    "route-param": "/all-sports/8",
     "match": [
       {
         "gameName": "Radek Limbursky - Josef Rossler",
