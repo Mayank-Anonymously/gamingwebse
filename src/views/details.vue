@@ -1,7 +1,7 @@
 <template>
   <div>
     <AppHeader />
-    <div class="container-fluid mx-0 my0 pad-left-0 ">
+    <div class="container-fluid mx-0 my0 pad-left-0">
       <div class="row">
         <div class="col-md-2">
           <AppSidebar />
@@ -34,67 +34,7 @@
                 </div>
                 <div class="">
                   <div class="casino-video">
-                    <div class="video-box-container">
-                      <div class="casino-video-box">
-                        <iframe
-                          src="/mediaplayer/ballbyball/83b8db84-3b29-42de-9ff8-2961771fb46e?ip=116.72.218.179"
-                        ></iframe>
-                      </div>
-                    </div>
-                    <div class="clock flip-clock-wrapper">
-                      <ul class="flip play">
-                        <li class="flip-clock-before">
-                          <a href="#"
-                            ><div class="up">
-                              <div class="shadow"></div>
-                              <div class="inn">1</div>
-                            </div>
-                            <div class="down">
-                              <div class="shadow"></div>
-                              <div class="inn">1</div>
-                            </div></a
-                          >
-                        </li>
-                        <li class="flip-clock-active">
-                          <a href="#"
-                            ><div class="up">
-                              <div class="shadow"></div>
-                              <div class="inn">0</div>
-                            </div>
-                            <div class="down">
-                              <div class="shadow"></div>
-                              <div class="inn">0</div>
-                            </div></a
-                          >
-                        </li>
-                      </ul>
-                      <ul class="flip play">
-                        <li class="flip-clock-before">
-                          <a href="#"
-                            ><div class="up">
-                              <div class="shadow"></div>
-                              <div class="inn">1</div>
-                            </div>
-                            <div class="down">
-                              <div class="shadow"></div>
-                              <div class="inn">1</div>
-                            </div></a
-                          >
-                        </li>
-                        <li class="flip-clock-active">
-                          <a href="#"
-                            ><div class="up">
-                              <div class="shadow"></div>
-                              <div class="inn">0</div>
-                            </div>
-                            <div class="down">
-                              <div class="shadow"></div>
-                              <div class="inn">0</div>
-                            </div></a
-                          >
-                        </li>
-                      </ul>
-                    </div>
+                    <div class="video-box-container"></div>
                   </div>
                   <div
                     class="casino-detail detail-page-container position-relative"
