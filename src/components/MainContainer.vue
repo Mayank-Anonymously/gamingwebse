@@ -20,6 +20,7 @@
             <a
               :class="['nav-link', item.active ? 'active' : '']"
               :href="item.link"
+              @click="setActiveTab(item.name)"
             >
               <div class="d-xl-none">
                 <i :class="['icon', item.icon]"></i>
@@ -28,6 +29,7 @@
             </a>
           </li>
         </ul>
+
         <div class="tab-content mt-1">
           <div class="tab-pane active">
             <div class="bet-table">
@@ -38,9 +40,12 @@
                 <div class="bet-nation-odd"><b>2</b></div>
               </div>
               <div class="bet-table-body">
+                <div class="bet-table-row" v-if="noRecordsFound">
+                  No records found
+                </div>
                 <div
                   class="bet-table-row"
-                  v-for="(match, index) in matches"
+                  v-for="(match, index) in filteredData.match"
                   :key="index"
                 >
                   <div class="bet-nation-name">
@@ -128,9 +133,27 @@ export default {
       matches: gamelist,
       latestEvents: exclusive,
       sportsTabs: gamesbar,
+      filteredData: [],
+      // Flag for no records found
+      noRecordsFound: false,
+      active: false,
     };
   },
+  created() {
+    // Set the initial filtered data to be all items
+    this.filteredData = this.matches;
+  },
   methods: {
+    setActiveTab(name) {
+      // Filter the data based on the selected tab's filter
+      this.filteredData = this.matches.filter((data) => data.game === name)[0];
+      // Check if no records are found
+      this.noRecordsFound = this.filteredData.length === 0;
+      this.active = true;
+      this.sportsTabs.forEach((item) => {
+        item.active = item.name === name;
+      });
+    },
     showRacingList(raceType) {
       if (raceType === "horseRacing") {
         this.overlayVisible = "horseRacing";
@@ -142,6 +165,12 @@ export default {
     closeOverlay() {
       this.overlayVisible = null;
       this.tableOpacity = 1;
+    },
+    setNavActiveTab(name) {
+      // Loop through sportsTabs and set the active tab to true and others to false
+      this.sportsTabs.forEach((item) => {
+        item.active = item.name === name;
+      });
     },
   },
 };

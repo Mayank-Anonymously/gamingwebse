@@ -1,32 +1,5 @@
 <template>
   <div class="container-custom">
-    <!-- Blinkers -->
-    <div class="latest-event d-none d-xl-flex">
-      <div
-        v-for="(event, index) in latestEvents"
-        :key="index"
-        class="latest-event-item"
-      >
-        <a :href="event.link" class="blink_me">
-          <i :class="['d-icon', 'me-1', event.icon]"></i>
-          <span>{{ event.name }}</span>
-        </a>
-      </div>
-    </div>
-
-    <!-- top tab games -->
-    <ul class="nav nav-pills sports-tab">
-      <li v-for="(item, index) in sportsTabs" :key="index" class="nav-item">
-        <a :class="['nav-link', item.active ? 'active' : '']" :href="item.link">
-          <div class="d-xl-none">
-            <i :class="['icon', item.icon]"></i>
-          </div>
-          <span>{{ item.name }}</span>
-        </a>
-      </li>
-    </ul>
-    <!-- top tab games -->
-
     <!-- TABLE -->
     <div class="tab-content mt-1">
       <div class="tab-pane active">
@@ -94,31 +67,6 @@
     </div>
 
     <!-- TABLE -->
-
-    <!-- Games List -->
-
-    <div class="row mt-2">
-      <div
-        v-for="(casino, index) in casinoItems"
-        :key="index"
-        class="col-6 col-sm-4 col-md-3 col-lg-2 mb-3"
-      >
-        <a :href="casino.link" class="text-decoration-none">
-          <div class="casino-item-banner">
-            <img
-              :src="casino.image"
-              class="img-fluid w-100 rounded"
-              alt="Casino Image"
-            />
-            <div class="casino-game text-center mt-2">
-              <p class="mb-0">{{ casino.name }}</p>
-            </div>
-          </div>
-        </a>
-      </div>
-    </div>
-
-    <!-- Games List -->
   </div>
 </template>
 
@@ -135,9 +83,23 @@ export default {
       matches: gamelist,
       latestEvents: exclusive,
       sportsTabs: gamesbar,
+      filteredData: [],
+      // Flag for no records found
+      noRecordsFound: false,
+      active: false,
     };
   },
+  created() {
+    // Set the initial filtered data to be all items
+    this.filteredData = this.matches;
+  },
   methods: {
+    setActiveTab(name) {
+      // Filter the data based on the selected tab's filter
+      this.filteredData = this.matches.filter((data) => data.game === name)[0];
+      // Check if no records are found
+      this.noRecordsFound = this.filteredData.length === 0;
+    },
     showRacingList(raceType) {
       if (raceType === "horseRacing") {
         this.overlayVisible = "horseRacing";
@@ -149,6 +111,12 @@ export default {
     closeOverlay() {
       this.overlayVisible = null;
       this.tableOpacity = 1;
+    },
+    setNavActiveTab(name) {
+      // Loop through sportsTabs and set the active tab to true and others to false
+      this.sportsTabs.forEach((item) => {
+        item.active = item.name === name;
+      });
     },
   },
 };

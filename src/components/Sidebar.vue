@@ -1,6 +1,5 @@
 <template>
   <div class="sidebar left-sidebar">
-    <!-- Racing Sports Accordion -->
     <div class="accordion">
       <div class="accordion-item">
         <h2 class="sidebar-title accordion-header">
@@ -47,7 +46,6 @@
         </div>
       </div>
 
-      <!-- Overlay Section -->
       <div v-if="showOverlay" class="overlay">
         <div class="overlay-content">
           <h2 v-if="activeOverlay === 'horse'">All Horse Racing</h2>
@@ -65,7 +63,6 @@
       </div>
     </div>
 
-    <!-- Others Accordion -->
     <div class="accordion" id="sidebarAccordion">
       <div class="accordion-item">
         <h2 class="sidebar-title accordion-header">
@@ -94,7 +91,6 @@
       </div>
     </div>
 
-    <!-- All Sports Accordion -->
     <div class="accordion">
       <div class="accordion-item">
         <h2 class="sidebar-title accordion-header">
@@ -110,20 +106,25 @@
           :class="{ collapse: !isAccordionOpen('allSports') }"
           class="accordion-collapse"
         >
-          <div class="menu-box accordion-body">
-            <ul class="navbar-nav">
-              <!-- Dynamic Rendering of Sports Categories -->
+          <div class="menu-box accordion-body accordion">
+            <ul class="navbar-nav accordion-item">
+              <!-- This part remains as per your original structure for categories under All Sports -->
               <li
                 class="nav-item dropdown"
                 v-for="(category, categoryIndex) in accordionData"
                 :key="'category-' + categoryIndex"
               >
-                <a class="dropdown-toggle nav-link">
+                <a
+                  class="dropdown-toggle nav-link"
+                  data-bs-toggle="collapse"
+                  :data-bs-target="'#collapse' + categoryIndex"
+                  aria-expanded="true"
+                  :aria-controls="'collapse' + categoryIndex"
+                >
                   <i :class="category.icon + ' me-1'"></i>
                   <span>{{ category.name }}</span>
                 </a>
                 <ul class="dropdown-menu">
-                  <!-- Dynamic Rendering of Subcategories -->
                   <li
                     class="nav-item dropdown"
                     v-for="(subCategory, subIndex) in category.subcategories"
@@ -134,7 +135,6 @@
                       <span>{{ subCategory.name }}</span>
                     </a>
                     <ul class="dropdown-menu">
-                      <!-- Dynamic Rendering of Links within Subcategories -->
                       <li
                         class="nav-item"
                         v-for="(link, linkIndex) in subCategory.links"
@@ -156,6 +156,58 @@
                 </ul>
               </li>
             </ul>
+          </div>
+        </div>
+      </div>
+
+      <!-- Nested Accordion for each category -->
+      <div
+        v-for="(category, index) in data"
+        :key="index"
+        class="accordion-item"
+      >
+        <h2 class="accordion-header" :id="'heading' + index">
+          <button
+            class="accordion-button"
+            type="button"
+            data-bs-toggle="collapse"
+            :data-bs-target="'#collapse' + index"
+            aria-expanded="true"
+            :aria-controls="'collapse' + index"
+          >
+            <i :class="category.icon"></i> {{ category.name }}
+          </button>
+        </h2>
+        <div
+          :id="'collapse' + index"
+          class="accordion-collapse collapse"
+          :aria-labelledby="'heading' + index"
+          data-bs-parent="#accordionExample"
+        >
+          <div class="accordion-body">
+            <div
+              v-for="(subcategory, subIndex) in category.subcategories"
+              :key="subIndex"
+            >
+              <p>
+                <strong>{{ subcategory.name }}</strong>
+              </p>
+              <div v-if="subcategory.links">
+                <ul>
+                  <li
+                    v-for="(link, linkIndex) in subcategory.links"
+                    :key="linkIndex"
+                  >
+                    <a :href="link.link" target="_blank">{{ link.name }}</a>
+                  </li>
+                </ul>
+              </div>
+              <div v-else>
+                <a :href="subcategory.link" target="_blank">{{
+                  subcategory.name
+                }}</a>
+              </div>
+            </div>
           </div>
         </div>
       </div>
@@ -182,6 +234,7 @@ export default {
       },
       horseRaces: ["Race 1", "Race 2", "Race 3"], // Example data for Horse Racing
       greyhoundRaces: ["Race A", "Race B", "Race C"], // Example data for Greyhound Racing
+      openCatAccordions: {},
     };
   },
   methods: {
@@ -199,10 +252,72 @@ export default {
     isAccordionOpen(name) {
       return this.openAccordions[name] || false;
     },
+    toggleCatAccordion(name) {
+      this.openCatAccordions[name] = !this.openCatAccordions[name]; // No need for $set in Vue 3
+    },
+    isCatAccordionOpen(name) {
+      console.log(this.openCatAccordions[name] || false);
+      return this.openCatAccordions[name] || false;
+    },
   },
 };
 </script>
 
-<style scoped>
-/* Optional: Add custom styles for the sidebar */
-</style>
+<style scoped></style>
+
+<!-- <template>
+  <div id="app">
+    <div class="accordion" id="accordionExample">
+      <div
+        v-for="(category, index) in data"
+        :key="index"
+        class="accordion-item"
+      >
+        <h2 class="accordion-header" :id="'heading' + index">
+          <button
+            class="accordion-button"
+            type="button"
+            data-bs-toggle="collapse"
+            :data-bs-target="'#collapse' + index"
+            aria-expanded="true"
+            :aria-controls="'collapse' + index"
+          >
+            <i :class="category.icon"></i> {{ category.name }}
+          </button>
+        </h2>
+        <div
+          :id="'collapse' + index"
+          class="accordion-collapse collapse"
+          :aria-labelledby="'heading' + index"
+          data-bs-parent="#accordionExample"
+        >
+          <div class="accordion-body">
+            <div
+              v-for="(subcategory, subIndex) in category.subcategories"
+              :key="subIndex"
+            >
+              <p>
+                <strong>{{ subcategory.name }}</strong>
+              </p>
+              <div v-if="subcategory.links">
+                <ul>
+                  <li
+                    v-for="(link, linkIndex) in subcategory.links"
+                    :key="linkIndex"
+                  >
+                    <a :href="link.link" target="_blank">{{ link.name }}</a>
+                  </li>
+                </ul>
+              </div>
+              <div v-else>
+                <a :href="subcategory.link" target="_blank">{{
+                  subcategory.name
+                }}</a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</template> -->

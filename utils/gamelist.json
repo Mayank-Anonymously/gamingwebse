@@ -1,273 +1,854 @@
 [
   {
-    "gameName": "Ball by Ball",
-    "gameLink": "https://allpanelexch.com/casino/ballbyball",
-    "date": "",
-    "gameIcons": [
-      { "active": true },
-      { "icon": "fas fa-tv icon-tv" },
-      { "icon": "../assets/table-logo/ic_fancy.png" },
-      {},
-      {},
-      {}
-    ],
-    "odds": [
-      { "back": "-", "lay": "-" },
-      { "back": "-", "lay": "-" },
-      { "back": "-", "lay": "-" }
+    "game": "Cricket",
+    "match": [
+      {
+        "gameName": "Ball by Ball",
+        "gameLink": "https://allpanelexch.com/casino/ballbyball",
+        "date": "",
+        "gameIcons": [
+          { "active": true },
+          { "icon": "fas fa-tv icon-tv" },
+          { "icon": "../assets/table-logo/ic_fancy.png" },
+          {},
+          {},
+          {}
+        ],
+        "odds": [
+          { "back": "-", "lay": "-" },
+          { "back": "-", "lay": "-" },
+          { "back": "-", "lay": "-" }
+        ]
+      },
+      {
+        "gameName": "Twenty20 Big Bash",
+        "gameLink": "https://allpanelexch.com/game-details/4/603706836",
+        "date": "14/12/2024 13:45:00",
+        "gameIcons": [
+          { "active": true },
+          {},
+          {},
+          { "icon": "../assets/table-logo/ic_bm.png" },
+          {}
+        ],
+        "odds": [
+          { "back": "-", "lay": "-" },
+          { "back": "-", "lay": "-" },
+          { "back": "-", "lay": "-" }
+        ]
+      },
+      {
+        "gameName": "India Women v West Indies Women",
+        "gameLink": "https://allpanelexch.com/game-details/4/496411633",
+        "date": "22/12/2024 13:30:00",
+        "gameIcons": [
+          { "active": true },
+          { "icon": "fas fa-tv icon-tv" },
+          { "icon": "../assets/table-logo/ic_fancy.png" },
+          { "icon": "../assets/table-logo/ic_bm.png" },
+          {}
+        ],
+        "odds": [
+          { "back": "1.05", "lay": "1.06" },
+          { "back": "-", "lay": "-" },
+          { "back": "20", "lay": "21" }
+        ]
+      },
+      {
+        "gameName": "Chennai Super Kings XI v Kolkata Knight Riders XI",
+        "gameLink": "https://allpanelexch.com/cricketv/4/86930341",
+        "date": "22/12/2024 16:05:00",
+        "gameIcons": [
+          { "active": true },
+          {},
+          { "icon": "../assets/table-logo/ic_fancy.png" },
+          { "icon": "../assets/table-logo/ic_bm.png" },
+          { "icon": "../assets/table-logo/game-icon.svg" }
+        ],
+        "odds": [
+          { "back": "-", "lay": "-" },
+          { "back": "-", "lay": "-" },
+          { "back": "-", "lay": "-" }
+        ]
+      },
+      {
+        "gameName": "Adelaide Strikers T10 v Brisbane Heat T10",
+        "gameLink": "https://allpanelexch.com/virtual-cricket/4/647788818",
+        "date": "22/12/2024 16:30:00",
+        "gameIcons": [
+          { "active": true },
+          { "icon": "fas fa-tv icon-tv" },
+          { "icon": "../assets/table-logo/ic_fancy.png" },
+          {},
+          { "icon": "../assets/table-logo/game-icon.svg" }
+        ],
+        "odds": [
+          { "back": "-", "lay": "-" },
+          { "back": "-", "lay": "-" },
+          { "back": "-", "lay": "-" }
+        ]
+      },
+      {
+        "gameName": "SLZ XI v BT XI",
+        "gameLink": "https://allpanelexch.com/cricketv/4/86088044",
+        "date": "22/12/2024 17:15:00",
+        "gameIcons": [
+          { "active": true },
+          {},
+          { "icon": "../assets/table-logo/ic_fancy.png" },
+          { "icon": "../assets/table-logo/ic_bm.png" },
+          { "icon": "../assets/table-logo/game-icon.svg" }
+        ],
+        "odds": [
+          { "back": "-", "lay": "-" },
+          { "back": "-", "lay": "-" },
+          { "back": "-", "lay": "-" }
+        ]
+      },
+      {
+        "gameName": "Test A v Test B",
+        "gameLink": "https://allpanelexch.com/game-details/4/776577182",
+        "date": "05/12/2024 00:00:00",
+        "gameIcons": [
+          {},
+          {},
+          {},
+          { "icon": "../assets/table-logo/ic_bm.png" },
+          {}
+        ],
+        "odds": [
+          { "back": "-", "lay": "-" },
+          { "back": "-", "lay": "-" },
+          { "back": "-", "lay": "-" }
+        ]
+      },
+      {
+        "gameName": "New Zealand Women v Australia Women",
+        "gameLink": "https://allpanelexch.com/game-details/4/865809752",
+        "date": "23/12/2024 03:30:00",
+        "gameIcons": [
+          { "active": true },
+          { "icon": "../assets/table-logo/ic_fancy.png" },
+          { "icon": "../assets/table-logo/ic_bm.png" }
+        ],
+        "odds": [
+          { "back": "5.5", "lay": "5.7" },
+          { "back": "-", "lay": "-" },
+          { "back": "1.21", "lay": "1.22" }
+        ]
+      },
+      {
+        "gameName": "Melbourne Renegades v Perth Scorchers",
+        "gameLink": "https://allpanelexch.com/game-details/4/921890659",
+        "date": "23/12/2024 13:45:00",
+        "gameIcons": [
+          { "active": true },
+          { "icon": "../assets/table-logo/ic_fancy.png" }
+        ],
+        "odds": [
+          { "back": "2.12", "lay": "2.16" },
+          { "back": "-", "lay": "-" },
+          { "back": "1.87", "lay": "1.88" }
+        ]
+      },
+      {
+        "gameName": "Markhors v Lions",
+        "gameLink": "https://allpanelexch.com/game-details/4/495113747",
+        "date": "23/12/2024 16:00:00",
+        "gameIcons": [{ "active": true }],
+        "odds": [
+          { "back": "1.8", "lay": "2.34" },
+          { "back": "-", "lay": "-" },
+          { "back": "1.78", "lay": "2.42" }
+        ]
+      },
+      {
+        "gameName": "Australia v India",
+        "gameLink": "https://allpanelexch.com/game-details/4/578112323",
+        "date": "26/12/2024 05:00:00",
+        "gameIcons": [{ "active": true }],
+        "odds": [
+          { "back": "1.68", "lay": "1.69" },
+          { "back": "13", "lay": "13.5" },
+          { "back": "3", "lay": "3.1" }
+        ]
+      },
+      {
+        "gameName": "Zimbabwe v Afghanistan",
+        "gameLink": "https://allpanelexch.com/game-details/4/599510711",
+        "date": "26/12/2024 13:30:00",
+        "gameIcons": [{ "active": true }],
+        "odds": [
+          { "back": "5.3", "lay": "9" },
+          { "back": "3.6", "lay": "4" },
+          { "back": "1.61", "lay": "1.88" }
+        ]
+      },
+      {
+        "gameName": "South Africa v Pakistan",
+        "gameLink": "https://allpanelexch.com/game-details/4/673235885",
+        "date": "26/12/2024 13:30:00",
+        "gameIcons": [{ "active": true }],
+        "odds": [
+          { "back": "1.86", "lay": "1.87" },
+          { "back": "4.8", "lay": "4.9" },
+          { "back": "3.8", "lay": "3.95" }
+        ]
+      },
+      {
+        "gameName": "England T10 v Australia T10",
+        "gameLink": "https://allpanelexch.com/virtual-cricket/4/565065532",
+        "gameDate": "22/12/2024 17:20:00",
+        "icons": [
+          "../assets/table-logo/ic_bm.png",
+          "../assets/table-logo/game-icon.svg"
+        ],
+        "odds": [
+          { "back": "-", "lay": "-" },
+          { "back": "-", "lay": "-" },
+          { "back": "-", "lay": "-" }
+        ]
+      },
+      {
+        "gameName": "South Africa v Pakistan",
+        "gameLink": "https://allpanelexch.com/game-details/4/735673718",
+        "gameDate": "22/12/2024 17:30:00",
+        "icons": [
+          "../assets/table-logo/ic_fancy.png",
+          "../assets/table-logo/ic_bm.png"
+        ],
+        "odds": [
+          { "back": "1.66", "lay": "1.67" },
+          { "back": "-", "lay": "-" },
+          { "back": "2.48", "lay": "2.52" }
+        ]
+      },
+      {
+        "gameName": "Delhi Capitals T10 v Kolkata Knight Riders T10",
+        "gameLink": "https://allpanelexch.com/virtual-cricket/4/798844733",
+        "gameDate": "22/12/2024 17:30:00",
+        "icons": [
+          "../assets/table-logo/ic_fancy.png",
+          "../assets/table-logo/game-icon.svg"
+        ],
+        "odds": [
+          { "back": "-", "lay": "-" },
+          { "back": "-", "lay": "-" },
+          { "back": "-", "lay": "-" }
+        ]
+      },
+      {
+        "gameName": "New Zealand T10 v Sri Lanka T10",
+        "gameLink": "https://allpanelexch.com/virtual-cricket/4/622394329",
+        "gameDate": "22/12/2024 17:45:00",
+        "icons": [
+          "../assets/table-logo/ic_fancy.png",
+          "../assets/table-logo/game-icon.svg"
+        ],
+        "odds": [
+          { "back": "-", "lay": "-" },
+          { "back": "-", "lay": "-" },
+          { "back": "-", "lay": "-" }
+        ]
+      },
+      {
+        "gameName": "Lucknow Super T10 v Royal Challengers T10",
+        "gameLink": "https://allpanelexch.com/virtual-cricket/4/594462836",
+        "gameDate": "22/12/2024 18:45:00",
+        "icons": [
+          "../assets/table-logo/ic_fancy.png",
+          "../assets/table-logo/game-icon.svg"
+        ],
+        "odds": [
+          { "back": "-", "lay": "-" },
+          { "back": "-", "lay": "-" },
+          { "back": "-", "lay": "-" }
+        ]
+      },
+      {
+        "gameName": "Bangladesh T10 v New Zealand T10",
+        "gameLink": "https://allpanelexch.com/virtual-cricket/4/895026767",
+        "gameDate": "22/12/2024 20:00:00",
+        "icons": [
+          "../assets/table-logo/ic_fancy.png",
+          "../assets/table-logo/game-icon.svg"
+        ],
+        "odds": [
+          { "back": "-", "lay": "-" },
+          { "back": "-", "lay": "-" },
+          { "back": "-", "lay": "-" }
+        ]
+      }
+    ]
+  },
+
+  {
+    "game": "Tennis",
+    "match": [
+      {
+        "gameName": "Amy Zhu - Malkia Ngounoue",
+        "gameLink": "/game-details/2/759946401",
+        "date": "01/01/2025 21:40:00",
+        "gameIcons": [{ "active": true }, {}, {}, {}, {}],
+        "odds": [
+          { "back": "-", "lay": "-" },
+          { "back": "-", "lay": "-" },
+          { "back": "-", "lay": "-" }
+        ]
+      },
+      {
+        "gameName": "Arman Zamani - Adam Bain",
+        "gameLink": "/game-details/2/690679222",
+        "date": "01/01/2025 22:30:00",
+        "gameIcons": [{ "active": true }, {}, {}, {}, {}],
+        "odds": [
+          { "back": "-", "lay": "-" },
+          { "back": "-", "lay": "-" },
+          { "back": "-", "lay": "-" }
+        ]
+      },
+      {
+        "gameName": "Patorn Hanchaikul - Luke Bracks",
+        "gameLink": "/game-details/2/808498567",
+        "date": "01/01/2025 22:30:00",
+        "gameIcons": [{ "active": true }, {}, {}, {}, {}],
+        "odds": [
+          { "back": "-", "lay": "-" },
+          { "back": "-", "lay": "-" },
+          { "back": "-", "lay": "-" }
+        ]
+      },
+      {
+        "gameName": "Asahi Harazaki - Roan Jones",
+        "gameLink": "/game-details/2/829952670",
+        "date": "01/01/2025 22:30:00",
+        "gameIcons": [{ "active": true }, {}, {}, {}, {}],
+        "odds": [
+          { "back": "-", "lay": "-" },
+          { "back": "-", "lay": "-" },
+          { "back": "-", "lay": "-" }
+        ]
+      },
+      {
+        "gameName": "Esunge Ndumbe - Hernan Oivas Quiroz",
+        "gameLink": "/game-details/2/578748469",
+        "date": "01/01/2025 23:40:00",
+        "gameIcons": [{ "active": true }, {}, {}, {}, {}],
+        "odds": [
+          { "back": "-", "lay": "-" },
+          { "back": "-", "lay": "-" },
+          { "back": "-", "lay": "-" }
+        ]
+      },
+      {
+        "gameName": "Ian Bracks - Mohammad Alkotop",
+        "gameLink": "/game-details/2/622511608",
+        "date": "01/01/2025 23:40:00",
+        "gameIcons": [{ "active": true }, {}, {}, {}, {}],
+        "odds": [
+          { "back": "-", "lay": "-" },
+          { "back": "-", "lay": "-" },
+          { "back": "-", "lay": "-" }
+        ]
+      },
+      {
+        "gameName": "Test A v Test B",
+        "gameLink": "/game-details/2/856858372",
+        "date": "04/01/2025 00:00:00",
+        "gameIcons": [
+          { "active": true },
+          {},
+          {},
+          { "icon": "/static/front/img/ic_bm.png" },
+          {}
+        ],
+        "odds": [
+          { "back": "-", "lay": "-" },
+          { "back": "-", "lay": "-" },
+          { "back": "-", "lay": "-" }
+        ]
+      }
+    ]
+  },
+
+  {
+    "game": "Football",
+    "match": [
+      {
+        "gameName": "Western Sydney Wanderers v Macarthur FC",
+        "date": "01/01/2025 12:30:00",
+        "gameLink": "/game-details/1/607207267",
+        "gameIcons": [
+          { "active": true },
+          { "class": "fas fa-tv icon-tv" },
+          {},
+          { "img": "/static/front/img/ic_bm.png" },
+          {}
+        ],
+        "odds": [
+          { "back": "1000", "lay": "-" },
+          { "back": "10", "lay": "16" },
+          { "back": "1.08", "lay": "1.11" }
+        ]
+      },
+      {
+        "gameName": "Addis Ababa Ketema W - Lideta Sub City W",
+        "date": "01/01/2025 12:45:00",
+        "gameLink": "/game-details/1/697338185",
+        "gameIcons": [{ "active": true }, {}, {}, {}, {}],
+        "odds": [
+          { "back": "1.05", "lay": "1.11" },
+          { "back": "9.91", "lay": "-" },
+          { "back": "50.52", "lay": "-" }
+        ]
+      },
+      {
+        "gameName": "Hapoel Haifa U19 - Hapoel Tel Aviv U19",
+        "date": "01/01/2025 14:30:00",
+        "gameLink": "/game-details/1/584425220",
+        "gameIcons": [{}, {}, {}, {}, {}],
+        "odds": [
+          { "back": "9.71", "lay": "-" },
+          { "back": "6.39", "lay": "-" },
+          { "back": "1.23", "lay": "1.3" }
+        ]
+      },
+      {
+        "gameName": "Es Boulefrais U19 - Ts Bouzina U19",
+        "date": "01/01/2025 14:30:00",
+        "gameLink": "/game-details/1/878436083",
+        "gameIcons": [{}, {}, {}, {}, {}],
+        "odds": [
+          { "back": "-", "lay": "-" },
+          { "back": "-", "lay": "-" },
+          { "back": "-", "lay": "-" }
+        ]
+      },
+      {
+        "gameName": "Kirkos Addis Ababa W - Dire Dawa W",
+        "date": "01/01/2025 15:30:00",
+        "gameLink": "/game-details/1/615640924",
+        "gameIcons": [{}, {}, {}, {}, {}],
+        "odds": [
+          { "back": "3.73", "lay": "-" },
+          { "back": "2.98", "lay": "-" },
+          { "back": "2.12", "lay": "-" }
+        ]
+      },
+      {
+        "gameName": "Maccabi Ironi Kiryat Ata U19 - Hapoel Beit Shean U19",
+        "date": "01/01/2025 17:00:00",
+        "gameLink": "/game-details/1/852705404",
+        "gameIcons": [{}, {}, {}, {}, {}],
+        "odds": [
+          { "back": "-", "lay": "-" },
+          { "back": "-", "lay": "-" },
+          { "back": "-", "lay": "-" }
+        ]
+      }
     ]
   },
   {
-    "gameName": "Twenty20 Big Bash",
-    "gameLink": "https://allpanelexch.com/game-details/4/603706836",
-    "date": "14/12/2024 13:45:00",
-    "gameIcons": [
-      { "active": true },
-      {},
-      {},
-      { "icon": "../assets/table-logo/ic_bm.png" },
-      {}
-    ],
-    "odds": [
-      { "back": "-", "lay": "-" },
-      { "back": "-", "lay": "-" },
-      { "back": "-", "lay": "-" }
+    "game": "Kabaddi",
+    "match": []
+  },
+  {
+    "game": "Esoccer",
+    "match": []
+  },
+  {
+    "game": "Table Tennis",
+    "match": [
+      {
+        "gameName": "Radek Limbursky - Josef Rossler",
+        "gameLink": "/game-details/8/513019176",
+        "date": "01/01/2025 14:30:00",
+        "gameIcons": [{ "active": true }, { "tv": true }],
+        "odds": [
+          { "back": "1.13", "lay": "1.18" },
+          { "back": "-", "lay": "-" },
+          { "back": "6.54", "lay": "8.71" }
+        ]
+      },
+      {
+        "gameName": "Jan Pleskot - Lubor Sulava",
+        "gameLink": "/game-details/8/604980309",
+        "date": "01/01/2025 14:30:00",
+        "gameIcons": [{ "active": true }, { "tv": true }],
+        "odds": [
+          { "back": "4.68", "lay": "5.57" },
+          { "back": "-", "lay": "-" },
+          { "back": "1.22", "lay": "1.27" }
+        ]
+      },
+      {
+        "gameName": "Radim Urbaniec - Oldrich Vrtal",
+        "gameLink": "/game-details/8/626274066",
+        "date": "01/01/2025 14:30:00",
+        "gameIcons": [{ "active": true }, { "tv": true }],
+        "odds": [
+          { "back": "1.22", "lay": "1.27" },
+          { "back": "-", "lay": "-" },
+          { "back": "4.68", "lay": "5.57" }
+        ]
+      },
+      {
+        "gameName": "Jiri Nesnera - Lukas Jindrak",
+        "gameLink": "/game-details/8/775767540",
+        "date": "01/01/2025 14:30:00",
+        "gameIcons": [{ "active": true }, { "tv": true }],
+        "odds": [
+          { "back": "1.17", "lay": "1.22" },
+          { "back": "-", "lay": "-" },
+          { "back": "5.53", "lay": "6.9" }
+        ]
+      },
+      {
+        "gameName": "Jan Krupnik - Tomas Lysek",
+        "gameLink": "/game-details/8/493718901",
+        "date": "01/01/2025 15:00:00",
+        "gameIcons": [{}, {}, {}, {}, {}],
+        "odds": [
+          { "back": "-", "lay": "-" },
+          { "back": "-", "lay": "-" },
+          { "back": "-", "lay": "-" }
+        ]
+      }
     ]
   },
   {
-    "gameName": "India Women v West Indies Women",
-    "gameLink": "https://allpanelexch.com/game-details/4/496411633",
-    "date": "22/12/2024 13:30:00",
-    "gameIcons": [
-      { "active": true },
-      { "icon": "fas fa-tv icon-tv" },
-      { "icon": "../assets/table-logo/ic_fancy.png" },
-      { "icon": "../assets/table-logo/ic_bm.png" },
-      {}
-    ],
-    "odds": [
-      { "back": "1.05", "lay": "1.06" },
-      { "back": "-", "lay": "-" },
-      { "back": "20", "lay": "21" }
+    "game": "Basketball",
+    "match": [
+      {
+        "gameName": "New Taipei Kings - New Taipei CTBC DEA",
+        "gameLink": "/game-details/15/861342933",
+        "date": "01/01/2025 14:30:00",
+        "gameIcons": [{ "active": true }, { "tv": true }],
+        "odds": [
+          { "back": "1.08", "lay": "1.13" },
+          { "back": "-", "lay": "-" },
+          { "back": "8.67", "lay": "13.52" }
+        ]
+      },
+      {
+        "gameName": "Beijing Ducks - Liaoning Flying Leopards",
+        "gameLink": "/game-details/15/484198531",
+        "date": "01/01/2025 17:05:00",
+        "gameIcons": [],
+        "odds": [
+          { "back": "1.34", "lay": "1.44" },
+          { "back": "-", "lay": "-" },
+          { "back": "3.25", "lay": "3.96" }
+        ]
+      },
+      {
+        "gameName": "Qingdao DoubleStar Eagles - Sichuan Blue Whales",
+        "gameLink": "/game-details/15/680833494",
+        "date": "01/01/2025 17:05:00",
+        "gameIcons": [],
+        "odds": [
+          { "back": "-", "lay": "-" },
+          { "back": "-", "lay": "-" },
+          { "back": "-", "lay": "-" }
+        ]
+      },
+      {
+        "gameName": "Zhejiang Lions - Guangzhou Long-Lions",
+        "gameLink": "/game-details/15/882111743",
+        "date": "01/01/2025 17:05:00",
+        "gameIcons": [],
+        "odds": [
+          { "back": "1.01", "lay": "1.08" },
+          { "back": "-", "lay": "-" },
+          { "back": "13.48", "lay": "101.02" }
+        ]
+      },
+      {
+        "gameName": "Guangdong - TianJin Ronggang",
+        "gameLink": "/game-details/15/896230622",
+        "date": "01/01/2025 17:05:00",
+        "gameIcons": [],
+        "odds": [
+          { "back": "1.1", "lay": "1.18" },
+          { "back": "-", "lay": "-" },
+          { "back": "6.54", "lay": "11.02" }
+        ]
+      },
+      {
+        "gameName": "Xinjiang Flying Tigers - Shandong Heroes",
+        "gameLink": "/game-details/15/884084724",
+        "date": "01/01/2025 17:30:00",
+        "gameIcons": [],
+        "odds": [
+          { "back": "1.36", "lay": "1.46" },
+          { "back": "-", "lay": "-" },
+          { "back": "3.15", "lay": "3.8" }
+        ]
+      }
     ]
   },
   {
-    "gameName": "Chennai Super Kings XI v Kolkata Knight Riders XI",
-    "gameLink": "https://allpanelexch.com/cricketv/4/86930341",
-    "date": "22/12/2024 16:05:00",
-    "gameIcons": [
-      { "active": true },
-      {},
-      { "icon": "../assets/table-logo/ic_fancy.png" },
-      { "icon": "../assets/table-logo/ic_bm.png" },
-      { "icon": "../assets/table-logo/game-icon.svg" }
-    ],
-    "odds": [
-      { "back": "-", "lay": "-" },
-      { "back": "-", "lay": "-" },
-      { "back": "-", "lay": "-" }
+    "game": "Boxing",
+    "match": []
+  },
+  {
+    "game": "Mixed Martial Arts",
+    "match": []
+  },
+  {
+    "game": "American Football",
+    "match": [
+      {
+        "gameName": "Arizona State - Texas Longhorns",
+        "gameLink": "/game-details/58/606013649",
+        "date": "01/01/2025 23:30:00",
+        "gameIcons": [],
+        "odds": [
+          { "back": "4.98", "lay": "6.28" },
+          { "back": "-", "lay": "-" },
+          { "back": "1.19", "lay": "1.25" }
+        ]
+      },
+      {
+        "gameName": "Oregon - Ohio State",
+        "gameLink": "/game-details/58/658973942",
+        "date": "02/01/2025 03:30:00",
+        "gameIcons": [],
+        "odds": [
+          { "back": "2.2", "lay": "2.37" },
+          { "back": "-", "lay": "-" },
+          { "back": "1.74", "lay": "1.82" }
+        ]
+      },
+      {
+        "gameName": "Georgia - Notre Dame",
+        "gameLink": "/game-details/58/558374345",
+        "date": "02/01/2025 07:15:00",
+        "gameIcons": [],
+        "odds": [
+          { "back": "1.88", "lay": "1.96" },
+          { "back": "-", "lay": "-" },
+          { "back": "2.02", "lay": "2.16" }
+        ]
+      },
+      {
+        "gameName": "Mississippi - Duke",
+        "gameLink": "/game-details/58/506349282",
+        "date": "03/01/2025 06:00:00",
+        "gameIcons": [],
+        "odds": [
+          { "back": "1.13", "lay": "1.18" },
+          { "back": "-", "lay": "-" },
+          { "back": "6.54", "lay": "8.71" }
+        ]
+      },
+      {
+        "gameName": "Texas State - North Texas",
+        "gameLink": "/game-details/58/585236512",
+        "date": "04/01/2025 02:30:00",
+        "gameIcons": [],
+        "odds": [
+          { "back": "1.2", "lay": "1.26" },
+          { "back": "-", "lay": "-" },
+          { "back": "4.83", "lay": "6.02" }
+        ]
+      }
     ]
   },
   {
-    "gameName": "Adelaide Strikers T10 v Brisbane Heat T10",
-    "gameLink": "https://allpanelexch.com/virtual-cricket/4/647788818",
-    "date": "22/12/2024 16:30:00",
-    "gameIcons": [
-      { "active": true },
-      { "icon": "fas fa-tv icon-tv" },
-      { "icon": "../assets/table-logo/ic_fancy.png" },
-      {},
-      { "icon": "../assets/table-logo/game-icon.svg" }
-    ],
-    "odds": [
-      { "back": "-", "lay": "-" },
-      { "back": "-", "lay": "-" },
-      { "back": "-", "lay": "-" }
+    "game": "Volleyball",
+    "match": [
+      {
+        "gameName": "Tabiat - Foolad Sirjan",
+        "gameLink": "/game-details/18/467928943",
+        "date": "01/01/2025 18:00:00",
+        "gameIcons": ["", "", "", "", ""],
+        "odds": [
+          { "back": "-", "lay": "-" },
+          { "back": "-", "lay": "-" },
+          { "back": "-", "lay": "-" }
+        ]
+      },
+      {
+        "gameName": "Mehregan Noor - Giti Pasand Isfahan",
+        "gameLink": "/game-details/18/554354770",
+        "date": "01/01/2025 18:00:00",
+        "gameIcons": ["", "", "", "", ""],
+        "odds": [
+          { "back": "-", "lay": "-" },
+          { "back": "-", "lay": "-" },
+          { "back": "-", "lay": "-" }
+        ]
+      },
+      {
+        "gameName": "Sepehr Sadra Mashhad - Pas Gorgan",
+        "gameLink": "/game-details/18/724657962",
+        "date": "01/01/2025 18:00:00",
+        "gameIcons": ["", "", "", "", ""],
+        "odds": [
+          { "back": "-", "lay": "-" },
+          { "back": "-", "lay": "-" },
+          { "back": "-", "lay": "-" }
+        ]
+      },
+      {
+        "gameName": "Mes Rafsanjan - Saipa Alborz",
+        "gameLink": "/game-details/18/734505095",
+        "date": "01/01/2025 18:00:00",
+        "gameIcons": ["", "", "", "", ""],
+        "odds": [
+          { "back": "-", "lay": "-" },
+          { "back": "-", "lay": "-" },
+          { "back": "-", "lay": "-" }
+        ]
+      },
+      {
+        "gameName": "Sanatgaran Omid - Chador Malu",
+        "gameLink": "/game-details/18/777759377",
+        "date": "01/01/2025 18:00:00",
+        "gameIcons": ["", "", "", "", ""],
+        "odds": [
+          { "back": "-", "lay": "-" },
+          { "back": "-", "lay": "-" },
+          { "back": "-", "lay": "-" }
+        ]
+      },
+      {
+        "gameName": "Shahdab Yazd - Shahrdari Urmia",
+        "gameLink": "/game-details/18/810358855",
+        "date": "01/01/2025 18:00:00",
+        "gameIcons": ["", "", "", "", ""],
+        "odds": [
+          { "back": "-", "lay": "-" },
+          { "back": "-", "lay": "-" },
+          { "back": "-", "lay": "-" }
+        ]
+      }
     ]
   },
   {
-    "gameName": "SLZ XI v BT XI",
-    "gameLink": "https://allpanelexch.com/cricketv/4/86088044",
-    "date": "22/12/2024 17:15:00",
-    "gameIcons": [
-      { "active": true },
-      {},
-      { "icon": "../assets/table-logo/ic_fancy.png" },
-      { "icon": "../assets/table-logo/ic_bm.png" },
-      { "icon": "../assets/table-logo/game-icon.svg" }
-    ],
-    "odds": [
-      { "back": "-", "lay": "-" },
-      { "back": "-", "lay": "-" },
-      { "back": "-", "lay": "-" }
+    "game": "Badminton",
+    "match": []
+  },
+  {
+    "game": "Snooker",
+    "match": []
+  },
+  {
+    "game": "Ice Hockey",
+    "match": [
+      {
+        "gameName": "UPC Vienna Capitals - EC-KAC",
+        "gameLink": "/game-details/19/534416362",
+        "date": "01/01/2025 22:00:00",
+        "gameIcons": ["", "", "", "", ""],
+        "odds": [
+          { "back": "-", "lay": "-" },
+          { "back": "-", "lay": "-" },
+          { "back": "-", "lay": "-" }
+        ]
+      },
+      {
+        "gameName": "Gyergyoi - SC Csikszereda",
+        "gameLink": "/game-details/19/780572273",
+        "date": "01/01/2025 22:00:00",
+        "gameIcons": ["", "", "", "", ""],
+        "odds": [
+          { "back": "1.43", "lay": "1.54" },
+          { "back": "-", "lay": "-" },
+          { "back": "2.83", "lay": "3.35" }
+        ]
+      },
+      {
+        "gameName": "Villacher SV - Fehervar AV19",
+        "gameLink": "/game-details/19/796894389",
+        "date": "01/01/2025 22:00:00",
+        "gameIcons": ["", "", "", "", ""],
+        "odds": [
+          { "back": "1.57", "lay": "1.69" },
+          { "back": "-", "lay": "-" },
+          { "back": "2.43", "lay": "2.77" }
+        ]
+      },
+      {
+        "gameName": "Manchester Storm - Sheffield Steelers",
+        "gameLink": "/game-details/19/520461457",
+        "date": "01/01/2025 23:00:00",
+        "gameIcons": ["", "", "", "", ""],
+        "odds": [
+          { "back": "-", "lay": "-" },
+          { "back": "-", "lay": "-" },
+          { "back": "-", "lay": "-" }
+        ]
+      },
+      {
+        "gameName": "Toronto Marlies - Syracuse Crunch",
+        "gameLink": "/game-details/19/864084677",
+        "date": "02/01/2025 00:30:00",
+        "gameIcons": ["", "", "", "", ""],
+        "odds": [
+          { "back": "-", "lay": "-" },
+          { "back": "-", "lay": "-" },
+          { "back": "-", "lay": "-" }
+        ]
+      },
+      {
+        "gameName": "Calgary Wranglers - Abbotsford Canucks",
+        "gameLink": "/game-details/19/851672795",
+        "date": "02/01/2025 02:30:00",
+        "gameIcons": ["", "", "", "", ""],
+        "odds": [
+          { "back": "-", "lay": "-" },
+          { "back": "-", "lay": "-" },
+          { "back": "-", "lay": "-" }
+        ]
+      },
+      {
+        "gameName": "Los Angeles Kings - New Jersey Devils",
+        "gameLink": "/game-details/19/675504718",
+        "date": "02/01/2025 04:30:00",
+        "gameIcons": ["", "", "", "", ""],
+        "odds": [
+          { "back": "1.86", "lay": "1.99" },
+          { "back": "-", "lay": "-" },
+          { "back": "1.99", "lay": "2.18" }
+        ]
+      },
+      {
+        "gameName": "San Diego Gulls - San Jose Barracuda",
+        "gameLink": "/game-details/19/834184593",
+        "date": "02/01/2025 08:30:00",
+        "gameIcons": ["", "", "", "", ""],
+        "odds": [
+          { "back": "-", "lay": "-" },
+          { "back": "-", "lay": "-" },
+          { "back": "-", "lay": "-" }
+        ]
+      }
     ]
   },
   {
-    "gameName": "Test A v Test B",
-    "gameLink": "https://allpanelexch.com/game-details/4/776577182",
-    "date": "05/12/2024 00:00:00",
-    "gameIcons": [{}, {}, {}, { "icon": "../assets/table-logo/ic_bm.png" }, {}],
-    "odds": [
-      { "back": "-", "lay": "-" },
-      { "back": "-", "lay": "-" },
-      { "back": "-", "lay": "-" }
-    ]
+    "game": "E Games",
+    "match": []
   },
   {
-    "gameName": "New Zealand Women v Australia Women",
-    "gameLink": "https://allpanelexch.com/game-details/4/865809752",
-    "date": "23/12/2024 03:30:00",
-    "gameIcons": [
-      { "active": true },
-      { "icon": "../assets/table-logo/ic_fancy.png" },
-      { "icon": "../assets/table-logo/ic_bm.png" }
-    ],
-    "odds": [
-      { "back": "5.5", "lay": "5.7" },
-      { "back": "-", "lay": "-" },
-      { "back": "1.21", "lay": "1.22" }
-    ]
+    "game": "Futsal",
+    "match": []
   },
   {
-    "gameName": "Melbourne Renegades v Perth Scorchers",
-    "gameLink": "https://allpanelexch.com/game-details/4/921890659",
-    "date": "23/12/2024 13:45:00",
-    "gameIcons": [
-      { "active": true },
-      { "icon": "../assets/table-logo/ic_fancy.png" }
-    ],
-    "odds": [
-      { "back": "2.12", "lay": "2.16" },
-      { "back": "-", "lay": "-" },
-      { "back": "1.87", "lay": "1.88" }
-    ]
+    "game": "Handball",
+    "match": []
   },
   {
-    "gameName": "Markhors v Lions",
-    "gameLink": "https://allpanelexch.com/game-details/4/495113747",
-    "date": "23/12/2024 16:00:00",
-    "gameIcons": [{ "active": true }],
-    "odds": [
-      { "back": "1.8", "lay": "2.34" },
-      { "back": "-", "lay": "-" },
-      { "back": "1.78", "lay": "2.42" }
-    ]
+    "game": "Motor Sports",
+    "match": []
   },
   {
-    "gameName": "Australia v India",
-    "gameLink": "https://allpanelexch.com/game-details/4/578112323",
-    "date": "26/12/2024 05:00:00",
-    "gameIcons": [{ "active": true }],
-    "odds": [
-      { "back": "1.68", "lay": "1.69" },
-      { "back": "13", "lay": "13.5" },
-      { "back": "3", "lay": "3.1" }
-    ]
+    "game": "Horse Racing",
+    "match": []
   },
   {
-    "gameName": "Zimbabwe v Afghanistan",
-    "gameLink": "https://allpanelexch.com/game-details/4/599510711",
-    "date": "26/12/2024 13:30:00",
-    "gameIcons": [{ "active": true }],
-    "odds": [
-      { "back": "5.3", "lay": "9" },
-      { "back": "3.6", "lay": "4" },
-      { "back": "1.61", "lay": "1.88" }
-    ]
-  },
-  {
-    "gameName": "South Africa v Pakistan",
-    "gameLink": "https://allpanelexch.com/game-details/4/673235885",
-    "date": "26/12/2024 13:30:00",
-    "gameIcons": [{ "active": true }],
-    "odds": [
-      { "back": "1.86", "lay": "1.87" },
-      { "back": "4.8", "lay": "4.9" },
-      { "back": "3.8", "lay": "3.95" }
-    ]
-  },
-  {
-    "gameName": "England T10 v Australia T10",
-    "gameLink": "https://allpanelexch.com/virtual-cricket/4/565065532",
-    "gameDate": "22/12/2024 17:20:00",
-    "icons": [
-      "../assets/table-logo/ic_bm.png",
-      "../assets/table-logo/game-icon.svg"
-    ],
-    "odds": [
-      { "back": "-", "lay": "-" },
-      { "back": "-", "lay": "-" },
-      { "back": "-", "lay": "-" }
-    ]
-  },
-  {
-    "gameName": "South Africa v Pakistan",
-    "gameLink": "https://allpanelexch.com/game-details/4/735673718",
-    "gameDate": "22/12/2024 17:30:00",
-    "icons": [
-      "../assets/table-logo/ic_fancy.png",
-      "../assets/table-logo/ic_bm.png"
-    ],
-    "odds": [
-      { "back": "1.66", "lay": "1.67" },
-      { "back": "-", "lay": "-" },
-      { "back": "2.48", "lay": "2.52" }
-    ]
-  },
-  {
-    "gameName": "Delhi Capitals T10 v Kolkata Knight Riders T10",
-    "gameLink": "https://allpanelexch.com/virtual-cricket/4/798844733",
-    "gameDate": "22/12/2024 17:30:00",
-    "icons": [
-      "../assets/table-logo/ic_fancy.png",
-      "../assets/table-logo/game-icon.svg"
-    ],
-    "odds": [
-      { "back": "-", "lay": "-" },
-      { "back": "-", "lay": "-" },
-      { "back": "-", "lay": "-" }
-    ]
-  },
-  {
-    "gameName": "New Zealand T10 v Sri Lanka T10",
-    "gameLink": "https://allpanelexch.com/virtual-cricket/4/622394329",
-    "gameDate": "22/12/2024 17:45:00",
-    "icons": [
-      "../assets/table-logo/ic_fancy.png",
-      "../assets/table-logo/game-icon.svg"
-    ],
-    "odds": [
-      { "back": "-", "lay": "-" },
-      { "back": "-", "lay": "-" },
-      { "back": "-", "lay": "-" }
-    ]
-  },
-  {
-    "gameName": "Lucknow Super T10 v Royal Challengers T10",
-    "gameLink": "https://allpanelexch.com/virtual-cricket/4/594462836",
-    "gameDate": "22/12/2024 18:45:00",
-    "icons": [
-      "../assets/table-logo/ic_fancy.png",
-      "../assets/table-logo/game-icon.svg"
-    ],
-    "odds": [
-      { "back": "-", "lay": "-" },
-      { "back": "-", "lay": "-" },
-      { "back": "-", "lay": "-" }
-    ]
-  },
-  {
-    "gameName": "Bangladesh T10 v New Zealand T10",
-    "gameLink": "https://allpanelexch.com/virtual-cricket/4/895026767",
-    "gameDate": "22/12/2024 20:00:00",
-    "icons": [
-      "../assets/table-logo/ic_fancy.png",
-      "../assets/table-logo/game-icon.svg"
-    ],
-    "odds": [
-      { "back": "-", "lay": "-" },
-      { "back": "-", "lay": "-" },
-      { "back": "-", "lay": "-" }
-    ]
+    "game": "Greyhound Racing",
+    "match": []
   }
 ]

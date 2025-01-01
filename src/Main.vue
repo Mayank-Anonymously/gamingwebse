@@ -20,7 +20,7 @@ import AppHeader from "./components/AppHeader.vue";
 import AppFooter from "./components/AppFooter.vue";
 import AppSidebar from "./components/Sidebar.vue";
 // import MainContainer from "./components/MainContainer.vue";
-import MainContainer from "./components/MainTable.vue";
+import MainContainer from "./components/HeaderTabsTable.vue";
 
 import "./css/all.min.css";
 import "./css/bootstrap.min.css";
