@@ -21,14 +21,14 @@
         ]
       }
     ]
-  },  
+  },
   {
     "game": "Cricket",
     "route-param": "/all-sports/4",
     "match": [
       {
         "gameName": "Ball by Ball",
-        "gameLink": "https://allpanelexch.com/casino/ballbyball",
+        "gameLink": "casino/ballbyball",
         "date": "",
         "gameIcons": [
           { "active": true },
@@ -46,7 +46,7 @@
       },
       {
         "gameName": "Twenty20 Big Bash",
-        "gameLink": "https://allpanelexch.com/game-details/4/603706836",
+        "gameLink": "game-details/4/603706836",
         "date": "14/12/2024 13:45:00",
         "gameIcons": [
           { "active": true },
@@ -63,7 +63,7 @@
       },
       {
         "gameName": "India Women v West Indies Women",
-        "gameLink": "https://allpanelexch.com/game-details/4/496411633",
+        "gameLink": "game-details/4/496411633",
         "date": "22/12/2024 13:30:00",
         "gameIcons": [
           { "active": true },
@@ -80,7 +80,7 @@
       },
       {
         "gameName": "Chennai Super Kings XI v Kolkata Knight Riders XI",
-        "gameLink": "https://allpanelexch.com/cricketv/4/86930341",
+        "gameLink": "cricketv/4/86930341",
         "date": "22/12/2024 16:05:00",
         "gameIcons": [
           { "active": true },
@@ -97,7 +97,7 @@
       },
       {
         "gameName": "Adelaide Strikers T10 v Brisbane Heat T10",
-        "gameLink": "https://allpanelexch.com/virtual-cricket/4/647788818",
+        "gameLink": "virtual-cricket/4/647788818",
         "date": "22/12/2024 16:30:00",
         "gameIcons": [
           { "active": true },
@@ -114,7 +114,7 @@
       },
       {
         "gameName": "SLZ XI v BT XI",
-        "gameLink": "https://allpanelexch.com/cricketv/4/86088044",
+        "gameLink": "cricketv/4/86088044",
         "date": "22/12/2024 17:15:00",
         "gameIcons": [
           { "active": true },
@@ -131,7 +131,7 @@
       },
       {
         "gameName": "Test A v Test B",
-        "gameLink": "https://allpanelexch.com/game-details/4/776577182",
+        "gameLink": "game-details/4/776577182",
         "date": "05/12/2024 00:00:00",
         "gameIcons": [
           {},
@@ -148,7 +148,7 @@
       },
       {
         "gameName": "New Zealand Women v Australia Women",
-        "gameLink": "https://allpanelexch.com/game-details/4/865809752",
+        "gameLink": "game-details/4/865809752",
         "date": "23/12/2024 03:30:00",
         "gameIcons": [
           { "active": true },
@@ -163,7 +163,7 @@
       },
       {
         "gameName": "Melbourne Renegades v Perth Scorchers",
-        "gameLink": "https://allpanelexch.com/game-details/4/921890659",
+        "gameLink": "game-details/4/921890659",
         "date": "23/12/2024 13:45:00",
         "gameIcons": [
           { "active": true },
@@ -177,7 +177,7 @@
       },
       {
         "gameName": "Markhors v Lions",
-        "gameLink": "https://allpanelexch.com/game-details/4/495113747",
+        "gameLink": "game-details/4/495113747",
         "date": "23/12/2024 16:00:00",
         "gameIcons": [{ "active": true }],
         "odds": [
@@ -188,7 +188,7 @@
       },
       {
         "gameName": "Australia v India",
-        "gameLink": "https://allpanelexch.com/game-details/4/578112323",
+        "gameLink": "game-details/4/578112323",
         "date": "26/12/2024 05:00:00",
         "gameIcons": [{ "active": true }],
         "odds": [
@@ -199,7 +199,7 @@
       },
       {
         "gameName": "Zimbabwe v Afghanistan",
-        "gameLink": "https://allpanelexch.com/game-details/4/599510711",
+        "gameLink": "game-details/4/599510711",
         "date": "26/12/2024 13:30:00",
         "gameIcons": [{ "active": true }],
         "odds": [
@@ -210,7 +210,7 @@
       },
       {
         "gameName": "South Africa v Pakistan",
-        "gameLink": "https://allpanelexch.com/game-details/4/673235885",
+        "gameLink": "game-details/4/673235885",
         "date": "26/12/2024 13:30:00",
         "gameIcons": [{ "active": true }],
         "odds": [
@@ -221,7 +221,7 @@
       },
       {
         "gameName": "England T10 v Australia T10",
-        "gameLink": "https://allpanelexch.com/virtual-cricket/4/565065532",
+        "gameLink": "virtual-cricket/4/565065532",
         "gameDate": "22/12/2024 17:20:00",
         "icons": [
           "../assets/table-logo/ic_bm.png",
@@ -235,7 +235,7 @@
       },
       {
         "gameName": "South Africa v Pakistan",
-        "gameLink": "https://allpanelexch.com/game-details/4/735673718",
+        "gameLink": "game-details/4/735673718",
         "gameDate": "22/12/2024 17:30:00",
         "icons": [
           "../assets/table-logo/ic_fancy.png",
@@ -249,7 +249,7 @@
       },
       {
         "gameName": "Delhi Capitals T10 v Kolkata Knight Riders T10",
-        "gameLink": "https://allpanelexch.com/virtual-cricket/4/798844733",
+        "gameLink": "virtual-cricket/4/798844733",
         "gameDate": "22/12/2024 17:30:00",
         "icons": [
           "../assets/table-logo/ic_fancy.png",
@@ -263,7 +263,7 @@
       },
       {
         "gameName": "New Zealand T10 v Sri Lanka T10",
-        "gameLink": "https://allpanelexch.com/virtual-cricket/4/622394329",
+        "gameLink": "virtual-cricket/4/622394329",
         "gameDate": "22/12/2024 17:45:00",
         "icons": [
           "../assets/table-logo/ic_fancy.png",
@@ -277,7 +277,7 @@
       },
       {
         "gameName": "Lucknow Super T10 v Royal Challengers T10",
-        "gameLink": "https://allpanelexch.com/virtual-cricket/4/594462836",
+        "gameLink": "virtual-cricket/4/594462836",
         "gameDate": "22/12/2024 18:45:00",
         "icons": [
           "../assets/table-logo/ic_fancy.png",
@@ -291,7 +291,7 @@
       },
       {
         "gameName": "Bangladesh T10 v New Zealand T10",
-        "gameLink": "https://allpanelexch.com/virtual-cricket/4/895026767",
+        "gameLink": "virtual-cricket/4/895026767",
         "gameDate": "22/12/2024 20:00:00",
         "icons": [
           "../assets/table-logo/ic_fancy.png",

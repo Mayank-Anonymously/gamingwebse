@@ -1,27 +1,27 @@
 [
   {
     "name": "Our Casino",
-    "url": "https://allpanelexch.com/casino-list/LC/4",
+    "url": "casino-list/LC/4",
     "class": "blink_me"
   },
   {
     "name": "Our Virtual",
-    "url": "https://allpanelexch.com/casino-list/LC/19",
+    "url": "casino-list/LC/19",
     "class": "blink_me"
   },
   {
     "name": "Live Casino",
-    "url": "https://allpanelexch.com/live-casino-list/CS/26",
+    "url": "live-casino-list/CS/26",
     "class": ""
   },
   {
     "name": "Slot Game",
-    "url": "https://allpanelexch.com/slot-list",
+    "url": "slot-list",
     "class": ""
   },
   {
     "name": "Fantasy Game",
-    "url": "https://allpanelexch.com/fantasy-list",
+    "url": "fantasy-list",
     "class": ""
   }
 ]
