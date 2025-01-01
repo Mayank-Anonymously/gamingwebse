@@ -2,13 +2,13 @@
   {
     "name": "Politics",
     "icon": "icon-40",
-    "link": "#"
+    "link": "#",
+    "active": true
   },
   {
     "name": "Cricket",
     "icon": "icon-4",
-    "link": "#",
-    "active": true
+    "link": "#"
   },
   {
     "name": "Football",

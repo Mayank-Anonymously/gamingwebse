@@ -5,20 +5,12 @@
         <nav class="navbar navbar-expand-sm">
           <ul class="navbar-nav">
             <li class="nav-item">
-              <a
-                class="nav-link"
-                href="https://allpanelexch.com/terms-and-conditions"
-                target="_blank"
-              >
+              <a class="nav-link" href="terms-and-conditions" target="_blank">
                 Terms and Conditions
               </a>
             </li>
             <li class="nav-item">
-              <a
-                class="nav-link"
-                href="https://allpanelexch.com/responsible-gaming"
-                target="_blank"
-              >
+              <a class="nav-link" href="responsible-gaming" target="_blank">
                 Responsible Gaming
               </a>
             </li>

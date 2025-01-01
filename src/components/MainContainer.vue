@@ -146,7 +146,7 @@ export default {
   },
   methods: {
     setActiveTab(name) {
-      this.sportName = !name ? "Cricket" : name;
+      this.sportName = !name ? "Politics" : name;
       // Filter the data based on the selected tab's filter
       this.filteredData = this.matches.filter((data) => data.game === name)[0];
       // Check if no records are found
