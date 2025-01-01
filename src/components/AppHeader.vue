@@ -110,38 +110,57 @@
       <nav class="navbar navbar-expand">
         <ul class="navbar-nav">
           <li class="nav-item">
-            <a class="nav-link" href="/home">Home</a>
+            <router-link class="nav-link" to="/home">Home</router-link>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="/sports-book/33">Lottery</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="/games/cricket/all-sports">Cricket</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="/games/tennis/all-sports">Tennis</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="/games/football/all-sports">Football</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="/games/table-tennis/all-sports">Table Tennis</a
+            <router-link class="nav-link" to="/sports-book/33"
+              >Lottery</router-link
             >
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="/games/name/22">Baccarat</a>
+            <router-link class="nav-link" to="/games/cricket/all-sports"
+              >Cricket</router-link
+            >
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="/games/name/24">32 Cards</a>
+            <router-link class="nav-link" to="/games/tennis/all-sports"
+              >Tennis</router-link
+            >
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="/games/name/20">Teenpatti</a>
+            <router-link class="nav-link" to="/games/football/all-sports"
+              >Football</router-link
+            >
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="/games/name/21">Poker</a>
+            <router-link class="nav-link" to="/games/table-tennis/all-sports"
+              >Table Tennis</router-link
+            >
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="/games/name/27">Lucky 7</a>
+            <router-link class="nav-link" to="/games/name/22"
+              >Baccarat</router-link
+            >
+          </li>
+          <li class="nav-item">
+            <router-link class="nav-link" to="/games/name/24"
+              >32 Cards</router-link
+            >
+          </li>
+          <li class="nav-item">
+            <router-link class="nav-link" to="/games/name/20"
+              >Teenpatti</router-link
+            >
+          </li>
+          <li class="nav-item">
+            <router-link class="nav-link" to="/games/name/21"
+              >Poker</router-link
+            >
+          </li>
+          <li class="nav-item">
+            <router-link class="nav-link" to="/games/name/27"
+              >Lucky 7</router-link
+            >
           </li>
         </ul>
       </nav>
