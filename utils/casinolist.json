@@ -1,342 +1,479 @@
 [
   {
+    "category": "Roulette",
     "name": "Unique Roulette",
     "image": "https://dataobj.ecoassetsservice.com/casino-icons/lc/ourroullete.jpg",
-    "link": "https://allpanelexch.com/casino/ourroullete"
+    "link": "/casino/ourroullete"
   },
+
   {
+    "category": "Sports",
     "name": "Mini Superover",
     "image": "https://dataobj.ecoassetsservice.com/casino-icons/lc/superover3.jpg",
-    "link": "https://allpanelexch.com/casino/superover3"
+    "link": "/casino/superover3"
   },
+
   {
+    "category": "Sports",
     "name": "Goal",
     "image": "https://dataobj.ecoassetsservice.com/casino-icons/lc/goal.jpg",
-    "link": "https://allpanelexch.com/casino/goal"
+    "link": "/casino/goal"
   },
+
   {
+    "category": "Andar Bahar",
     "name": "ANDAR BAHAR 150 cards",
     "image": "https://dataobj.ecoassetsservice.com/casino-icons/lc/ab4.jpg",
-    "link": "https://allpanelexch.com/casino/ab4"
+    "link": "/casino/ab4"
   },
+
   {
+    "route": "27",
+    "category": "Lucky 7",
     "name": "Lucky 15",
     "image": "https://dataobj.ecoassetsservice.com/casino-icons/lc/lucky15.jpg",
-    "link": "https://allpanelexch.com/casino/lucky15"
+    "link": "/casino/lucky15"
   },
+
   {
     "name": "Super Over2",
     "image": "https://dataobj.ecoassetsservice.com/casino-icons/lc/superover2.jpg",
-    "link": "https://allpanelexch.com/casino/superover2"
+    "link": "/casino/superover2"
   },
+
   {
+    "route": "20",
+    "category": "Teenpatti",
     "name": "Queen Top Open Teenpatti",
     "image": "https://dataobj.ecoassetsservice.com/casino-icons/lc/teen41.jpg",
-    "link": "https://allpanelexch.com/casino/teen41"
+    "link": "/casino/teen41"
   },
+
   {
+    "route": "20",
+    "category": "Teenpatti",
     "name": "Jack Top Open Teenpatti",
     "image": "https://dataobj.ecoassetsservice.com/casino-icons/lc/teen42.jpg",
-    "link": "https://allpanelexch.com/casino/teen42"
+    "link": "/casino/teen42"
   },
+
   {
+    "category": "Roulette",
     "name": "Roulette",
     "image": "https://dataobj.ecoassetsservice.com/casino-icons/lc/roulette3.jpg",
-    "link": "https://allpanelexch.com/casino-list/LC/4/31"
+    "link": "31"
   },
+
   {
+    "category": "Others",
     "name": "Sic Bo2",
     "image": "https://dataobj.ecoassetsservice.com/casino-icons/lc/sicbo2.jpg",
-    "link": "https://allpanelexch.com/casino/sicbo2"
+    "link": "/casino/sicbo2"
   },
+
   {
+    "category": "Roulette",
     "name": "Roulette",
     "image": "https://dataobj.ecoassetsservice.com/casino-icons/lc/roulette2.jpg",
-    "link": "https://allpanelexch.com/casino-list/LC/4/31"
+    "link": "31"
   },
+
   {
+    "route": "20",
+    "category": "Teenpatti",
     "name": "Instant Teenpatti 3.0",
     "image": "https://dataobj.ecoassetsservice.com/casino-icons/lc/teen33.jpg",
-    "link": "https://allpanelexch.com/casino/teen33"
+    "link": "/casino/teen33"
   },
+
   {
+    "category": "Others",
     "name": "Sic Bo",
     "image": "https://dataobj.ecoassetsservice.com/casino-icons/lc/sicbo.jpg",
-    "link": "https://allpanelexch.com/casino/sicbo"
+    "link": "/casino/sicbo"
   },
+
   {
+    "category": "Others",
     "name": "Ball by Ball",
     "image": "https://dataobj.ecoassetsservice.com/casino-icons/lc/ballbyball.jpg",
-    "link": "https://allpanelexch.com/casino/ballbyball"
+    "link": "/casino/ballbyball"
   },
+
   {
+    "route": "20",
+    "category": "Teenpatti",
     "name": "Instant Teenpatti 2.0",
     "image": "https://dataobj.ecoassetsservice.com/casino-icons/lc/teen32.jpg",
-    "link": "https://allpanelexch.com/casino/teen32"
+    "link": "/casino/teen32"
   },
+
   {
+    "category": "Roulette",
     "name": "Roulette",
     "image": "https://dataobj.ecoassetsservice.com/casino-icons/lc/roulette1.jpg",
-    "link": "https://allpanelexch.com/casino-list/LC/4/31"
+    "link": "31"
   },
+
   {
+    "route": "20",
+    "category": "Teenpatti",
     "name": "Teenpatti 1-day",
     "image": "https://dataobj.ecoassetsservice.com/casino-icons/lc/teen.jpg",
-    "link": "https://allpanelexch.com/casino/teen"
+    "link": "/casino/teen"
   },
+
   {
+    "route": "20",
+    "category": "Teenpatti",
     "name": "20-20 Teenpatti",
     "image": "https://dataobj.ecoassetsservice.com/casino-icons/lc/teen20.jpg",
-    "link": "https://allpanelexch.com/casino/teen20"
+    "link": "/casino/teen20"
   },
+
   {
     "name": "Teenpatti Test",
     "image": "https://dataobj.ecoassetsservice.com/casino-icons/lc/teen9.jpg",
-    "link": "https://allpanelexch.com/casino/teen9"
+    "link": "/casino/teen9"
   },
+
   {
+    "route": "20",
+    "category": "Teenpatti",
     "name": "Teenpatti Open",
     "image": "https://dataobj.ecoassetsservice.com/casino-icons/lc/teen8.jpg",
-    "link": "https://allpanelexch.com/casino/teen8"
+    "link": "/casino/teen8"
   },
+
   {
+    "route": "21",
+    "category": "Poker",
     "name": "Poker 1-Day",
     "image": "https://dataobj.ecoassetsservice.com/casino-icons/lc/poker.jpg",
-    "link": "https://allpanelexch.com/casino/poker"
+    "link": "/casino/poker"
   },
+
   {
+    "route": "21",
+    "category": "Poker",
     "name": "20-20 Poker",
     "image": "https://dataobj.ecoassetsservice.com/casino-icons/lc/poker20.jpg",
-    "link": "https://allpanelexch.com/casino/poker20"
+    "link": "/casino/poker20"
   },
+
   {
+    "route": "21",
+    "category": "Poker",
     "name": "Poker 6 Players",
     "image": "https://dataobj.ecoassetsservice.com/casino-icons/lc/poker6.jpg",
-    "link": "https://allpanelexch.com/casino/poker6"
+    "link": "/casino/poker6"
   },
+
   {
+    "route": "22",
+    "category": "Baccarat",
     "name": "Baccarat",
     "image": "https://dataobj.ecoassetsservice.com/casino-icons/lc/baccarat.jpg",
-    "link": "https://allpanelexch.com/casino/baccarat"
+    "link": "/casino/baccarat"
   },
+
   {
+    "route": "22",
+    "category": "Baccarat",
     "name": "Baccarat 2",
     "image": "https://dataobj.ecoassetsservice.com/casino-icons/lc/baccarat2.jpg",
-    "link": "https://allpanelexch.com/casino/baccarat2"
+    "link": "/casino/baccarat2"
   },
+
   {
+    "category": "Dragon Tiger",
     "name": "20-20 Dragon Tiger",
     "image": "https://dataobj.ecoassetsservice.com/casino-icons/lc/dt20.jpg",
-    "link": "https://allpanelexch.com/casino/dt20"
+    "link": "/casino/dt20"
   },
+
   {
+    "category": "Dragon Tiger",
     "name": "1 Day Dragon Tiger",
     "image": "https://dataobj.ecoassetsservice.com/casino-icons/lc/dt6.jpg",
-    "link": "https://allpanelexch.com/casino/dt6"
+    "link": "/casino/dt6"
   },
+
   {
     "name": "20-20 D T L",
     "image": "https://dataobj.ecoassetsservice.com/casino-icons/lc/dtl20.jpg",
-    "link": "https://allpanelexch.com/casino/dtl20"
+    "link": "/casino/dtl20"
   },
+
   {
+    "category": "Dragon Tiger",
     "name": "20-20 Dragon Tiger 2",
     "image": "https://dataobj.ecoassetsservice.com/casino-icons/lc/dt202.jpg",
-    "link": "https://allpanelexch.com/casino/dt202"
+    "link": "/casino/dt202"
   },
+
   {
+    "route": "24",
+    "category": "32 Cards",
     "name": "32 Cards A",
     "image": "https://dataobj.ecoassetsservice.com/casino-icons/lc/card32.jpg",
-    "link": "https://allpanelexch.com/casino/card32"
+    "link": "/casino/card32"
   },
   {
+    "route": "24",
+    "category": "32 Cards",
     "name": "32 Cards B",
     "image": "https://dataobj.ecoassetsservice.com/casino-icons/lc/card32eu.jpg",
-    "link": "https://allpanelexch.com/casino/card32eu"
+    "link": "/casino/card32eu"
   },
   {
+    "category": "Andar Bahar",
     "name": "Andar Bahar",
     "image": "https://dataobj.ecoassetsservice.com/casino-icons/lc/ab20.jpg",
-    "link": "https://allpanelexch.com/casino/ab20"
+    "link": "/casino/ab20"
   },
   {
+    "category": "Andar Bahar",
     "name": "Andar Bahar 2",
     "image": "https://dataobj.ecoassetsservice.com/casino-icons/lc/abj.jpg",
-    "link": "https://allpanelexch.com/casino/abj"
+    "link": "/casino/abj"
   },
   {
+    "route": "27",
+    "category": "Lucky 7",
     "name": "Lucky 7 - A",
     "image": "https://dataobj.ecoassetsservice.com/casino-icons/lc/lucky7.jpg",
-    "link": "https://allpanelexch.com/casino/lucky7"
+    "link": "/casino/lucky7"
   },
   {
+    "route": "27",
+    "category": "Lucky 7",
     "name": "Lucky 7 - B",
     "image": "https://dataobj.ecoassetsservice.com/casino-icons/lc/lucky7eu.jpg",
-    "link": "https://allpanelexch.com/casino/lucky7eu"
+    "link": "/casino/lucky7eu"
   },
   {
+    "category": "3 Cards Judgement",
     "name": "3 Cards Judgement",
     "image": "https://dataobj.ecoassetsservice.com/casino-icons/lc/3cardj.jpg",
-    "link": "https://allpanelexch.com/casino/3cardj"
+    "link": "/casino/3cardj"
   },
   {
     "name": "Casino War",
     "image": "https://dataobj.ecoassetsservice.com/casino-icons/lc/war.jpg",
-    "link": "https://allpanelexch.com/casino/war"
+    "link": "/casino/war"
   },
   {
+    "category": "Worli",
+
     "name": "Worli Matka",
     "image": "https://dataobj.ecoassetsservice.com/casino-icons/lc/worli.jpg",
-    "link": "https://allpanelexch.com/casino/worli"
+    "link": "/casino/worli"
   },
   {
+    "category": "Worli",
+
     "name": "Instant Worli",
     "image": "https://dataobj.ecoassetsservice.com/casino-icons/lc/worli2.jpg",
-    "link": "https://allpanelexch.com/casino/worli2"
+    "link": "/casino/worli2"
   },
   {
+    "category": "Bollywood",
+
     "name": "Amar Akbar Anthony",
     "image": "https://dataobj.ecoassetsservice.com/casino-icons/lc/aaa.jpg",
-    "link": "https://allpanelexch.com/casino/aaa"
+    "link": "/casino/aaa"
   },
   {
+    "category": "Bollywood",
     "name": "Bollywood Casino",
     "image": "https://dataobj.ecoassetsservice.com/casino-icons/lc/btable.jpg",
-    "link": "https://allpanelexch.com/casino/btable"
+    "link": "/casino/btable"
   },
   {
+    "category": "Lottery",
+    "route": "/sports-book/33",
     "name": "Lottery",
     "image": "https://dataobj.ecoassetsservice.com/casino-icons/lc/lottcard.jpg",
-    "link": "https://allpanelexch.com/casino/lottcard"
+    "link": "/casino/lottcard"
   },
   {
+    "category": "Sports",
+
     "name": "5Five Cricket",
     "image": "https://dataobj.ecoassetsservice.com/casino-icons/lc/cricketv3.jpg",
-    "link": "https://allpanelexch.com/casino/cricketv3"
+    "link": "/casino/cricketv3"
   },
   {
+    "category": "Sports",
+
     "name": "Cricket Match 20-20",
     "image": "https://dataobj.ecoassetsservice.com/casino-icons/lc/cmatch20.jpg",
-    "link": "https://allpanelexch.com/casino/cmatch20"
+    "link": "/casino/cmatch20"
   },
   {
+    "category": "Sports",
+
     "name": "Casino Meter",
     "image": "https://dataobj.ecoassetsservice.com/casino-icons/lc/cmeter.jpg",
-    "link": "https://allpanelexch.com/casino/cmeter"
+    "link": "/casino/cmeter"
   },
   {
+    "route": "20",
+    "category": "Teenpatti",
     "name": "Teenpatti - 2.0",
     "image": "https://dataobj.ecoassetsservice.com/casino-icons/lc/teen6.jpg",
-    "link": "https://allpanelexch.com/casino/teen6"
+    "link": "/casino/teen6"
   },
   {
+    "category": "Queen",
     "name": "Queen",
     "image": "https://dataobj.ecoassetsservice.com/casino-icons/lc/queen.jpg",
-    "link": "https://allpanelexch.com/casino/queen"
+    "link": "/casino/queen"
   },
+
   {
+    "category": "Race",
     "name": "Race20",
     "image": "https://dataobj.ecoassetsservice.com/casino-icons/lc/race20.jpg",
-    "link": "https://allpanelexch.com/casino/race20"
+    "link": "/casino/race20"
   },
+
   {
+    "route": "27",
+    "category": "Lucky 7",
     "name": "Lucky 7 - C",
     "image": "https://dataobj.ecoassetsservice.com/casino-icons/lc/lucky7eu2.jpg",
-    "link": "https://allpanelexch.com/casino/lucky7eu2"
+    "link": "/casino/lucky7eu2"
   },
+
   {
+    "category": "Sports",
     "name": "Super Over",
     "image": "https://dataobj.ecoassetsservice.com/casino-icons/lc/superover.jpg",
-    "link": "https://allpanelexch.com/casino/superover"
+    "link": "/casino/superover"
   },
+
   {
+    "category": "Others",
     "name": "The Trap",
     "image": "https://dataobj.ecoassetsservice.com/casino-icons/lc/trap.jpg",
-    "link": "https://allpanelexch.com/casino/trap"
+    "link": "/casino/trap"
   },
   {
+    "route": "20",
+    "category": "Teenpatti",
     "name": "2 Cards Teenpatti",
     "image": "https://dataobj.ecoassetsservice.com/casino-icons/lc/patti2.jpg",
-    "link": "https://allpanelexch.com/casino/patti2"
+    "link": "/casino/patti2"
   },
   {
+    "route": "22",
+    "category": "Baccarat",
     "name": "29Card Baccarat",
     "image": "https://dataobj.ecoassetsservice.com/casino-icons/lc/teensin.jpg",
-    "link": "https://allpanelexch.com/casino/teensin"
+    "link": "/casino/teensin"
   },
   {
+    "route": "20",
+    "category": "Teenpatti",
     "name": "Muflis Teenpatti",
     "image": "https://dataobj.ecoassetsservice.com/casino-icons/lc/teenmuf.jpg",
-    "link": "https://allpanelexch.com/casino/teenmuf"
+    "link": "/casino/teenmuf"
   },
   {
+    "category": "Race",
+
     "name": "Race To 17",
     "image": "https://dataobj.ecoassetsservice.com/casino-icons/lc/race17.jpg",
-    "link": "https://allpanelexch.com/casino/race17"
+    "link": "/casino/race17"
   },
   {
+    "route": "20",
+    "category": "Teenpatti",
     "name": "20-20 Teenpatti B",
     "image": "https://dataobj.ecoassetsservice.com/casino-icons/lc/teen20b.jpg",
-    "link": "https://allpanelexch.com/casino/teen20b"
+    "link": "/casino/teen20b"
   },
   {
+    "category": "Others",
+
     "name": "Trio",
     "image": "https://dataobj.ecoassetsservice.com/casino-icons/lc/trio.jpg",
-    "link": "https://allpanelexch.com/casino/trio"
+    "link": "/casino/trio"
   },
   {
+    "category": "Others",
+
     "name": "Note Number",
     "image": "https://dataobj.ecoassetsservice.com/casino-icons/lc/notenum.jpg",
-    "link": "https://allpanelexch.com/casino/notenum"
+    "link": "/casino/notenum"
   },
   {
+    "category": "Others",
+
     "name": "K.B.C",
     "image": "https://dataobj.ecoassetsservice.com/casino-icons/lc/kbc.jpg",
-    "link": "https://allpanelexch.com/casino/kbc"
+    "link": "/casino/kbc"
   },
   {
+    "category": "Others",
+
     "name": "1 CARD 20-20",
     "image": "https://dataobj.ecoassetsservice.com/casino-icons/lc/teen120.jpg",
-    "link": "https://allpanelexch.com/casino/teen120"
+    "link": "/casino/teen120"
   },
   {
+    "category": "Others",
+
     "name": "1 CARD ONE-DAY",
     "image": "https://dataobj.ecoassetsservice.com/casino-icons/lc/teen1.jpg",
-    "link": "https://allpanelexch.com/casino/teen1"
+    "link": "/casino/teen1"
   },
   {
+    "category": "Roulette",
+
     "name": "Roulette",
     "image": "https://dataobj.ecoassetsservice.com/casino-icons/lc/roulette.jpg",
-    "link": "https://allpanelexch.com/casino-list/LC/4/31"
+    "link": "31"
   },
   {
+    "category": "Andar Bahar",
     "name": "ANDAR BAHAR 50 cards",
     "image": "https://dataobj.ecoassetsservice.com/casino-icons/lc/ab3.jpg",
-    "link": "https://allpanelexch.com/casino/ab3"
+    "link": "/casino/ab3"
   },
   {
+    "category": "Bollywood",
     "name": "Amar Akbar Anthony 2",
     "image": "https://dataobj.ecoassetsservice.com/casino-icons/lc/aaa2.jpg",
-    "link": "https://allpanelexch.com/casino/aaa2"
+    "link": "/casino/aaa2"
   },
   {
+    "category": "Race",
+
     "name": "Race to 2nd",
     "image": "https://dataobj.ecoassetsservice.com/casino-icons/lc/race2.jpg",
-    "link": "https://allpanelexch.com/casino/race2"
+    "link": "/casino/race2"
   },
   {
+    "route": "20",
+    "category": "Teenpatti",
     "name": "Instant Teenpatti",
     "image": "https://dataobj.ecoassetsservice.com/casino-icons/lc/teen3.jpg",
-    "link": "https://allpanelexch.com/casino/teen3"
+    "link": "/casino/teen3"
   },
   {
+    "category": "Others",
+
     "name": "Dus ka Dum",
     "image": "https://dataobj.ecoassetsservice.com/casino-icons/lc/dum10.jpg",
-    "link": "https://allpanelexch.com/casino/dum10"
+    "link": "/casino/dum10"
   },
   {
+    "category": "Sports",
     "name": "1 Card Meter",
     "image": "https://dataobj.ecoassetsservice.com/casino-icons/lc/cmeter1.jpg",
-    "link": "https://allpanelexch.com/casino/cmeter1"
+    "link": "/casino/cmeter1"
   }
 ]
