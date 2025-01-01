@@ -125,8 +125,7 @@
             <a class="nav-link" href="/games/football/all-sports">Football</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="/games/table-tennis/all-sports"
-              >Table Tennis</a
+            <a class="nav-link" href="/games/table-tennis/all-sports">Table Tennis</a
             >
           </li>
           <li class="nav-item">

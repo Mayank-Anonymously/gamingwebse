@@ -5,7 +5,7 @@
     "match": [
       {
         "gameName": "Assembly Election 2025",
-        "gameLink": "/game-details/40/602080933",
+        "gameLink": "/game/game-details",
         "date": "15/02/2025 12:00:00",
         "gameIcons": [
           { "active": false },
@@ -22,13 +22,14 @@
       }
     ]
   },
+
   {
     "game": "Cricket",
     "route-param": "/all-sports/4",
     "match": [
       {
         "gameName": "Ball by Ball",
-        "gameLink": "casino/ballbyball",
+        "gameLink": "/game/game-details",
         "date": "",
         "gameIcons": [
           { "active": true },
@@ -46,7 +47,7 @@
       },
       {
         "gameName": "Twenty20 Big Bash",
-        "gameLink": "game-details/4/603706836",
+        "gameLink": "/game/game-details",
         "date": "14/12/2024 13:45:00",
         "gameIcons": [
           { "active": true },
@@ -63,7 +64,7 @@
       },
       {
         "gameName": "India Women v West Indies Women",
-        "gameLink": "game-details/4/496411633",
+        "gameLink": "/game/game-details",
         "date": "22/12/2024 13:30:00",
         "gameIcons": [
           { "active": true },
@@ -80,7 +81,7 @@
       },
       {
         "gameName": "Chennai Super Kings XI v Kolkata Knight Riders XI",
-        "gameLink": "cricketv/4/86930341",
+        "gameLink": "/game/game-details",
         "date": "22/12/2024 16:05:00",
         "gameIcons": [
           { "active": true },
@@ -97,7 +98,7 @@
       },
       {
         "gameName": "Adelaide Strikers T10 v Brisbane Heat T10",
-        "gameLink": "virtual-cricket/4/647788818",
+        "gameLink": "/game/game-details",
         "date": "22/12/2024 16:30:00",
         "gameIcons": [
           { "active": true },
@@ -114,7 +115,7 @@
       },
       {
         "gameName": "SLZ XI v BT XI",
-        "gameLink": "cricketv/4/86088044",
+        "gameLink": "/game/game-details",
         "date": "22/12/2024 17:15:00",
         "gameIcons": [
           { "active": true },
@@ -131,7 +132,7 @@
       },
       {
         "gameName": "Test A v Test B",
-        "gameLink": "game-details/4/776577182",
+        "gameLink": "/game/game-details",
         "date": "05/12/2024 00:00:00",
         "gameIcons": [
           {},
@@ -148,7 +149,7 @@
       },
       {
         "gameName": "New Zealand Women v Australia Women",
-        "gameLink": "game-details/4/865809752",
+        "gameLink": "/game/game-details",
         "date": "23/12/2024 03:30:00",
         "gameIcons": [
           { "active": true },
@@ -163,7 +164,7 @@
       },
       {
         "gameName": "Melbourne Renegades v Perth Scorchers",
-        "gameLink": "game-details/4/921890659",
+        "gameLink": "/game/game-details",
         "date": "23/12/2024 13:45:00",
         "gameIcons": [
           { "active": true },
@@ -177,7 +178,7 @@
       },
       {
         "gameName": "Markhors v Lions",
-        "gameLink": "game-details/4/495113747",
+        "gameLink": "/game/game-details",
         "date": "23/12/2024 16:00:00",
         "gameIcons": [{ "active": true }],
         "odds": [
@@ -188,7 +189,7 @@
       },
       {
         "gameName": "Australia v India",
-        "gameLink": "game-details/4/578112323",
+        "gameLink": "/game/game-details",
         "date": "26/12/2024 05:00:00",
         "gameIcons": [{ "active": true }],
         "odds": [
@@ -199,7 +200,7 @@
       },
       {
         "gameName": "Zimbabwe v Afghanistan",
-        "gameLink": "game-details/4/599510711",
+        "gameLink": "/game/game-details",
         "date": "26/12/2024 13:30:00",
         "gameIcons": [{ "active": true }],
         "odds": [
@@ -210,7 +211,7 @@
       },
       {
         "gameName": "South Africa v Pakistan",
-        "gameLink": "game-details/4/673235885",
+        "gameLink": "/game/game-details",
         "date": "26/12/2024 13:30:00",
         "gameIcons": [{ "active": true }],
         "odds": [
@@ -221,7 +222,7 @@
       },
       {
         "gameName": "England T10 v Australia T10",
-        "gameLink": "virtual-cricket/4/565065532",
+        "gameLink": "/game/game-details",
         "gameDate": "22/12/2024 17:20:00",
         "icons": [
           "../assets/table-logo/ic_bm.png",
@@ -235,7 +236,7 @@
       },
       {
         "gameName": "South Africa v Pakistan",
-        "gameLink": "game-details/4/735673718",
+        "gameLink": "/game/game-details",
         "gameDate": "22/12/2024 17:30:00",
         "icons": [
           "../assets/table-logo/ic_fancy.png",
@@ -249,7 +250,7 @@
       },
       {
         "gameName": "Delhi Capitals T10 v Kolkata Knight Riders T10",
-        "gameLink": "virtual-cricket/4/798844733",
+        "gameLink": "/game/game-details",
         "gameDate": "22/12/2024 17:30:00",
         "icons": [
           "../assets/table-logo/ic_fancy.png",
@@ -263,7 +264,7 @@
       },
       {
         "gameName": "New Zealand T10 v Sri Lanka T10",
-        "gameLink": "virtual-cricket/4/622394329",
+        "gameLink": "/game/game-details",
         "gameDate": "22/12/2024 17:45:00",
         "icons": [
           "../assets/table-logo/ic_fancy.png",
@@ -277,7 +278,7 @@
       },
       {
         "gameName": "Lucknow Super T10 v Royal Challengers T10",
-        "gameLink": "virtual-cricket/4/594462836",
+        "gameLink": "/game/game-details",
         "gameDate": "22/12/2024 18:45:00",
         "icons": [
           "../assets/table-logo/ic_fancy.png",
@@ -291,7 +292,7 @@
       },
       {
         "gameName": "Bangladesh T10 v New Zealand T10",
-        "gameLink": "virtual-cricket/4/895026767",
+        "gameLink": "/game/game-details",
         "gameDate": "22/12/2024 20:00:00",
         "icons": [
           "../assets/table-logo/ic_fancy.png",
@@ -312,7 +313,7 @@
     "match": [
       {
         "gameName": "Amy Zhu - Malkia Ngounoue",
-        "gameLink": "/game-details/2/759946401",
+        "gameLink": "/game/game-details",
         "date": "01/01/2025 21:40:00",
         "gameIcons": [{ "active": true }, {}, {}, {}, {}],
         "odds": [
@@ -323,7 +324,7 @@
       },
       {
         "gameName": "Arman Zamani - Adam Bain",
-        "gameLink": "/game-details/2/690679222",
+        "gameLink": "/game/game-details",
         "date": "01/01/2025 22:30:00",
         "gameIcons": [{ "active": true }, {}, {}, {}, {}],
         "odds": [
@@ -334,7 +335,7 @@
       },
       {
         "gameName": "Patorn Hanchaikul - Luke Bracks",
-        "gameLink": "/game-details/2/808498567",
+        "gameLink": "/game/game-details",
         "date": "01/01/2025 22:30:00",
         "gameIcons": [{ "active": true }, {}, {}, {}, {}],
         "odds": [
@@ -345,7 +346,7 @@
       },
       {
         "gameName": "Asahi Harazaki - Roan Jones",
-        "gameLink": "/game-details/2/829952670",
+        "gameLink": "/game/game-details",
         "date": "01/01/2025 22:30:00",
         "gameIcons": [{ "active": true }, {}, {}, {}, {}],
         "odds": [
@@ -356,7 +357,7 @@
       },
       {
         "gameName": "Esunge Ndumbe - Hernan Oivas Quiroz",
-        "gameLink": "/game-details/2/578748469",
+        "gameLink": "/game/game-details",
         "date": "01/01/2025 23:40:00",
         "gameIcons": [{ "active": true }, {}, {}, {}, {}],
         "odds": [
@@ -367,7 +368,7 @@
       },
       {
         "gameName": "Ian Bracks - Mohammad Alkotop",
-        "gameLink": "/game-details/2/622511608",
+        "gameLink": "/game/game-details",
         "date": "01/01/2025 23:40:00",
         "gameIcons": [{ "active": true }, {}, {}, {}, {}],
         "odds": [
@@ -378,7 +379,7 @@
       },
       {
         "gameName": "Test A v Test B",
-        "gameLink": "/game-details/2/856858372",
+        "gameLink": "/game/game-details",
         "date": "04/01/2025 00:00:00",
         "gameIcons": [
           { "active": true },
@@ -403,7 +404,7 @@
       {
         "gameName": "Western Sydney Wanderers v Macarthur FC",
         "date": "01/01/2025 12:30:00",
-        "gameLink": "/game-details/1/607207267",
+        "gameLink": "/game/game-details",
         "gameIcons": [
           { "active": true },
           { "class": "fas fa-tv icon-tv" },
@@ -420,7 +421,7 @@
       {
         "gameName": "Addis Ababa Ketema W - Lideta Sub City W",
         "date": "01/01/2025 12:45:00",
-        "gameLink": "/game-details/1/697338185",
+        "gameLink": "/game/game-details",
         "gameIcons": [{ "active": true }, {}, {}, {}, {}],
         "odds": [
           { "back": "1.05", "lay": "1.11" },
@@ -431,7 +432,7 @@
       {
         "gameName": "Hapoel Haifa U19 - Hapoel Tel Aviv U19",
         "date": "01/01/2025 14:30:00",
-        "gameLink": "/game-details/1/584425220",
+        "gameLink": "/game/game-details",
         "gameIcons": [{}, {}, {}, {}, {}],
         "odds": [
           { "back": "9.71", "lay": "-" },
@@ -442,7 +443,7 @@
       {
         "gameName": "Es Boulefrais U19 - Ts Bouzina U19",
         "date": "01/01/2025 14:30:00",
-        "gameLink": "/game-details/1/878436083",
+        "gameLink": "/game/game-details",
         "gameIcons": [{}, {}, {}, {}, {}],
         "odds": [
           { "back": "-", "lay": "-" },
@@ -453,7 +454,7 @@
       {
         "gameName": "Kirkos Addis Ababa W - Dire Dawa W",
         "date": "01/01/2025 15:30:00",
-        "gameLink": "/game-details/1/615640924",
+        "gameLink": "/game/game-details",
         "gameIcons": [{}, {}, {}, {}, {}],
         "odds": [
           { "back": "3.73", "lay": "-" },
@@ -464,7 +465,7 @@
       {
         "gameName": "Maccabi Ironi Kiryat Ata U19 - Hapoel Beit Shean U19",
         "date": "01/01/2025 17:00:00",
-        "gameLink": "/game-details/1/852705404",
+        "gameLink": "/game/game-details",
         "gameIcons": [{}, {}, {}, {}, {}],
         "odds": [
           { "back": "-", "lay": "-" },
@@ -490,7 +491,7 @@
     "match": [
       {
         "gameName": "Radek Limbursky - Josef Rossler",
-        "gameLink": "/game-details/8/513019176",
+        "gameLink": "/game/game-details",
         "date": "01/01/2025 14:30:00",
         "gameIcons": [{ "active": true }, { "tv": true }],
         "odds": [
@@ -501,7 +502,7 @@
       },
       {
         "gameName": "Jan Pleskot - Lubor Sulava",
-        "gameLink": "/game-details/8/604980309",
+        "gameLink": "/game/game-details",
         "date": "01/01/2025 14:30:00",
         "gameIcons": [{ "active": true }, { "tv": true }],
         "odds": [
@@ -512,7 +513,7 @@
       },
       {
         "gameName": "Radim Urbaniec - Oldrich Vrtal",
-        "gameLink": "/game-details/8/626274066",
+        "gameLink": "/game/game-details",
         "date": "01/01/2025 14:30:00",
         "gameIcons": [{ "active": true }, { "tv": true }],
         "odds": [
@@ -523,7 +524,7 @@
       },
       {
         "gameName": "Jiri Nesnera - Lukas Jindrak",
-        "gameLink": "/game-details/8/775767540",
+        "gameLink": "/game/game-details",
         "date": "01/01/2025 14:30:00",
         "gameIcons": [{ "active": true }, { "tv": true }],
         "odds": [
@@ -534,7 +535,7 @@
       },
       {
         "gameName": "Jan Krupnik - Tomas Lysek",
-        "gameLink": "/game-details/8/493718901",
+        "gameLink": "/game/game-details",
         "date": "01/01/2025 15:00:00",
         "gameIcons": [{}, {}, {}, {}, {}],
         "odds": [
@@ -550,7 +551,7 @@
     "match": [
       {
         "gameName": "New Taipei Kings - New Taipei CTBC DEA",
-        "gameLink": "/game-details/15/861342933",
+        "gameLink": "/game/game-details",
         "date": "01/01/2025 14:30:00",
         "gameIcons": [{ "active": true }, { "tv": true }],
         "odds": [
@@ -561,7 +562,7 @@
       },
       {
         "gameName": "Beijing Ducks - Liaoning Flying Leopards",
-        "gameLink": "/game-details/15/484198531",
+        "gameLink": "/game/game-details",
         "date": "01/01/2025 17:05:00",
         "gameIcons": [],
         "odds": [
@@ -572,7 +573,7 @@
       },
       {
         "gameName": "Qingdao DoubleStar Eagles - Sichuan Blue Whales",
-        "gameLink": "/game-details/15/680833494",
+        "gameLink": "/game/game-details",
         "date": "01/01/2025 17:05:00",
         "gameIcons": [],
         "odds": [
@@ -583,7 +584,7 @@
       },
       {
         "gameName": "Zhejiang Lions - Guangzhou Long-Lions",
-        "gameLink": "/game-details/15/882111743",
+        "gameLink": "/game/game-details",
         "date": "01/01/2025 17:05:00",
         "gameIcons": [],
         "odds": [
@@ -594,7 +595,7 @@
       },
       {
         "gameName": "Guangdong - TianJin Ronggang",
-        "gameLink": "/game-details/15/896230622",
+        "gameLink": "/game/game-details",
         "date": "01/01/2025 17:05:00",
         "gameIcons": [],
         "odds": [
@@ -605,7 +606,7 @@
       },
       {
         "gameName": "Xinjiang Flying Tigers - Shandong Heroes",
-        "gameLink": "/game-details/15/884084724",
+        "gameLink": "/game/game-details",
         "date": "01/01/2025 17:30:00",
         "gameIcons": [],
         "odds": [
@@ -629,7 +630,7 @@
     "match": [
       {
         "gameName": "Arizona State - Texas Longhorns",
-        "gameLink": "/game-details/58/606013649",
+        "gameLink": "/game/game-details",
         "date": "01/01/2025 23:30:00",
         "gameIcons": [],
         "odds": [
@@ -640,7 +641,7 @@
       },
       {
         "gameName": "Oregon - Ohio State",
-        "gameLink": "/game-details/58/658973942",
+        "gameLink": "/game/game-details",
         "date": "02/01/2025 03:30:00",
         "gameIcons": [],
         "odds": [
@@ -651,7 +652,7 @@
       },
       {
         "gameName": "Georgia - Notre Dame",
-        "gameLink": "/game-details/58/558374345",
+        "gameLink": "/game/game-details",
         "date": "02/01/2025 07:15:00",
         "gameIcons": [],
         "odds": [
@@ -662,7 +663,7 @@
       },
       {
         "gameName": "Mississippi - Duke",
-        "gameLink": "/game-details/58/506349282",
+        "gameLink": "/game/game-details",
         "date": "03/01/2025 06:00:00",
         "gameIcons": [],
         "odds": [
@@ -673,7 +674,7 @@
       },
       {
         "gameName": "Texas State - North Texas",
-        "gameLink": "/game-details/58/585236512",
+        "gameLink": "/game/game-details",
         "date": "04/01/2025 02:30:00",
         "gameIcons": [],
         "odds": [
@@ -689,7 +690,7 @@
     "match": [
       {
         "gameName": "Tabiat - Foolad Sirjan",
-        "gameLink": "/game-details/18/467928943",
+        "gameLink": "/game/game-details",
         "date": "01/01/2025 18:00:00",
         "gameIcons": ["", "", "", "", ""],
         "odds": [
@@ -700,7 +701,7 @@
       },
       {
         "gameName": "Mehregan Noor - Giti Pasand Isfahan",
-        "gameLink": "/game-details/18/554354770",
+        "gameLink": "/game/game-details",
         "date": "01/01/2025 18:00:00",
         "gameIcons": ["", "", "", "", ""],
         "odds": [
@@ -711,7 +712,7 @@
       },
       {
         "gameName": "Sepehr Sadra Mashhad - Pas Gorgan",
-        "gameLink": "/game-details/18/724657962",
+        "gameLink": "/game/game-details",
         "date": "01/01/2025 18:00:00",
         "gameIcons": ["", "", "", "", ""],
         "odds": [
@@ -722,7 +723,7 @@
       },
       {
         "gameName": "Mes Rafsanjan - Saipa Alborz",
-        "gameLink": "/game-details/18/734505095",
+        "gameLink": "/game/game-details",
         "date": "01/01/2025 18:00:00",
         "gameIcons": ["", "", "", "", ""],
         "odds": [
@@ -733,7 +734,7 @@
       },
       {
         "gameName": "Sanatgaran Omid - Chador Malu",
-        "gameLink": "/game-details/18/777759377",
+        "gameLink": "/game/game-details",
         "date": "01/01/2025 18:00:00",
         "gameIcons": ["", "", "", "", ""],
         "odds": [
@@ -744,7 +745,7 @@
       },
       {
         "gameName": "Shahdab Yazd - Shahrdari Urmia",
-        "gameLink": "/game-details/18/810358855",
+        "gameLink": "/game/game-details",
         "date": "01/01/2025 18:00:00",
         "gameIcons": ["", "", "", "", ""],
         "odds": [
@@ -768,7 +769,7 @@
     "match": [
       {
         "gameName": "UPC Vienna Capitals - EC-KAC",
-        "gameLink": "/game-details/19/534416362",
+        "gameLink": "/game/game-details",
         "date": "01/01/2025 22:00:00",
         "gameIcons": ["", "", "", "", ""],
         "odds": [
@@ -779,7 +780,7 @@
       },
       {
         "gameName": "Gyergyoi - SC Csikszereda",
-        "gameLink": "/game-details/19/780572273",
+        "gameLink": "/game/game-details",
         "date": "01/01/2025 22:00:00",
         "gameIcons": ["", "", "", "", ""],
         "odds": [
@@ -790,7 +791,7 @@
       },
       {
         "gameName": "Villacher SV - Fehervar AV19",
-        "gameLink": "/game-details/19/796894389",
+        "gameLink": "/game/game-details",
         "date": "01/01/2025 22:00:00",
         "gameIcons": ["", "", "", "", ""],
         "odds": [
@@ -801,7 +802,7 @@
       },
       {
         "gameName": "Manchester Storm - Sheffield Steelers",
-        "gameLink": "/game-details/19/520461457",
+        "gameLink": "/game/game-details",
         "date": "01/01/2025 23:00:00",
         "gameIcons": ["", "", "", "", ""],
         "odds": [
@@ -812,7 +813,7 @@
       },
       {
         "gameName": "Toronto Marlies - Syracuse Crunch",
-        "gameLink": "/game-details/19/864084677",
+        "gameLink": "/game/game-details",
         "date": "02/01/2025 00:30:00",
         "gameIcons": ["", "", "", "", ""],
         "odds": [
@@ -823,7 +824,7 @@
       },
       {
         "gameName": "Calgary Wranglers - Abbotsford Canucks",
-        "gameLink": "/game-details/19/851672795",
+        "gameLink": "/game/game-details",
         "date": "02/01/2025 02:30:00",
         "gameIcons": ["", "", "", "", ""],
         "odds": [
@@ -834,7 +835,7 @@
       },
       {
         "gameName": "Los Angeles Kings - New Jersey Devils",
-        "gameLink": "/game-details/19/675504718",
+        "gameLink": "/game/game-details",
         "date": "02/01/2025 04:30:00",
         "gameIcons": ["", "", "", "", ""],
         "odds": [
@@ -845,7 +846,7 @@
       },
       {
         "gameName": "San Diego Gulls - San Jose Barracuda",
-        "gameLink": "/game-details/19/834184593",
+        "gameLink": "/game/game-details",
         "date": "02/01/2025 08:30:00",
         "gameIcons": ["", "", "", "", ""],
         "odds": [
