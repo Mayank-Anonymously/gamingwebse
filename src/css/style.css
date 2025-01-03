@@ -11159,6 +11159,21 @@ img.r-rotate {
   .pad-right-0 {
     padding-right: 0px;
   }
+  .navbar-nav .nav-item {
+    color: var(--text-primary);
+    border: 0;
+    border-right: 1px solid var(--text-primary);
+  }
+  .header-bottom {
+    overflow-x: scroll;
+    background-color: #0088cc;
+  }
+
+  .header-bottom .navbar-nav {
+    flex-wrap: nowrap;
+    align-items: center;
+    height: 22px;
+  }
 
   .container-fluid {
     padding-right: 10px !important;
@@ -12879,7 +12894,7 @@ img.r-rotate {
     margin-bottom: 0;
     white-space: nowrap;
     background-color: var(--bg-primary);
-    padding: 0 5px 5px;
+    padding: 9px 5px 5px;
   }
 
   /*Header*/
@@ -13467,7 +13482,7 @@ img.r-rotate {
     margin-bottom: 0;
     white-space: nowrap;
     background-color: var(--bg-primary);
-    padding: 0 5px 5px;
+    padding: 9px 5px 5px;
   }
 
   .latest-event-item {
