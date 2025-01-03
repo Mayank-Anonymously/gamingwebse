@@ -2,7 +2,7 @@
   <div class="main-container">
     <div class="center-main-container home-page">
       <div class="center-container">
-        <div class="latest-event d-none d-xl-flex">
+        <div class="latest-event d-xl-flex">
           <div
             v-for="(event, index) in latestEvents"
             :key="index"

@@ -2742,7 +2742,7 @@ tr {
 }
 
 .menu-box .dropdown-menu {
-  position: relative !important;
+  /* position: relative !important; */
   transform: unset !important;
   background-color: transparent;
   border: 0;
@@ -12848,6 +12848,38 @@ img.r-rotate {
   /*Login Design*/
   .login-form {
     padding: 10px;
+  }
+
+  /* .header-bottom .navbar-nav {
+    flex-wrap: nowrap;
+    justify-content: center;
+    overflow-x: hidden;
+  } */
+
+  .main-container .nav-tabs .nav-item {
+    display: flex;
+    align-items: center;
+    padding: 5px 0;
+  }
+
+  .main-container .nav-tabs {
+    background-color: #0088cc;
+    border-bottom: 0;
+    box-shadow: 0px -5px 5px -5px rgba(0, 0, 0, 0.5);
+    position: relative;
+    width: 100%;
+    flex-wrap: nowrap;
+  }
+
+  .latest-event {
+    flex-wrap: nowrap;
+    overflow-x: auto;
+    overflow-y: hidden;
+    justify-content: flex-start;
+    margin-bottom: 0;
+    white-space: nowrap;
+    background-color: var(--bg-primary);
+    padding: 0 5px 5px;
   }
 
   /*Header*/

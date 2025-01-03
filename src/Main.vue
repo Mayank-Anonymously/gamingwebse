@@ -17,6 +17,7 @@
 
 <script>
 import AppHeader from "./components/AppHeader.vue";
+import "bootstrap/dist/js/bootstrap.bundle.min.js";
 import AppFooter from "./components/AppFooter.vue";
 import AppSidebar from "./components/Sidebar.vue";
 // import MainContainer from "./components/MainContainer.vue";

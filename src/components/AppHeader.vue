@@ -106,7 +106,7 @@
         <div class="depowith"></div>
       </div>
     </div>
-    <div class="header-bottom d-none d-xl-block">
+    <div class="header-bottom d-xl-block">
       <nav class="navbar navbar-expand">
         <ul class="navbar-nav">
           <li class="nav-item">
