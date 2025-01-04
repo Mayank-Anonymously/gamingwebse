@@ -1,0 +1,1046 @@
+{
+  "casinoList": [
+    {
+      "id": 26,
+      "name": "Tembo",
+      "url": "/live-casino-list/CS/26",
+      "subCasinoGames": [
+        {
+          "name": "Sensual Games",
+          "games": [
+            {
+              "image": "https://sitethemedata.com/casino_icons/tm/teen-patti-one-day.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/tm/dragontiger.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/tm/baccarat.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/tm/teen-patti-20-20.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/tm/lucky-7.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/tm/baccarat-b.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/tm/32-cards.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/tm/teen-patti-one-day-2.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/tm/teen-patti-20-20-2.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/tm/lucky-7-2.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/tm/baccarat-2.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/tm/baccarat-b-2.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/tm/dragontiger-2.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/tm/32-cards-2.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "name": "Creedroomz",
+      "url": "/live-casino-list/CS/24",
+      "subCasinoGames": [
+        {
+          "name": "Roulette",
+          "games": [
+            {
+              "image": "https://sitethemedata.com/casino_icons/tm/teen-patti-one-day.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/tm/dragontiger.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/tm/baccarat.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/tm/teen-patti-20-20.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/tm/lucky-7.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/tm/baccarat-b.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/tm/32-cards.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/tm/teen-patti-one-day-2.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/tm/teen-patti-20-20-2.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/tm/lucky-7-2.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/tm/baccarat-2.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/tm/baccarat-b-2.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/tm/dragontiger-2.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/tm/32-cards-2.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Blackjack",
+          "games": [
+            {
+              "image": "https://sitethemedata.com/casino_icons/bc/blackjack/10412144.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/bc/blackjack/10412145.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/bc/blackjack/10412154.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/bc/blackjack/10412130.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/bc/blackjack/10412131.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/bc/blackjack/10412132.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/bc/blackjack/10412133.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/bc/blackjack/10412134.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/bc/blackjack/10412126.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/bc/blackjack/10412127.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/bc/blackjack/10412128.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/bc/blackjack/10412129.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/bc/blackjack/550010.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/bc/blackjack/550011.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/bc/blackjack/10412137.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/bc/blackjack/10412138.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/bc/blackjack/10412136.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/bc/blackjack/10412146.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/bc/blackjack/10412153.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/bc/blackjack/10412147.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/bc/blackjack/10412159.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/bc/blackjack/10412161.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/bc/blackjack/10412162.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/bc/blackjack/10412142.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/bc/blackjack/10412148.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/bc/blackjack/10412152.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/bc/blackjack/40003118.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/bc/blackjack/10412155.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/bc/blackjack/10412149.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/bc/blackjack/10412150.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/bc/blackjack/10412141.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/bc/blackjack/10412151.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/bc/blackjack/10412156.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/bc/blackjack/400040005.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/bc/blackjack/400040003.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/bc/blackjack/10412160.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/bc/blackjack/400040010.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/bc/blackjack/400040012.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/bc/blackjack/400040013.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/bc/blackjack/40004011.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/bc/blackjack/40004107.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/bc/blackjack/40004108.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/bc/blackjack/40004109.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/bc/blackjack/40004110.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/bc/blackjack/40004111.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/bc/blackjack/40004104.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/bc/blackjack/40004106.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/bc/blackjack/10412125.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/bc/blackjack/10412123.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/bc/blackjack/10412124.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/bc/blackjack/10412135.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/bc/blackjack/400040009.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/bc/blackjack/420016100.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/bc/blackjack/42001610.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/bc/blackjack/420016101.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/bc/blackjack/420016102.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/bc/blackjack/420016141.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/bc/blackjack/10412139.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/bc/blackjack/10412140.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/bc/blackjack/420019583.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/bc/blackjack/40003374.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/bc/blackjack/40003373.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/bc/blackjack/40003375.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/bc/blackjack/400040791.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/bc/blackjack/400040794.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Baccarat",
+
+          "games": [
+            {
+              "image": "https://sitethemedata.com/casino_icons/bc/baccarat/40003098.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/bc/baccarat/40003124.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/bc/baccarat/40003123.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/bc/baccarat/40003102.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/bc/baccarat/40003126.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/bc/baccarat/40003288.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/bc/baccarat/40003292.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/bc/baccarat/40003295.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/bc/baccarat/40003122.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/bc/baccarat/420019575.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/bc/baccarat/420019576.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Poker",
+          "games": [
+            {
+              "image": "https://sitethemedata.com/casino_icons/bc/poker/400031893.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/bc/poker/40003095.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/bc/poker/400031662.jpg"
+            }
+          ]
+        },
+        { "name": "Keno", "games": [] },
+        {
+          "name": "Others",
+          "games": [
+            {
+              "image": "https://sitethemedata.com/casino_icons/bc/other/40003097.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/bc/other/400040353.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/bc/other/400040639.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/bc/other/400040573.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/bc/other/550027.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/bc/other/42001611.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "name": "Vivo Gaming",
+      "url": "/live-casino-list/CS/21",
+      "subCasinoGames": [
+        {
+          "name": "Roulette",
+          "games": [
+            {
+              "image": "https://sitethemedata.com/casino_icons/vivogaming/roulette/1.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/vivogaming/roulette/43.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/vivogaming/roulette/245.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/vivogaming/roulette/244.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/vivogaming/roulette/183.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/vivogaming/roulette/167.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/vivogaming/roulette/36.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/vivogaming/roulette/26.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/vivogaming/roulette/229.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/vivogaming/roulette/344.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Baccarat",
+          "games": [
+            {
+              "image": "https://sitethemedata.com/casino_icons/vivogaming/baccarat/3.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/vivogaming/baccarat/160.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/vivogaming/baccarat/162.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/vivogaming/baccarat/348.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/vivogaming/baccarat/349.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/vivogaming/baccarat/350.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/vivogaming/baccarat/351.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/vivogaming/baccarat/352.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/vivogaming/baccarat/353.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/vivogaming/baccarat/354.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/vivogaming/baccarat/355.jpg"
+            }
+          ]
+        },
+        {
+          "name": "CasinoHoldem",
+          "games": [
+            {
+              "image": "https://sitethemedata.com/casino_icons/vivogaming/poker/255.jpg"
+            }
+          ]
+        },
+        {
+          "name": "DragonTiger",
+          "games": [
+            {
+              "image": "https://sitethemedata.com/casino_icons/vivogaming/dt/281.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Evolution",
+      "url": "/live-casino-list/CS/5",
+      "subCasinoGames": [
+        {
+          "name": "Blackjack",
+          "games": [
+            {
+              "image": "https://sitethemedata.com/casino_icons/evo/blackjack/1000030.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/evo/blackjack/1000031.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/evo/blackjack/1000032.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/evo/blackjack/1000040.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/evo/blackjack/1000033.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/evo/blackjack/1000252.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/evo/blackjack/1000253.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/evo/blackjack/1000254.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/evo/blackjack/1000255.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/evo/blackjack/1000256.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/evo/blackjack/1000063.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/evo/blackjack/1000064.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/evo/blackjack/1000065.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/evo/blackjack/1000066.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/evo/blackjack/1000358.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/evo/blackjack/1000119.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/evo/blackjack/1000359.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/evo/blackjack/1000067.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Roulette",
+          "games": [
+            {
+              "image": "https://sitethemedata.com/casino_icons/evo/roulette/1000523.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/evo/roulette/1000011.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/evo/roulette/1000123.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/evo/roulette/1000126.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/evo/roulette/1000084.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/evo/roulette/1000381.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/evo/roulette/1000354.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/evo/roulette/1000122.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/evo/roulette/1000092.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/evo/roulette/1000094.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/evo/roulette/1000102.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/evo/roulette/1000104.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/evo/roulette/1000124.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/evo/roulette/1000093.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/evo/roulette/1000525.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/evo/roulette/1000120.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/evo/roulette/1000118.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/evo/roulette/1000312.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/evo/other/1000146.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Baccarat",
+          "games": [
+            {
+              "image": "https://sitethemedata.com/casino_icons/evo/baccarat/1000012.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/evo/baccarat/1000013.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/evo/baccarat/1000014.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/evo/baccarat/1000015.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/evo/baccarat/1000016.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/evo/baccarat/1000355.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/evo/baccarat/1000417.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/evo/baccarat/1000149.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/evo/baccarat/1000018.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/evo/baccarat/1000017.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/evo/baccarat/1000317.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/evo/baccarat/1000389.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/evo/baccarat/1000368.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/evo/baccarat/1000020.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/evo/baccarat/1000127.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/evo/baccarat/1000157.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/evo/baccarat/1000351.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/evo/baccarat/1000021.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/evo/baccarat/1000022.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/evo/baccarat/1000023.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/evo/baccarat/1000024.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/evo/baccarat/1000025.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/evo/baccarat/1000026.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/evo/baccarat/1000027.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/evo/baccarat/1000028.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/evo/baccarat/1000029.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/evo/baccarat/1000129.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/evo/baccarat/1000277.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/evo/baccarat/1000276.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/evo/baccarat/1000275.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/evo/baccarat/1000274.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/evo/baccarat/1000273.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/evo/baccarat/1000272.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/evo/baccarat/1000269.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/evo/baccarat/1000270.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/evo/baccarat/1000271.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/evo/baccarat/1000532.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/evo/baccarat/1000356.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/evo/baccarat/1000357.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/evo/baccarat/1000533.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/evo/baccarat/1000535.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Game Show",
+          "games": [
+            {
+              "image": "https://sitethemedata.com/casino_icons/evo/GameShow/1000148.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/evo/GameShow/1000076.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Others",
+          "games": [
+            {
+              "image": "https://sitethemedata.com/casino_icons/evo/other/1000073.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/evo/other/1000360.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/evo/other/1000071.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/evo/other/1000352.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/evo/other/1000075.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/evo/other/1000248.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/evo/other/1000077.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/evo/other/1000116.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/evo/other/1000249.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/evo/other/1000121.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/evo/other/1000112.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/evo/other/1000141.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/evo/other/1000110.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/evo/other/1000111.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/evo/other/1000152.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/evo/other/1000151.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/evo/other/1000443.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/evo/other/1000524.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "name": "EZUGI",
+      "url": "/live-casino-list/CS/1",
+      "subCasinoGames": [
+        {
+          "name": "Blackjack",
+          "games": [
+            {
+              "image": "https://sitethemedata.com/casino_icons/ezugi/blackjack/1.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/ezugi/blackjack/203.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/ezugi/blackjack/204.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/ezugi/blackjack/224.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/ezugi/blackjack/225.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/ezugi/blackjack/411.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/ezugi/blackjack/412.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/ezugi/blackjack/413.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/ezugi/blackjack/414.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/ezugi/blackjack/260.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/ezugi/blackjack/270.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/ezugi/blackjack/272.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/ezugi/blackjack/273.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/ezugi/blackjack/274.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/ezugi/blackjack/275.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/ezugi/blackjack/4151.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/ezugi/blackjack/51.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Roulette",
+          "games": [
+            {
+              "image": "https://sitethemedata.com/casino_icons/ezugi/roulette/221008.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/ezugi/roulette/1000.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/ezugi/roulette/581000.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/ezugi/roulette/5001.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/ezugi/roulette/221000.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/ezugi/roulette/221003.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/ezugi/roulette/611000.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/ezugi/roulette/221005.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/ezugi/roulette/601000.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/ezugi/roulette/241000.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/ezugi/roulette/271000.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/ezugi/roulette/221002.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/ezugi/roulette/221004.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/ezugi/roulette/221007.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/ezugi/roulette/221009.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/ezugi/roulette/611001.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/ezugi/roulette/611003.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/ezugi/roulette/611007.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/ezugi/roulette/321000.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/ezugi/roulette/321001.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/ezugi/roulette/431000.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/ezugi/roulette/481000.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/ezugi/roulette/481001.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/ezugi/roulette/481002.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/ezugi/roulette/481003.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/ezugi/roulette/481004.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/ezugi/roulette/541000.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Baccarat",
+          "games": [
+            {
+              "image": "https://sitethemedata.com/casino_icons/ezugi/baccarat/100.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/ezugi/baccarat/130.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/ezugi/baccarat/102.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/ezugi/baccarat/106.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/ezugi/baccarat/105.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/ezugi/baccarat/108.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/ezugi/baccarat/109.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/ezugi/baccarat/32101.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/ezugi/baccarat/32102.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/ezugi/baccarat/32103.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/ezugi/baccarat/120.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/ezugi/baccarat/172.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/ezugi/baccarat/173.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/ezugi/baccarat/175.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/ezugi/baccarat/175.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/ezugi/baccarat/170.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/ezugi/baccarat/30100.jpg"
+            }
+          ]
+        },
+
+        {
+          "name": "Others",
+          "games": [
+            {
+              "image": "https://sitethemedata.com/casino_icons/ezugi/other/507000.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/ezugi/other/224000.jpg"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/ezugi/other/224100.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "CockFight",
+      "url": "/live-casino-list/CS/6",
+      "subCasinoGames": [
+        {
+          "name": "All Games",
+          "games": [
+            {
+              "image": "https://sitethemedata.com/casino_icons/cockfight/cockfight.jpg"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
