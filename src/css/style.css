@@ -14705,3 +14705,11 @@ img.r-rotate {
 .countdown h1 {
   font-size: 50px;
 }
+
+/* .overlay-content {
+  position: absolute;
+  background: white;
+  left: 16%;
+  z-index: 99;
+  padding: 13px;
+} */
