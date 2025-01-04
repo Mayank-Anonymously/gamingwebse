@@ -6,7 +6,7 @@
         <div class="col-md-2">
           <AppSidebar />
         </div>
-        <div class="col-md-10 pad-left-0">
+        <div class="col-md-10 pad-left-0 pad-right-0">
           <div class="center-main-container casino-page">
             <div class="center-container">
               <div class="casino-page-container ball-by-ball">
@@ -35,39 +35,8 @@
                 <div class="">
                   <div class="casino-video">
                     <div class="video-box-container">
-                      <div class="clock flip-clock-wrapper">
-                        <div
-                          class="digit"
-                          v-for="(digit, index) in digits"
-                          :key="index"
-                        >
-                          <ul class="flip play">
-                            <li class="flip-clock-before">
-                              <a href="#">
-                                <div class="up">
-                                  <div class="shadow"></div>
-                                  <div class="inn">{{ digit.previous }}</div>
-                                </div>
-                                <div class="down">
-                                  <div class="shadow"></div>
-                                  <div class="inn">{{ digit.previous }}</div>
-                                </div>
-                              </a>
-                            </li>
-                            <li class="flip-clock-active">
-                              <a href="#">
-                                <div class="up">
-                                  <div class="shadow"></div>
-                                  <div class="inn">{{ digit.current }}</div>
-                                </div>
-                                <div class="down">
-                                  <div class="shadow"></div>
-                                  <div class="inn">{{ digit.current }}</div>
-                                </div>
-                              </a>
-                            </li>
-                          </ul>
-                        </div>
+                      <div class="countdown">
+                        <h1>{{ paddedTime }}</h1>
                       </div>
                     </div>
                   </div>
@@ -389,34 +358,29 @@ export default {
   },
   data() {
     return {
-      timeRemaining: 20, // Countdown time in seconds
-      digits: [
-        { previous: 0, current: 2 },
-        { previous: 0, current: 0 },
-      ],
+      timeRemaining: 20, // Countdown starting time in seconds
     };
+  },
+  computed: {
+    paddedTime() {
+      // Ensure two digits by padding with a zero if below 10
+      return String(this.timeRemaining).padStart(2, "0");
+    },
   },
   methods: {
     startCountdown() {
       const interval = setInterval(() => {
         if (this.timeRemaining <= 0) {
           clearInterval(interval);
+          this.timeExpired();
           return;
         }
 
         this.timeRemaining--;
-        this.updateDigits();
       }, 1000);
     },
-    updateDigits() {
-      const tens = Math.floor(this.timeRemaining / 10);
-      const ones = this.timeRemaining % 10;
-
-      this.digits[0].previous = this.digits[0].current;
-      this.digits[0].current = tens;
-
-      this.digits[1].previous = this.digits[1].current;
-      this.digits[1].current = ones;
+    timeExpired() {
+      console.log("Time's up!");
     },
   },
   mounted() {
