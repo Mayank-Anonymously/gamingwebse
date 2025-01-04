@@ -1,0 +1,378 @@
+{
+  "casinoList": [
+    {
+      "id": 0,
+      "name": "smart",
+      "ariaControls": "left-tabs-example-tabpane-0",
+      "ariaSelected": true,
+      "class": "nav-link active",
+      "tabIndex": 0,
+      "url": "#",
+      "subCasinoGames": [
+        {
+          "name": "",
+          "games": [
+            {
+              "name": "JetX",
+              "image": "https://sitethemedata.com/casino_icons/other/ssg/xgames/jetx.jpg",
+              "actions": ["play", "info"]
+            },
+            {
+              "name": "Cappadocia",
+              "image": "https://sitethemedata.com/casino_icons/other/ssg/xgames/cappadocia.jpg",
+              "actions": ["play", "info"]
+            },
+            {
+              "name": "Spinx",
+              "image": "https://sitethemedata.com/casino_icons/other/ssg/xgames/spinx.jpg",
+              "actions": ["play", "info"]
+            },
+            {
+              "name": "JetX3",
+              "image": "https://sitethemedata.com/casino_icons/other/ssg/xgames/jetx3.jpg",
+              "actions": ["play", "info"]
+            },
+            {
+              "name": "CricketX",
+              "image": "https://sitethemedata.com/casino_icons/other/ssg/xgames/cricketx.jpg",
+              "actions": ["play", "info"]
+            },
+            {
+              "name": "VIP Keno",
+              "image": "https://sitethemedata.com/casino_icons/other/ssg/xgames/vipkeno.jpg",
+              "actions": ["play", "info"]
+            },
+            {
+              "name": "Classic Keno",
+              "image": "https://sitethemedata.com/casino_icons/other/ssg/xgames/ClassicKeno.jpg",
+              "actions": ["play", "info"]
+            },
+            {
+              "name": "Russian Keno",
+              "image": "https://sitethemedata.com/casino_icons/other/ssg/xgames/RussianKeno.jpg",
+              "actions": ["play", "info"]
+            },
+            {
+              "name": "RollX",
+              "image": "https://sitethemedata.com/casino_icons/other/ssg/xgames/rollx.jpg",
+              "actions": ["play", "info"]
+            },
+            {
+              "name": "Book of Futuria",
+              "image": "https://sitethemedata.com/casino_icons/other/ssg/xgames/bookbffuturia.jpg",
+              "actions": ["play", "info"]
+            },
+            {
+              "name": "SmashX",
+              "image": "https://sitethemedata.com/casino_icons/other/ssg/xgames/smashx.jpg",
+              "actions": ["play", "info"]
+            },
+            {
+              "name": "Wild Sand Gods",
+              "image": "https://sitethemedata.com/casino_icons/other/ssg/xgames/wildsandgods.jpg",
+              "actions": ["play", "info"]
+            },
+            {
+              "name": "Foxy Hot 20",
+              "image": "https://sitethemedata.com/casino_icons/other/ssg/xgames/foxyhot20.jpg",
+              "actions": ["play", "info"]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "name": "our",
+      "ariaControls": "left-tabs-example-tabpane-1",
+      "ariaSelected": false,
+      "class": "nav-link",
+      "tabIndex": -1,
+      "url": "#",
+      "subCasinoGames": [
+        {
+          "name": "",
+          "games": [
+            {
+              "name": "Diamond 11",
+              "image": "https://sitethemedata.com/casino_icons/other/diam11.png",
+              "actions": ["play", "info"]
+            },
+            {
+              "name": "Player Battle",
+              "image": "https://sitethemedata.com/casino_icons/other/playerbattle.jpeg",
+              "actions": ["play", "info"]
+            },
+            {
+              "name": "Snakes and Ladders",
+              "image": "https://sitethemedata.com/casino_icons/other/snakes-and-ladders.jpg",
+              "actions": ["play", "info"]
+            },
+            {
+              "name": "Rummy",
+              "image": "https://sitethemedata.com/casino_icons/other/rummy.jpg",
+              "actions": ["play", "info"]
+            },
+            {
+              "name": "Ludo Club",
+              "image": "https://sitethemedata.com/casino_icons/other/ludoclub.jpg",
+              "actions": ["play", "info"]
+            },
+            {
+              "name": "Ludo Lands",
+              "image": "https://sitethemedata.com/casino_icons/other/ludo-lands.jpg",
+              "actions": ["play", "info"]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "aviator",
+      "ariaControls": "left-tabs-example-tabpane-2",
+      "ariaSelected": false,
+      "class": "nav-link",
+      "tabIndex": -1,
+      "url": "#",
+      "subCasinoGames": [
+        {
+          "name": "",
+          "games": [
+            {
+              "name": "Aviator",
+              "image": "https://sitethemedata.com/casino_icons/other/ssg/aviator/aviator.jpg",
+              "actions": ["play", "info"]
+            },
+            {
+              "name": "Dice",
+              "image": "https://sitethemedata.com/casino_icons/other/ssg/aviator/dice.jpg",
+              "actions": ["play", "info"]
+            },
+            {
+              "name": "Goal",
+              "image": "https://sitethemedata.com/casino_icons/other/ssg/aviator/goal.jpg",
+              "actions": ["play", "info"]
+            },
+            {
+              "name": "Plinko",
+              "image": "https://sitethemedata.com/casino_icons/other/ssg/aviator/plinko.jpg",
+              "actions": ["play", "info"]
+            },
+            {
+              "name": "Mines",
+              "image": "https://sitethemedata.com/casino_icons/other/ssg/aviator/mines.jpg",
+              "actions": ["play", "info"]
+            },
+            {
+              "name": "Hi-Lo",
+              "image": "https://sitethemedata.com/casino_icons/other/ssg/aviator/hi-lo.jpg",
+              "actions": ["play", "info"]
+            },
+            {
+              "name": "Mini Roulette",
+              "image": "https://sitethemedata.com/casino_icons/other/ssg/aviator/mini-roulette.jpg",
+              "actions": ["play", "info"]
+            },
+            {
+              "name": "Hotline",
+              "image": "https://sitethemedata.com/casino_icons/other/ssg/aviator/hotline.jpg",
+              "actions": ["play", "info"]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "creedroomz",
+      "ariaControls": "left-tabs-example-tabpane-3",
+      "ariaSelected": false,
+      "class": "nav-link",
+      "tabIndex": -1,
+      "url": "#",
+      "subCasinoGames": [
+        {
+          "name": "",
+          "games": [
+            {
+              "image": "https://sitethemedata.com/casino_icons/other/ssg/scratch/scratch.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "scratch",
+      "ariaControls": "left-tabs-example-tabpane-4",
+      "ariaSelected": false,
+      "class": "nav-link",
+      "tabIndex": -1,
+      "url": "#",
+
+      "games": [
+        {
+          "image": "https://sitethemedata.com/casino_icons/other/darwin/darwin/AVIATSR.jpg",
+          "actions": [
+            { "icon": "play", "class": "fas fa-play" },
+            { "icon": "info", "class": "fas fa-info-circle fancy-info" }
+          ]
+        },
+        {
+          "image": "https://sitethemedata.com/casino_icons/other/darwin/darwin/HZCC.jpg",
+          "actions": [
+            { "icon": "play", "class": "fas fa-play" },
+            { "icon": "info", "class": "fas fa-info-circle fancy-info" }
+          ]
+        },
+        {
+          "image": "https://sitethemedata.com/casino_icons/other/darwin/darwin/BAE.jpg",
+          "actions": [
+            { "icon": "play", "class": "fas fa-play" },
+            { "icon": "info", "class": "fas fa-info-circle fancy-info" }
+          ]
+        },
+        {
+          "image": "https://sitethemedata.com/casino_icons/other/darwin/darwin/BAEPAIRS.jpg",
+          "actions": [
+            { "icon": "play", "class": "fas fa-play" },
+            { "icon": "info", "class": "fas fa-info-circle fancy-info" }
+          ]
+        },
+        {
+          "image": "https://sitethemedata.com/casino_icons/other/darwin/darwin/BAEPAIRSVIP.jpg",
+          "actions": [
+            { "icon": "play", "class": "fas fa-play" },
+            { "icon": "info", "class": "fas fa-info-circle fancy-info" }
+          ]
+        },
+        {
+          "image": "https://sitethemedata.com/casino_icons/other/darwin/darwin/BAEVIP.jpg",
+          "actions": [
+            { "icon": "play", "class": "fas fa-play" },
+            { "icon": "info", "class": "fas fa-info-circle fancy-info" }
+          ]
+        },
+        {
+          "image": "https://sitethemedata.com/casino_icons/other/darwin/darwin/HL.jpg",
+          "actions": [
+            { "icon": "play", "class": "fas fa-play" },
+            { "icon": "info", "class": "fas fa-info-circle fancy-info" }
+          ]
+        },
+        {
+          "image": "https://sitethemedata.com/casino_icons/other/darwin/darwin/HLVIP.jpg",
+          "actions": [
+            { "icon": "play", "class": "fas fa-play" },
+            { "icon": "info", "class": "fas fa-info-circle fancy-info" }
+          ]
+        },
+        {
+          "image": "https://sitethemedata.com/casino_icons/other/darwin/darwin/BLOSBINGO.jpg",
+          "actions": [
+            { "icon": "play", "class": "fas fa-play" },
+            { "icon": "info", "class": "fas fa-info-circle fancy-info" }
+          ]
+        },
+        {
+          "image": "https://sitethemedata.com/casino_icons/other/darwin/darwin/BLOSBINGOEXP.jpg",
+          "actions": [
+            { "icon": "play", "class": "fas fa-play" },
+            { "icon": "info", "class": "fas fa-info-circle fancy-info" }
+          ]
+        },
+        {
+          "image": "https://sitethemedata.com/casino_icons/other/darwin/darwin/DRGNBINGO.jpg",
+          "actions": [
+            { "icon": "play", "class": "fas fa-play" },
+            { "icon": "info", "class": "fas fa-info-circle fancy-info" }
+          ]
+        },
+        {
+          "image": "https://sitethemedata.com/casino_icons/other/darwin/darwin/DRGNBINGOEXP.jpg",
+          "actions": [
+            { "icon": "play", "class": "fas fa-play" },
+            { "icon": "info", "class": "fas fa-info-circle fancy-info" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "darwin",
+      "ariaControls": "left-tabs-example-tabpane-5",
+      "ariaSelected": false,
+      "class": "nav-link",
+      "tabIndex": -1,
+      "url": "#",
+      "subCasinoGames": [
+        {
+          "name": "",
+          "games": [
+            {
+              "image": "https://sitethemedata.com/casino_icons/other/bcslot/creedroomz/334.jpg",
+              "class": "img-fluid pointer"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/other/bcslot/creedroomz/141413.jpg",
+              "class": "img-fluid pointer"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/other/bcslot/creedroomz/141414.jpg",
+              "class": "img-fluid pointer"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/other/bcslot/creedroomz/141418.jpg",
+              "class": "img-fluid pointer"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/other/bcslot/creedroomz/141416.jpg",
+              "class": "img-fluid pointer"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/other/bcslot/creedroomz/141422.jpg",
+              "class": "img-fluid pointer"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/other/bcslot/creedroomz/141415.jpg",
+              "class": "img-fluid pointer"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/other/bcslot/creedroomz/141419.jpg",
+              "class": "img-fluid pointer"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/other/bcslot/creedroomz/141425.jpg",
+              "class": "img-fluid pointer"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/other/bcslot/creedroomz/141426.jpg",
+              "class": "img-fluid pointer"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/other/bcslot/creedroomz/33060314.jpg",
+              "class": "img-fluid pointer"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/other/bcslot/creedroomz/33060327.jpg",
+              "class": "img-fluid pointer"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/other/bcslot/creedroomz/33060328.jpg",
+              "class": "img-fluid pointer"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/other/bcslot/creedroomz/420015499.jpg",
+              "class": "img-fluid pointer"
+            },
+            {
+              "image": "https://sitethemedata.com/casino_icons/other/bcslot/creedroomz/141429.jpg",
+              "class": "img-fluid pointer"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

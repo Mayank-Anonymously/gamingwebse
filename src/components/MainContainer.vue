@@ -37,7 +37,7 @@
                 <div class="bet-nation-name"><b>Game</b></div>
                 <div class="bet-nation-odd"><b>1</b></div>
                 <div class="bet-nation-odd"><b>X</b></div>
-                <div class="bet-nation-odd"><b>2</b></div>
+                <div class="bet-nation-odd"><b>2</b></div>  
               </div>
               <div class="bet-table-body">
                 <div class="bet-table-row" v-if="noRecordsFound">

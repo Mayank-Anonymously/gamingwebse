@@ -1,7 +1,7 @@
 <template>
   <div>
     <AppHeader />
-    <LiveCasinoList />
+
 
     <div class="container-fluid mx-0 my0 pad-left-0">
       <div class="row">
@@ -9,13 +9,11 @@
           <AppSidebar />
         </div>
         <div class="col-md-10 pad-left-0 mobile-container">
-          <div
-            v-if="
-              filteredData &&
-              filteredData.match &&
-              filteredData.match.length > 0
-            "
-          >
+          <div v-if="
+            filteredData &&
+            filteredData.match &&
+            filteredData.match.length > 0
+          ">
             <div class="bet-table">
               <!-- Table Header -->
               <div class="bet-table-header">
@@ -27,11 +25,7 @@
 
               <!-- Table Body -->
               <div class="bet-table-body">
-                <div
-                  class="bet-table-row"
-                  v-for="(match, index) in filteredData.match"
-                  :key="index"
-                >
+                <div class="bet-table-row" v-for="(match, index) in filteredData.match" :key="index">
                   <!-- Game Info -->
                   <div class="bet-nation-name">
                     <a :href="match.gameLink" class="bet-nation-game-name">
@@ -40,43 +34,21 @@
                       <span>{{ match.date }}</span>
                     </a>
                     <div class="game-icons">
-                      <div
-                        class="game-icon"
-                        v-for="(icon, idx) in match.gameIcons"
-                        :key="idx"
-                      >
-                        <span
-                          v-if="icon.type === 'active'"
-                          class="active"
-                        ></span>
-                        <i
-                          v-if="icon.type === 'tv'"
-                          class="fas fa-tv icon-tv"
-                        ></i>
-                        <img
-                          v-if="icon.type === 'image'"
-                          :src="icon.src"
-                          :alt="icon.alt"
-                        />
+                      <div class="game-icon" v-for="(icon, idx) in match.gameIcons" :key="idx">
+                        <span v-if="icon.type === 'active'" class="active"></span>
+                        <i v-if="icon.type === 'tv'" class="fas fa-tv icon-tv"></i>
+                        <img v-if="icon.type === 'image'" :src="icon.src" :alt="icon.alt" />
                       </div>
                     </div>
                   </div>
 
                   <!-- Betting Odds -->
-                  <div
-                    class="bet-nation-odd"
-                    v-for="(odd, idx) in match.odds"
-                    :key="idx"
-                  >
+                  <div class="bet-nation-odd" v-for="(odd, idx) in match.odds" :key="idx">
                     <div class="back odd-box">
-                      <span class="bet-odd"
-                        ><b>{{ odd.back }}</b></span
-                      >
+                      <span class="bet-odd"><b>{{ odd.back }}</b></span>
                     </div>
                     <div class="lay odd-box">
-                      <span class="bet-odd"
-                        ><b>{{ odd.lay }}</b></span
-                      >
+                      <span class="bet-odd"><b>{{ odd.lay }}</b></span>
                     </div>
                   </div>
                 </div>
@@ -104,14 +76,14 @@ import { useRoute } from "vue-router";
 import AppHeader from "./AppHeader.vue";
 import AppFooter from "./AppFooter.vue";
 import AppSidebar from "./Sidebar.vue";
-import LiveCasinoList from "./LiveCasinoList.vue";
+// import LiveCasinoList from "./LiveCasinoList.vue";
 export default {
   name: "HeaderGameRender",
   components: {
     AppFooter,
     AppSidebar,
     AppHeader,
-    LiveCasinoList,
+    // LiveCasinoList,
   },
   data() {
     return {
@@ -175,15 +147,18 @@ export default {
 
 <style scoped>
 .casino-item-banner {
-  background-color: #f8f9fa; /* Light background */
+  background-color: #f8f9fa;
+  /* Light background */
   padding: 10px;
-  border-radius: 8px; /* Rounded edges */
+  border-radius: 8px;
+  /* Rounded edges */
   text-align: center;
   transition: transform 0.2s ease-in-out;
 }
 
 .casino-item-banner:hover {
-  transform: scale(1.05); /* Subtle zoom effect on hover */
+  transform: scale(1.05);
+  /* Subtle zoom effect on hover */
 }
 
 .casino-game p {
@@ -197,9 +172,11 @@ export default {
   .bet-nation-game-name {
     white-space: nowrap;
   }
+
   .bet-nation-name {
     font-size: 16px;
   }
+
   .bet-nation-odd {
     font-size: 16px;
   }
@@ -210,6 +187,7 @@ export default {
   .bet-nation-name {
     font-size: 15px;
   }
+
   .bet-nation-odd {
     font-size: 15px;
   }
@@ -220,10 +198,12 @@ export default {
   .bet-table-row {
     justify-content: center;
   }
+
   .bet-nation-name {
     width: 60%;
     font-size: 14px;
   }
+
   .bet-nation-odd {
     width: 13%;
   }
@@ -237,13 +217,17 @@ export default {
     margin-bottom: 10px;
     font-size: 13px;
   }
+
   .bet-nation-odd {
-    width: 30%; /* Three odds per row */
+    width: 30%;
+    /* Three odds per row */
     margin-bottom: 5px;
     font-size: 12px;
   }
+
   .bet-nation-odd .odd-box {
-    width: 100%; /* Full width for better touch interaction */
+    width: 100%;
+    /* Full width for better touch interaction */
   }
 }
 
@@ -252,10 +236,13 @@ export default {
   .bet-nation-name {
     font-size: 12px;
   }
+
   .bet-nation-odd {
-    width: 30%; /* Each odd on its own row */
+    width: 30%;
+    /* Each odd on its own row */
     font-size: 12px;
   }
+
   .bet-nation-odd .odd-box {
     text-align: center;
     font-size: 11px;
@@ -267,9 +254,11 @@ export default {
   .bet-nation-name {
     font-size: 11px;
   }
+
   .bet-nation-odd {
     font-size: 10px;
   }
+
   .bet-nation-odd .odd-box {
     padding: 0;
   }

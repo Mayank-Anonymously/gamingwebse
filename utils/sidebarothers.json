@@ -11,17 +11,17 @@
   },
   {
     "name": "Live Casino",
-    "url": "live-casino-list/CS/26",
+    "url": "/casino/live-casino-list",
     "class": ""
   },
   {
     "name": "Slot Game",
-    "url": "slot-list",
+    "url": "/casino/slot-list",
     "class": ""
   },
   {
     "name": "Fantasy Game",
-    "url": "fantasy-list",
+    "url": "/casino/fantasy-list",
     "class": ""
   }
 ]
