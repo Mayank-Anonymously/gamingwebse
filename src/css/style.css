@@ -332,8 +332,8 @@ a {
   margin-right: -5px;
 }
 
-.row.row5 > [class*="col-"],
-.row.row5 > [class*="col"] {
+.row.row5>[class*="col-"],
+.row.row5>[class*="col"] {
   padding-left: 5px;
   padding-right: 5px;
 }
@@ -343,8 +343,8 @@ a {
   margin-right: -10px;
 }
 
-.row.row10 > [class*="col-"],
-.row.row10 > [class*="col"] {
+.row.row10>[class*="col-"],
+.row.row10>[class*="col"] {
   padding-left: 10px;
   padding-right: 10px;
 }
@@ -1527,7 +1527,7 @@ a {
 
 /*Forms*/
 
-.form-floating > label {
+.form-floating>label {
   z-index: 3;
 }
 
@@ -1666,7 +1666,7 @@ a {
 }
 
 .nav-pills .nav-link.active,
-.nav-pills .show > .nav-link {
+.nav-pills .show>.nav-link {
   background-color: var(--bg-secondary);
   color: var(--text-secondary);
 }
@@ -1857,7 +1857,7 @@ tr {
   flex-wrap: wrap;
 }
 
-.custom-pagination > div {
+.custom-pagination>div {
   cursor: pointer;
   padding: 0.375rem 0.75rem;
   position: relative;
@@ -1877,28 +1877,28 @@ tr {
   line-height: 26px;
 }
 
-.custom-pagination > div:first-child {
+.custom-pagination>div:first-child {
   border-top-left-radius: 0.25rem;
   border-bottom-left-radius: 0.25rem;
 }
 
-.custom-pagination > div:nth-child(4n) {
+.custom-pagination>div:nth-child(4n) {
   border-top-right-radius: 0.25rem;
   border-bottom-right-radius: 0.25rem;
 }
 
-.custom-pagination > div:last-child {
+.custom-pagination>div:last-child {
   border: 0;
   display: flex;
   justify-content: center;
   align-items: center;
 }
 
-.custom-pagination > div[disabled] {
+.custom-pagination>div[disabled] {
   cursor: not-allowed;
 }
 
-.custom-pagination > div:last-child input {
+.custom-pagination>div:last-child input {
   width: 100px;
 }
 
@@ -2153,17 +2153,17 @@ tr {
   margin: 0 auto 5px;
 }
 
-.whatsapp-box > div:first-child {
+.whatsapp-box>div:first-child {
   font-weight: bold;
   text-align: center;
   width: 100%;
 }
 
-.whatsapp-box > div:first-child span {
+.whatsapp-box>div:first-child span {
   font-size: 14px;
 }
 
-.whatsapp-box > div:first-child h4 {
+.whatsapp-box>div:first-child h4 {
   font-weight: bold;
   font-size: 18px;
   margin-top: 8px;
@@ -2848,7 +2848,7 @@ tr {
   flex-wrap: wrap;
 }
 
-.latest-event .arrow-left + .latest-events-container {
+.latest-event .arrow-left+.latest-events-container {
   width: calc(100% - 64px);
 }
 
@@ -3702,7 +3702,7 @@ tr {
   align-items: center;
 }
 
-.market-12 .market-nation-detail .form-check label > div:first-child {
+.market-12 .market-nation-detail .form-check label>div:first-child {
   text-align: center;
   line-height: normal;
   margin-right: 5px;
@@ -3710,7 +3710,7 @@ tr {
   width: 25px;
 }
 
-.market-12 .market-nation-detail .form-check label > div:last-child {
+.market-12 .market-nation-detail .form-check label>div:last-child {
   width: calc(100% - 70px);
   display: flex;
   flex-wrap: wrap;
@@ -3822,7 +3822,7 @@ tr {
   align-content: center;
 }
 
-.horse-timer > span {
+.horse-timer>span {
   text-align: center;
 }
 
@@ -3831,7 +3831,7 @@ tr {
   font-weight: bold;
 }
 
-.horse-timer > span:last-child {
+.horse-timer>span:last-child {
   font-size: 14px;
   color: #fff;
   font-weight: normal;
@@ -4182,14 +4182,11 @@ tr {
   width: 100%;
 }
 
-.own-casino-page .tabs-arow.tabs-arow-left + .casino-sub-tab {
+.own-casino-page .tabs-arow.tabs-arow-left+.casino-sub-tab {
   width: calc(100% - 130px);
 }
 
-.own-casino-page
-  .casino-sub-tab-list.show-close-btn
-  .tabs-arow.tabs-arow-left
-  + .casino-sub-tab {
+.own-casino-page .casino-sub-tab-list.show-close-btn .tabs-arow.tabs-arow-left+.casino-sub-tab {
   width: calc(100% - 170px);
 }
 
@@ -4468,7 +4465,7 @@ tr {
   width: 210px;
 }
 
-.casino-video-title > div:first-child {
+.casino-video-title>div:first-child {
   background-color: rgba(0, 0, 0, 0.5);
 }
 
@@ -4861,8 +4858,8 @@ tr {
   padding-right: 0.5rem !important;
 }
 
-.rules-section .row.row5 > [class*="col-"],
-.rules-section .row.row5 > [class*="col"] {
+.rules-section .row.row5>[class*="col-"],
+.rules-section .row.row5>[class*="col"] {
   padding-left: 5px;
   padding-right: 5px;
 }
@@ -4971,9 +4968,7 @@ tr {
   width: 13%;
 }
 
-.teenpatti1day
-  .teenpatti1day-other-odds
-  .casino-odds-box.suspended-box::before {
+.teenpatti1day .teenpatti1day-other-odds .casino-odds-box.suspended-box::before {
   top: -12px;
 }
 
@@ -5186,13 +5181,13 @@ tr {
   padding: 5px;
 }
 
-.teenpatti2024 .casino-table-header .casino-nation-detail > div {
+.teenpatti2024 .casino-table-header .casino-nation-detail>div {
   display: flex;
   flex-wrap: wrap;
   margin-left: 5px;
 }
 
-.teenpatti2024 .casino-nation-detail > div img {
+.teenpatti2024 .casino-nation-detail>div img {
   height: 30px;
   margin-right: 5px;
 }
@@ -5327,11 +5322,9 @@ tr {
 }
 
 .casino-odds-box-theme {
-  background-image: linear-gradient(
-    to right,
-    var(--bg-primary),
-    var(--bg-secondary)
-  );
+  background-image: linear-gradient(to right,
+      var(--bg-primary),
+      var(--bg-secondary));
   color: var(--text-primary);
   border-radius: 4px;
   box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.14),
@@ -5625,7 +5618,7 @@ tr {
   -o-border-radius: 30px 0 0 30px;
 }
 
-.player-pair-box > div {
+.player-pair-box>div {
   line-height: 1;
 }
 
@@ -5642,7 +5635,7 @@ tr {
   height: 70px;
 }
 
-.player-box > div {
+.player-box>div {
   line-height: 1;
   display: flex;
   flex-wrap: wrap;
@@ -5673,7 +5666,7 @@ tr {
   height: 70px;
 }
 
-.tie-box > div {
+.tie-box>div {
   line-height: 1;
 }
 
@@ -5692,7 +5685,7 @@ tr {
     -o-transform: rotate(90deg);
 } */
 
-.banker-box > div {
+.banker-box>div {
   line-height: 1;
   display: flex;
   flex-wrap: wrap;
@@ -5725,7 +5718,7 @@ tr {
   -o-border-radius: 0 30px 30px 0;
 }
 
-.banker-pair-box > div {
+.banker-pair-box>div {
   line-height: 1;
 }
 
@@ -5750,12 +5743,12 @@ img.l-rotate {
   transform: rotate(270deg);
 }
 
-.r-rotate > img,
+.r-rotate>img,
 img.r-rotate {
   transform: rotate(90deg);
 }
 
-.r-rotate > img,
+.r-rotate>img,
 img.r-rotate {
   transform: rotate(90deg);
 }
@@ -6307,7 +6300,7 @@ img.r-rotate {
   padding: 5px;
 }
 
-.race-total-point > div {
+.race-total-point>div {
   border: 1px solid yellow;
   padding: 5px;
   text-align: center;
@@ -6366,7 +6359,7 @@ img.r-rotate {
   width: 33.33%;
 }
 
-.race20 .casino-table-left-box .casino-odd-box-container > .casino-nation-book {
+.race20 .casino-table-left-box .casino-odd-box-container>.casino-nation-book {
   width: 66.66%;
   text-align: center;
   margin-left: auto;
@@ -6888,7 +6881,7 @@ img.r-rotate {
   font-size: 18px;
 }
 
-.kbc .kbc-btns .btn-check:checked + .btn {
+.kbc .kbc-btns .btn-check:checked+.btn {
   background-color: var(--bg-success);
 }
 
@@ -6991,7 +6984,7 @@ img.r-rotate {
   color: var(--text-secondary);
 }
 
-.kbcbtesbox > div {
+.kbcbtesbox>div {
   width: calc(33.33% - 6px);
   margin-bottom: 5px;
 }
@@ -7335,8 +7328,8 @@ img.r-rotate {
   cursor: pointer;
 }
 
-.cmeter .casino-table-left-box > div:first-child,
-.cmeter .casino-table-right-box > div:first-child {
+.cmeter .casino-table-left-box>div:first-child,
+.cmeter .casino-table-right-box>div:first-child {
   min-height: 50px;
   display: flex;
   flex-wrap: wrap;
@@ -7344,8 +7337,8 @@ img.r-rotate {
   align-items: center;
 }
 
-.cmeter .casino-table-left-box > div:first-child .card-odd-box,
-.cmeter .casino-table-right-box > div:first-child .card-odd-box {
+.cmeter .casino-table-left-box>div:first-child .card-odd-box,
+.cmeter .casino-table-right-box>div:first-child .card-odd-box {
   margin-bottom: 0;
 }
 
@@ -7383,8 +7376,8 @@ img.r-rotate {
   margin-top: 5px;
 }
 
-.cmeter-low > div:first-child,
-.cmeter-high > div:first-child {
+.cmeter-low>div:first-child,
+.cmeter-high>div:first-child {
   width: 10%;
 }
 
@@ -7569,7 +7562,7 @@ img.r-rotate {
   padding: 5px;
 }
 
-.cricket20books > div {
+.cricket20books>div {
   display: flex;
   justify-content: space-between;
   color: #fff;
@@ -7850,13 +7843,13 @@ img.r-rotate {
   padding: 5px;
 }
 
-.lottery-rules-title-name > div:first-child {
+.lottery-rules-title-name>div:first-child {
   font-size: 22px;
   font-weight: bold;
   color: var(--text-fancy);
 }
 
-.lottery-rules-title-name > div {
+.lottery-rules-title-name>div {
   width: 100%;
 }
 
@@ -7952,18 +7945,18 @@ img.r-rotate {
   align-items: center;
 }
 
-.duskadum .dkd-total > div {
+.duskadum .dkd-total>div {
   line-height: normal;
 }
 
-.duskadum .dkd-total > div:first-child {
+.duskadum .dkd-total>div:first-child {
   width: 100%;
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
 }
 
-.duskadum .dkd-total > div:first-child > div {
+.duskadum .dkd-total>div:first-child>div {
   display: flex;
   flex-wrap: wrap;
   align-items: center;
@@ -8245,10 +8238,8 @@ img.r-rotate {
 
 .sicbo-square-box {
   text-transform: uppercase;
-  background-image: linear-gradient(
-    rgba(153, 146, 135, 0.7),
-    rgba(162, 142, 130, 0.7)
-  );
+  background-image: linear-gradient(rgba(153, 146, 135, 0.7),
+      rgba(162, 142, 130, 0.7));
   border-radius: 6px;
   padding: 5px;
   color: #1d1b2d;
@@ -8284,9 +8275,7 @@ img.r-rotate {
   width: 100%;
 }
 
-.sicbo-middle-middle-row
-  .sicbo-cube-box-container:first-child
-  .sicbo-title-box {
+.sicbo-middle-middle-row .sicbo-cube-box-container:first-child .sicbo-title-box {
   display: flex;
   justify-content: space-between;
 }
@@ -8421,12 +8410,12 @@ img.r-rotate {
   z-index: 2;
 }
 
-.vcasino .casino-video-cards > div {
+.vcasino .casino-video-cards>div {
   margin-right: 50px;
   position: relative;
 }
 
-.vcasino .casino-video-cards > div:last-child {
+.vcasino .casino-video-cards>div:last-child {
   margin-right: 0;
 }
 
@@ -8457,7 +8446,7 @@ img.r-rotate {
   top: -10px;
 }
 
-.vcasino .casino-video-cards > div:last-child .virtual-winner {
+.vcasino .casino-video-cards>div:last-child .virtual-winner {
   right: -100px;
   left: unset;
 }
@@ -8504,13 +8493,13 @@ img.r-rotate {
   -o-transform: translateX(-50%);
 }
 
-.odds-title > div {
+.odds-title>div {
   width: 40px;
   margin-right: 50px;
   text-align: center;
 }
 
-.odds-title > div:last-child {
+.odds-title>div:last-child {
   margin-right: 0;
 }
 
@@ -8580,7 +8569,7 @@ img.r-rotate {
   margin: 0;
 }
 
-.slot-page .casino-sub-tab-list .tabs-arow.tabs-arow-left + .casino-sub-tab {
+.slot-page .casino-sub-tab-list .tabs-arow.tabs-arow-left+.casino-sub-tab {
   width: calc(100% - 130px);
   flex-wrap: nowrap;
 }
@@ -8621,14 +8610,11 @@ img.r-rotate {
   margin: 0;
 }
 
-.slot-page .tabs-arow.tabs-arow-left + .casino-tab {
+.slot-page .tabs-arow.tabs-arow-left+.casino-tab {
   width: calc(100% - 130px);
 }
 
-.slot-page
-  .casino-tab-list.show-close-btn
-  .tabs-arow.tabs-arow-left
-  + .casino-tab {
+.slot-page .casino-tab-list.show-close-btn .tabs-arow.tabs-arow-left+.casino-tab {
   width: calc(100% - 170px);
 }
 
@@ -8884,7 +8870,7 @@ img.r-rotate {
   padding: 0 20px;
 }
 
-.list-decimal > li {
+.list-decimal>li {
   list-style: decimal;
 }
 
@@ -9041,7 +9027,7 @@ img.r-rotate {
   gap: 20px;
 }
 
-.roulette-table-box > div:last-child {
+.roulette-table-box>div:last-child {
   text-align: right;
 }
 
@@ -9231,7 +9217,7 @@ img.r-rotate {
   width: 175px;
 }
 
-.coupon-name > div {
+.coupon-name>div {
   line-height: 16px;
   max-height: 32px;
   overflow: hidden;
@@ -9287,7 +9273,7 @@ img.r-rotate {
   min-height: 55px;
 }
 
-.payment-icons-title > div:first-child {
+.payment-icons-title>div:first-child {
   max-width: calc(100% - 25px);
 }
 
@@ -9378,10 +9364,7 @@ img.r-rotate {
   border-right: 1px solid var(--bg-primary);
 }
 
-.deposit-page
-  .payment-icons
-  .payment-icon-box-container
-  .payment-icon-box.active {
+.deposit-page .payment-icons .payment-icon-box-container .payment-icon-box.active {
   background-color: var(--bg-secondary85);
   color: var(--text-secondary);
 }
@@ -9483,22 +9466,13 @@ img.r-rotate {
   color: var(--text-sidebar) !important;
 }
 
-.deposit-page
-  .deposit-form
-  .form-group.depo-amount
-  .form-control::-webkit-outer-spin-button,
-.deposit-page
-  .deposit-form
-  .form-group.depo-amount
-  .form-control::-webkit-inner-spin-button {
+.deposit-page .deposit-form .form-group.depo-amount .form-control::-webkit-outer-spin-button,
+.deposit-page .deposit-form .form-group.depo-amount .form-control::-webkit-inner-spin-button {
   -webkit-appearance: none;
   margin: 0;
 }
 
-.deposit-page
-  .deposit-form
-  .form-group.depo-amount
-  .form-control[type="number"] {
+.deposit-page .deposit-form .form-group.depo-amount .form-control[type="number"] {
   appearance: textfield;
   -moz-appearance: textfield;
 }
@@ -9570,7 +9544,7 @@ img.r-rotate {
   display: none;
 }
 
-.deposit-page .deposit-options > .row {
+.deposit-page .deposit-options>.row {
   position: relative;
   /* width: 100%; */
 }
@@ -9604,8 +9578,7 @@ img.r-rotate {
   justify-content: space-between;
 }
 
-.deposit-page .deposit-options .bank-detail .qr-code .payment-detail-box {
-}
+.deposit-page .deposit-options .bank-detail .qr-code .payment-detail-box {}
 
 .bank-detail img {
   height: 75px;
@@ -9695,18 +9668,11 @@ img.r-rotate {
   /* cursor: pointer; */
 }
 
-.deposit-page
-  .payment-icons
-  .payment-icon-box-container
-  .payment-icon-box
-  .btn-autopay {
+.deposit-page .payment-icons .payment-icon-box-container .payment-icon-box .btn-autopay {
   cursor: not-allowed;
 }
 
-.deposit-page
-  .payment-icons.crypto-icons-box
-  .payment-icon-box-container
-  .payment-icon-box {
+.deposit-page .payment-icons.crypto-icons-box .payment-icon-box-container .payment-icon-box {
   flex-direction: row;
   justify-content: space-between;
   background: transparent;
@@ -9807,7 +9773,7 @@ img.r-rotate {
   margin: 0 auto;
 }
 
-.deposit-whatsapp > div:first-child {
+.deposit-whatsapp>div:first-child {
   background-color: #128c7e;
   padding: 5px;
   width: 50px;
@@ -9822,7 +9788,7 @@ img.r-rotate {
   -o-border-radius: 4px 0 0 4px;
 }
 
-.deposit-whatsapp > div:last-child {
+.deposit-whatsapp>div:last-child {
   width: calc(100% - 50px);
   display: flex;
   flex-wrap: wrap;
@@ -9856,30 +9822,25 @@ img.r-rotate {
   border-radius: 0 !important;
 }
 
-.add-new-detail .payment-icons-title .accordion-button > div:first-child {
+.add-new-detail .payment-icons-title .accordion-button>div:first-child {
   width: calc(100% - 100px);
   display: flex;
   align-items: flex-start;
 }
 
-.add-new-detail .payment-icons-title .accordion-button > div:first-child > i {
+.add-new-detail .payment-icons-title .accordion-button>div:first-child>i {
   font-size: 24px;
 }
 
-.add-new-detail .payment-icons-title .accordion-button > div:first-child > div {
+.add-new-detail .payment-icons-title .accordion-button>div:first-child>div {
   max-width: calc(100% - 40px);
 }
 
-.add-new-detail
-  .payment-icons-title
-  .accordion-button
-  > div:first-child
-  > div
-  i {
+.add-new-detail .payment-icons-title .accordion-button>div:first-child>div i {
   font-size: 16px;
 }
 
-.add-new-detail .payment-icons-title > div:first-child i {
+.add-new-detail .payment-icons-title>div:first-child i {
   font-size: 24px;
   cursor: pointer;
 }
@@ -10147,7 +10108,7 @@ img.r-rotate {
   font-size: 18px;
 }
 
-.blink-message > div {
+.blink-message>div {
   width: calc(100% - 30px);
   -moz-animation: blinktext normal 1s infinite ease-in-out;
   -webkit-animation: blinktext normal 1s infinite ease-in-out;
@@ -10964,7 +10925,7 @@ img.r-rotate {
   flex-wrap: wrap;
 }
 
-.deposit-left-payment > div {
+.deposit-left-payment>div {
   padding: 4px 8px;
   cursor: pointer;
   position: relative;
@@ -10980,14 +10941,14 @@ img.r-rotate {
   /* margin-bottom: 5px; */
 }
 
-.deposit-left-payment > div.active,
-.deposit-left-payment > div:hover,
-.deposit-left-payment > div:focus {
+.deposit-left-payment>div.active,
+.deposit-left-payment>div:hover,
+.deposit-left-payment>div:focus {
   background-color: var(--bg-secondary70);
   color: var(--text-secondary);
 }
 
-.deposit-left-payment > div img {
+.deposit-left-payment>div img {
   height: 20px;
   margin-right: 5px;
   filter: invert(1);
@@ -11034,7 +10995,7 @@ img.r-rotate {
   margin-right: 0;
 }
 
-.payment-icons-title > .accordion-button {
+.payment-icons-title>.accordion-button {
   background: transparent;
   border: 0;
   border-radius: 0 !important;
@@ -11047,16 +11008,16 @@ img.r-rotate {
   box-shadow: unset;
 }
 
-.payment-icons-title > .accordion-button:not(.collapsed) {
+.payment-icons-title>.accordion-button:not(.collapsed) {
   color: inherit;
   box-shadow: unset;
 }
 
-.payment-icons-title > .accordion-button:focus {
+.payment-icons-title>.accordion-button:focus {
   box-shadow: none;
 }
 
-.payment-icons-title > .accordion-button::after {
+.payment-icons-title>.accordion-button::after {
   display: none;
 }
 
@@ -11156,14 +11117,17 @@ img.r-rotate {
   body {
     font-size: 12px;
   }
+
   .pad-right-0 {
     padding-right: 0px;
   }
+
   .navbar-nav .nav-item {
     color: var(--text-primary);
     border: 0;
     border-right: 1px solid var(--text-primary);
   }
+
   .header-bottom {
     overflow-x: scroll;
     background-color: #0088cc;
@@ -11383,8 +11347,8 @@ img.r-rotate {
     margin-right: 0;
   }
 
-  .market-6 .row.row10 > [class*="col-"],
-  .market-6 .row.row10 > [class*="col"] {
+  .market-6 .row.row10>[class*="col-"],
+  .market-6 .row.row10>[class*="col"] {
     padding-left: 0px;
     padding-right: 1px;
   }
@@ -11573,7 +11537,7 @@ img.r-rotate {
     width: 40%;
   }
 
-  .casino-video-title > div:first-child {
+  .casino-video-title>div:first-child {
     padding: 5px;
   }
 
@@ -12105,7 +12069,7 @@ img.r-rotate {
     padding-bottom: 60px;
   }
 
-  .vcasino .casino-video-cards > div {
+  .vcasino .casino-video-cards>div {
     margin-right: 20px;
   }
 
@@ -12119,7 +12083,7 @@ img.r-rotate {
     top: -5px;
   }
 
-  .vcasino .casino-video-cards > div:last-child .virtual-winner {
+  .vcasino .casino-video-cards>div:last-child .virtual-winner {
     right: -50px;
   }
 
@@ -12208,8 +12172,8 @@ img.r-rotate {
     min-width: 100%;
   }
 
-  .cmeter-low > div:first-child,
-  .cmeter-high > div:first-child {
+  .cmeter-low>div:first-child,
+  .cmeter-high>div:first-child {
     width: 15%;
   }
 
@@ -12280,7 +12244,7 @@ img.r-rotate {
     height: 20px;
   }
 
-  .market-12 .market-nation-detail .form-check label > div:last-child {
+  .market-12 .market-nation-detail .form-check label>div:last-child {
     width: calc(100% - 65px);
   }
 
@@ -12296,7 +12260,7 @@ img.r-rotate {
     line-height: 1;
   }
 
-  .market-12 .market-nation-detail .market-nation-name > span:first-child {
+  .market-12 .market-nation-detail .market-nation-name>span:first-child {
     max-width: calc(100% - 20px);
     display: inline-block;
     overflow: hidden;
@@ -12382,7 +12346,7 @@ img.r-rotate {
     justify-content: center;
   }
 
-  .odds-title > div {
+  .odds-title>div {
     margin-right: 20px;
     width: 12px;
   }
@@ -12450,11 +12414,7 @@ img.r-rotate {
     width: 100%;
   }
 
-  .deposit-page
-    .payment-icons
-    .payment-icon-box-container
-    .payment-icon-box
-    h4 {
+  .deposit-page .payment-icons .payment-icon-box-container .payment-icon-box h4 {
     font-size: 12px;
   }
 
@@ -12467,11 +12427,7 @@ img.r-rotate {
     padding: 10px;
   }
 
-  .deposit-page
-    .payment-icons
-    .payment-icon-box-container
-    .payment-icon-box
-    img {
+  .deposit-page .payment-icons .payment-icon-box-container .payment-icon-box img {
     display: none;
   }
 
@@ -12483,7 +12439,7 @@ img.r-rotate {
     padding: 10px;
   }
 
-  .add-new-detail > div:first-child {
+  .add-new-detail>div:first-child {
     width: 100%;
   }
 
@@ -12539,12 +12495,12 @@ img.r-rotate {
     font-size: 12px;
   }
 
-  .horse-timer > span:last-child {
+  .horse-timer>span:last-child {
     font-size: 12px;
     margin-left: 5px;
   }
 
-  .horse-banner-detail > span {
+  .horse-banner-detail>span {
     position: absolute;
     bottom: 0;
     left: 40px;
@@ -12616,7 +12572,7 @@ img.r-rotate {
     width: 100%;
   }
 
-  .secure-logo ~ div {
+  .secure-logo~div {
     width: 100%;
     text-align: center;
     margin-top: 10px;
@@ -12854,12 +12810,13 @@ img.r-rotate {
     display: none;
   }
 
-  .deposit-left-payment > div {
+  .deposit-left-payment>div {
     margin-bottom: 5px;
   }
 }
 
 @media only screen and (max-width: 1199px) {
+
   /*Login Design*/
   .login-form {
     padding: 10px;
@@ -12941,7 +12898,7 @@ img.r-rotate {
     margin-left: 5px;
   }
 
-  .user-balance > div:first-child {
+  .user-balance>div:first-child {
     width: 100%;
     text-align: right;
     margin-bottom: 5px;
@@ -13057,9 +13014,9 @@ img.r-rotate {
   }
 
   .sports-tab.nav-pills .nav-link.active,
-  .sports-tab.nav-pills .show > .nav-link,
+  .sports-tab.nav-pills .show>.nav-link,
   .casino-tab.nav-pills .nav-link.active,
-  .casino-tab.nav-pills .show > .nav-link {
+  .casino-tab.nav-pills .show>.nav-link {
     background-color: var(--bg-primary65);
     color: var(--text-primary);
   }
@@ -13084,10 +13041,7 @@ img.r-rotate {
     width: 100%;
   }
 
-  .own-casino-page
-    .casino-sub-tab-list.show-close-btn
-    .tabs-arow.tabs-arow-left
-    + .casino-sub-tab {
+  .own-casino-page .casino-sub-tab-list.show-close-btn .tabs-arow.tabs-arow-left+.casino-sub-tab {
     width: 100%;
   }
 
@@ -13329,7 +13283,7 @@ img.r-rotate {
     height: auto;
   }
 
-  .custom-pagination > div:last-child {
+  .custom-pagination>div:last-child {
     width: 100%;
     margin-top: 5px;
   }
@@ -13455,10 +13409,7 @@ img.r-rotate {
     color: var(--text-secondary);
   }
 
-  .slot-page
-    .casino-tab-list.show-close-btn
-    .tabs-arow.tabs-arow-left
-    + .casino-tab {
+  .slot-page .casino-tab-list.show-close-btn .tabs-arow.tabs-arow-left+.casino-tab {
     width: 100%;
   }
 
@@ -13466,11 +13417,11 @@ img.r-rotate {
     padding: 0;
   }
 
-  .slot-page .casino-sub-tab-list .tabs-arow.tabs-arow-left + .casino-sub-tab {
+  .slot-page .casino-sub-tab-list .tabs-arow.tabs-arow-left+.casino-sub-tab {
     width: 100%;
   }
 
-  .slot-page .tabs-arow.tabs-arow-left + .casino-tab {
+  .slot-page .tabs-arow.tabs-arow-left+.casino-tab {
     width: 100%;
   }
 
@@ -13943,7 +13894,7 @@ img.r-rotate {
     top: 5px;
   }
 
-  .vcasino .casino-video-cards > div:last-child .virtual-winner {
+  .vcasino .casino-video-cards>div:last-child .virtual-winner {
     right: -70px;
   }
 
@@ -13964,7 +13915,7 @@ img.r-rotate {
     width: calc(100% - 215px);
   }
 
-  .teenpatti2024 .casino-nation-detail > div img {
+  .teenpatti2024 .casino-nation-detail>div img {
     height: 20px;
   }
 
@@ -13972,7 +13923,7 @@ img.r-rotate {
     font-size: 9px;
   }
 
-  .odds-title > div {
+  .odds-title>div {
     width: 32px;
   }
 
@@ -14220,7 +14171,7 @@ img.r-rotate {
     width: calc(100% - 245px);
   }
 
-  .teenpatti2024 .casino-nation-detail > div img {
+  .teenpatti2024 .casino-nation-detail>div img {
     height: 24px;
   }
 
@@ -14228,7 +14179,7 @@ img.r-rotate {
     font-size: 10px;
   }
 
-  .odds-title > div {
+  .odds-title>div {
     width: 36px;
   }
 
@@ -14636,9 +14587,11 @@ img.r-rotate {
 /* // Media Query Mobile Responsive  */
 
 .flip-clock-wrapper {
-  display: flex; /* Align the digits horizontally */
+  display: flex;
+  /* Align the digits horizontally */
   justify-content: center;
-  gap: 10px; /* Space between digits */
+  gap: 10px;
+  /* Space between digits */
 }
 
 .digit {
@@ -14702,6 +14655,44 @@ img.r-rotate {
   bottom: 0;
   letter-spacing: 3px;
 }
+
 .countdown h1 {
   font-size: 50px;
+}
+
+.live-casino-list {
+  overflow-x: hidden;
+  overflow-y: hidden;
+  flex-wrap: wrap;
+  align-content: flex-start;
+  background-color: var(--bg-secondary);
+  width: 100%;
+  height: 100%;
+}
+
+.live-casino-list .nav-pills .nav-link {
+  border-radius: 0 !important;
+  -webkit-border-radius: 0 !important;
+  -moz-border-radius: 0 !important;
+  -ms-border-radius: 0 !important;
+  -o-border-radius: 0 !important;
+  border-right: 1px solid var(--bg-secondary) !important;
+  font-weight: 500 !important;
+  font-size: 16px !important;
+  text-align: center !important;
+  line-height: 1 !important;
+  cursor: pointer !important;
+  white-space: nowrap !important;
+  background: none;
+  color: white !important
+}
+
+.live-casino-list .nav-link:hover {
+  background: #285e9494;
+  color: white
+}
+
+.live-casino-list .nav-link-active {
+  background: #285e9494;
+  color: white
 }

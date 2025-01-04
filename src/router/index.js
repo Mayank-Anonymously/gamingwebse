@@ -8,6 +8,7 @@ import CasinoResults from "../views/profile/casino-results.vue";
 import SetButtonValues from "../views/profile/set-button-values.vue";
 import GameDetails from "../views/details.vue";
 import HeaderGameRender from "@/components/HeaderGameRender.vue";
+import LiveCasino from "@/views/others/LiveCasino.vue";
 
 // Define routes
 const routes = [
@@ -20,6 +21,7 @@ const routes = [
   { path: "/profile/casino-results", component: CasinoResults },
   { path: "/profile/set-button-values", component: SetButtonValues },
   { path: "/games/:name/:routeParam", component: HeaderGameRender },
+  { path: "/casino/live-casino-list", component: LiveCasino },
 ];
 
 // Create and configure the router
