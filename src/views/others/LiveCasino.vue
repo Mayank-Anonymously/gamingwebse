@@ -6,10 +6,10 @@
         <div class="col-md-2 pad-right-0">
           <AppSidebar />
         </div>
-        <div class="col-md-2 pad-left-0 pad-right-0">
+
+        <div class="col-md-10 pad-left-0 mobile-container">
           <LiveCasinoList />
         </div>
-        <div class="col-md-8 pad-left-0 mobile-container"></div>
         <AppFooter />
       </div>
     </div>

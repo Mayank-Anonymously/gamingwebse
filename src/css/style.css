@@ -11167,14 +11167,6 @@ img.r-rotate {
     border-right: 1px solid var(--text-primary);
   }
 
-  .live-casino-list {
-    padding-bottom: 0 !important;
-  }
-  .live-casino-list .nav-pills {
-    display: flex;
-    overflow-x: scroll;
-  }
-
   .header-bottom {
     overflow-x: scroll;
     background-color: #0088cc;
@@ -14733,9 +14725,14 @@ img.r-rotate {
   flex-wrap: wrap;
   align-content: flex-start;
   background-color: var(--bg-secondary);
-  width: 100%;
-  height: 100%;
-  padding-bottom: 45px;
+  min-width: 180px;
+  max-width: 180px;
+  /* height: 100%; */
+}
+
+.casino-list-images {
+  display: flex;
+  margin-top: 5px;
 }
 
 .live-casino-list .nav-pills .nav-link {
@@ -14763,4 +14760,28 @@ img.r-rotate {
 .live-casino-list .nav-link-active {
   background: #285e9494;
   color: white;
+}
+
+@media only screen and (max-width: 767px) {
+  .casino-list-images {
+    flex-direction: column;
+    margin-top: 0;
+  }
+  .live-casino-list {
+    min-width: 100%;
+    max-width: 100%;
+  }
+  .live-casino-list .nav-pills {
+    display: flex;
+    overflow-x: scroll;
+  }
+  .filtered-content {
+    margin-left: 0px !important;
+  }
+  .image-container {
+    padding-left: 8px;
+  }
+  .tabs {
+    overflow-x: scroll;
+  }
 }
