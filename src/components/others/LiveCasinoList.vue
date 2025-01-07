@@ -37,6 +37,8 @@ export default {
         setActive(name) {
             this.selectedOption = name
             this.filteredData = this.livecasinolist.filter((data) => data.name === name)
+
+
         }
     }
 };
