@@ -2,18 +2,11 @@
   <div class="casino-list-images">
     <div class="live-casino-list">
       <ul class="nav-pills">
-        <li
-          class="nav-item"
-          v-for="(live, index) in livecasinolist"
-          :key="index"
-        >
-          <span
-            @click="setActive(live.name)"
-            :class="[
-              'nav-link',
-              selectedOption === live.name ? 'nav-link-active' : '',
-            ]"
-          >
+        <li class="nav-item" v-for="(live, index) in livecasinolist" :key="index">
+          <span @click="setActive(live.name)" :class="[
+            'nav-link',
+            selectedOption === live.name ? 'nav-link-active' : '',
+          ]">
             {{ live.name }}
           </span>
         </li>
@@ -23,24 +16,15 @@
     <!-- Tabs for subCasinoGames -->
     <div v-if="filteredData.length" class="filtered-content">
       <div class="tabs">
-        <span
-          v-for="(casino, index) in filteredData[0].subCasinoGames"
-          :key="index"
-          class="tab"
-          @click="setActiveTab(casino.name)"
-          :class="{ active: activeTab === casino.name }"
-        >
+        <span v-for="(casino, index) in filteredData[0].subCasinoGames" :key="index" class="tab"
+          @click="setActiveTab(casino.name)" :class="{ active: activeTab === casino.name }">
           {{ casino.name }}
         </span>
       </div>
       <!-- Images for active tab -->
       <div v-if="activeTab" class="image-container">
-        <div
-          v-for="(game, index) in getActiveCasinoGames"
-          :key="index"
-          class="image-box"
-          :style="{ backgroundImage: `url(${game.image})` }"
-        ></div>
+        <div v-for="(game, index) in getActiveCasinoGames" :key="index" class="image-box"
+          :style="{ backgroundImage: `url(${game.image})` }"></div>
       </div>
     </div>
   </div>
