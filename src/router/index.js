@@ -25,6 +25,12 @@ import Teen33Component from "@/views/casino/teen33.vue";
 import Teen32Component from "@/views/casino/teen32.vue";
 import TeenComponent from "@/views/casino/teen.vue";
 import Teen20Component from "@/views/casino/teen20.vue";
+import FortuneBarishalRangpurRiders from "@/components/cricket-games/Fortune-Barishal-Rangpur-Riders.vue";
+import MelbourneStarsSydneySixers from "@/components/cricket-games/Melbourne-Stars-Sydney-Sixers.vue";
+import PutintsevaDiShnaider from "@/components/tennis-games/Putintseva-Di-Shnaider.vue";
+import MariaHerazoGonzalezMinLiu from "@/components/tennis-games/MariaHerazoGonzalezMinLiu.vue";
+import NamDinhBinhDuong from "@/components/football-games/NamDinhBinhDuong.vue";
+import ErzurumBBGoztepe from "@/components/football-games/ErzurumBBGoztepe.vue";
 
 // Define routes
 const routes = [
@@ -39,10 +45,10 @@ const routes = [
   { path: "/games/:name/:routeParam", component: HeaderGameRender },
   { path: "/casino/live-casino-list", component: LiveCasino },
   { path: "/casino/Teen20CGame", component: Teen20CGameComponent },
-  { path: "/casino/Btable2Game", component: Btable2GameComponent },
-  { path: "/casino/OurRoullete", component: OurRoulleteComponent },
-  { path: "/casino/superover3", component: SuperOver3Component },
-  { path: "/casino/goal", component: GoalComponent },
+  { path: "/casino/Btable2Game", component: Btable2GameComponent }, // Marked
+  { path: "/casino/OurRoullete", component: OurRoulleteComponent }, // Marked
+  { path: "/casino/superover3", component: SuperOver3Component }, // Marked
+  { path: "/casino/goal", component: GoalComponent }, // Marked
   { path: "/casino/ab4", component: AB4Component },
   { path: "/casino/lucky15", component: Lucky15Component },
   { path: "/casino/superover2", component: Superover2 },
@@ -54,6 +60,30 @@ const routes = [
   { path: "/casino/teen", component: TeenComponent },
   { path: "/casino/teen20", component: Teen20Component },
   { path: "/casino/sicbo", component: SicboComponent },
+  {
+    path: "/cricket/860740296",
+    component: FortuneBarishalRangpurRiders,
+  },
+  {
+    path: "/cricket/860734296",
+    component: MelbourneStarsSydneySixers,
+  },
+  {
+    path: "/tennis/741096639",
+    component: MariaHerazoGonzalezMinLiu,
+  },
+  {
+    path: "/tennis/870247821",
+    component: PutintsevaDiShnaider,
+  },
+  {
+    path: "/football/494423471",
+    component: NamDinhBinhDuong,
+  },
+  {
+    path: "/football/558386227",
+    component: ErzurumBBGoztepe,
+  },
 ];
 
 // Create and configure the router

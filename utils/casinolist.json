@@ -3,28 +3,28 @@
     "category": "Roulette",
     "name": "Unique Roulette",
     "image": "https://dataobj.ecoassetsservice.com/casino-icons/lc/ourroullete.jpg",
-    "link": "#"
+    "link": "/casino/OurRoullete"
   },
 
   {
     "category": "Sports",
     "name": "Mini Superover",
     "image": "https://dataobj.ecoassetsservice.com/casino-icons/lc/superover3.jpg",
-    "link": "#"
+    "link": "/casino/superover3"
   },
 
   {
     "category": "Sports",
     "name": "Goal",
     "image": "https://dataobj.ecoassetsservice.com/casino-icons/lc/goal.jpg",
-    "link": "#"
+    "link": "/casino/goal"
   },
 
   {
     "category": "Andar Bahar",
     "name": "ANDAR BAHAR 150 cards",
     "image": "https://dataobj.ecoassetsservice.com/casino-icons/lc/ab4.jpg",
-    "link": "#"
+    "link": "/casino/ab4"
   },
 
   {
@@ -32,13 +32,13 @@
     "category": "Lucky 7",
     "name": "Lucky 15",
     "image": "https://dataobj.ecoassetsservice.com/casino-icons/lc/lucky15.jpg",
-    "link": "#"
+    "link": "/casino/lucky15"
   },
 
   {
     "name": "Super Over2",
     "image": "https://dataobj.ecoassetsservice.com/casino-icons/lc/superover2.jpg",
-    "link": "#"
+    "link": "/casino/superover2"
   },
 
   {
@@ -46,7 +46,7 @@
     "category": "Teenpatti",
     "name": "Queen Top Open Teenpatti",
     "image": "https://dataobj.ecoassetsservice.com/casino-icons/lc/teen41.jpg",
-    "link": "#"
+    "link": "/casino/teen41"
   },
 
   {
@@ -54,21 +54,21 @@
     "category": "Teenpatti",
     "name": "Jack Top Open Teenpatti",
     "image": "https://dataobj.ecoassetsservice.com/casino-icons/lc/teen42.jpg",
-    "link": "#"
+    "link": "/casino/teen42"
   },
 
   {
     "category": "Roulette",
     "name": "Roulette",
     "image": "https://dataobj.ecoassetsservice.com/casino-icons/lc/roulette3.jpg",
-    "link": "#"
+    "link": ""
   },
 
   {
     "category": "Others",
     "name": "Sic Bo2",
     "image": "https://dataobj.ecoassetsservice.com/casino-icons/lc/sicbo2.jpg",
-    "link": "#"
+    "link": "/casino/sicbo2"
   },
 
   {
@@ -83,14 +83,14 @@
     "category": "Teenpatti",
     "name": "Instant Teenpatti 3.0",
     "image": "https://dataobj.ecoassetsservice.com/casino-icons/lc/teen33.jpg",
-    "link": "#"
+    "link": "/casino/teen33"
   },
 
   {
     "category": "Others",
     "name": "Sic Bo",
     "image": "https://dataobj.ecoassetsservice.com/casino-icons/lc/sicbo.jpg",
-    "link": "#"
+    "link": "/casino/sicbo"
   },
 
   {
@@ -105,7 +105,7 @@
     "category": "Teenpatti",
     "name": "Instant Teenpatti 2.0",
     "image": "https://dataobj.ecoassetsservice.com/casino-icons/lc/teen32.jpg",
-    "link": "#"
+    "link": "/casino/teen32"
   },
 
   {
@@ -120,7 +120,7 @@
     "category": "Teenpatti",
     "name": "Teenpatti 1-day",
     "image": "https://dataobj.ecoassetsservice.com/casino-icons/lc/teen.jpg",
-    "link": "#"
+    "link": "/casino/teen"
   },
 
   {
@@ -288,7 +288,7 @@
     "category": "Bollywood",
     "name": "Bollywood Casino",
     "image": "https://dataobj.ecoassetsservice.com/casino-icons/lc/btable.jpg",
-    "link": "#"
+    "link": "/casino/Btable2Game"
   },
   {
     "category": "Lottery",
@@ -393,7 +393,7 @@
     "category": "Teenpatti",
     "name": "20-20 Teenpatti B",
     "image": "https://dataobj.ecoassetsservice.com/casino-icons/lc/teen20b.jpg",
-    "link": "#"
+    "link": "/casino/teen20"
   },
   {
     "category": "Others",
