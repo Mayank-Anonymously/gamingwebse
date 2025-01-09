@@ -1960,6 +1960,7 @@ tr {
   position: relative;
   pointer-events: none;
   cursor: none;
+  width: 100%;
 }
 
 .suspended-box::before {
@@ -4542,7 +4543,7 @@ tr {
 .casino-table-header,
 .casino-table-row {
   display: flex;
-  flex-wrap: wrap;
+  /* flex-wrap: wrap; */
   justify-content: space-between;
   border-bottom: 1px solid var(--table-border);
 }
@@ -8238,7 +8239,7 @@ img.r-rotate {
 
 .sicbo-middle-top-row {
   display: flex;
-  flex-wrap: wrap;
+  /* flex-wrap: wrap; */
   justify-content: space-between;
   width: 100%;
 }
@@ -13557,6 +13558,9 @@ img.r-rotate {
   .detail-page .center-container {
     width: 100%;
   }
+  .board-cell-in .rate {
+    font-size: 13px;
+  }
 
   .game-header {
     margin-top: 8px;
@@ -14311,6 +14315,9 @@ img.r-rotate {
     margin: 0 auto;
   }
 
+  .ball-by-ball .fancy-min-max-box {
+    width: 80px;
+  }
   .duskadum .casino-table-header,
   .duskadum .casino-table-body {
     border-left: 1px solid var(--table-border);
@@ -14784,4 +14791,13 @@ img.r-rotate {
   .tabs {
     overflow-x: scroll;
   }
+}
+
+/* // casino game table  */
+
+.board-cell-in .rate {
+  position: absolute;
+  line-height: 14px;
+  font-size: 14px;
+  bottom: 2px;
 }
